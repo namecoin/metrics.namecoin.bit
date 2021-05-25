@@ -1,0 +1,2924 @@
+{
+    "F2Pool": {
+        "coinbase_hex": [
+            "e4b883e5bda9e7a59ee4bb99e9b1bc"
+        ],
+        "coinbase": [
+            "F2Pool"
+        ],
+        "address": [
+            "1KFHE7w8BhaENAswwryaoccDb6qcT6DbYY"
+        ],
+        "notes": "Another coinbase is 'fabe6d6d' in hex (\ud83d\udc1f) and 'Mined by' in ascii, but I think the address covers these coinbase signatures.",
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "Slush": {
+        "coinbase": [
+            "slush"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "AntPool": {
+        "coinbase": [
+            "AntPool"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "poolin.com": {
+        "coinbase": [
+            "poolin.com"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "BTC.COM": {
+        "coinbase": [
+            "BTC.COM",
+            "BTC.com",
+            "/BTCcom/"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "ViaBTC": {
+        "coinbase": [
+            "ViaBTC",
+            "viabtc.com"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "Bitfury": {
+        "coinbase": [
+            "Bitfury",
+            "BitFury"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "BTC.TOP": {
+        "coinbase": [
+            "BTC.TOP",
+            "E2M/BTCST"
+        ],
+        "notes": "E2M/BTCST is attributed by coin.dance",
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "Huobi": {
+        "coinbase": [
+            "HuoBi",
+            "Huobi",
+            "/one_more_mcd/"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "okpool": {
+        "coinbase": [
+            "okpool.top"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "Bixin": {
+        "coinbase": [
+            "Bixin"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "BitClub": {
+        "coinbase": [
+            "BitClub",
+            "BitClub Network"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "Bitcoin.com": {
+        "coinbase": [
+            "pool.bitcoin.com"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "KanoPool": {
+        "coinbase": [
+            "KanoPool"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "HummerPool": {
+        "coinbase": [
+            "HummerPool",
+            "Hummerpool"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "BTC Guild": {
+        "coinbase": [
+            "BTC Guild"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "BitMinter": {
+        "coinbase": [
+            "BitMinter"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "GHash.IO": {
+        "coinbase": [
+            "GHash.IO",
+            "ghash.io"
+        ],
+        "address": [
+            "1CjPR7Z5ZSyWk6WtXvSFgkptmpoi4UM9BC"
+        ],
+        "notes": "Doesn't always put 'GHash' in the coinbase. Need address to identify most blocks.",
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "50BTC.com": {
+        "coinbase": [
+            "50BTC.com"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "ASICMiner": {
+        "coinbase": [
+            "ASICMiner"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "Eligius": {
+        "coinbase": [
+            "Eligius"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "ozcoin": {
+        "coinbase": [
+            "ozcoin",
+            "ozco.in"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "HaoBTC": {
+        "coinbase": [
+            "HaoBTC"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "GBMiners": {
+        "coinbase": [
+            "mined by gbminers"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "1Hash": {
+        "coinbase": [
+            "1hash.com"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "BW Pool": {
+        "coinbase": [
+            "BW Pool",
+            "BWPool"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "BTCC": {
+        "coinbase": [
+            "BTCC"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "Go Green": {
+        "coinbase": [
+            "GBSB3P1"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "Batpool": {
+        "coinbase": [
+            "BATPOOL"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "EclipseMC": {
+        "coinbase": [
+            "EclipseMC",
+            "EMC"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "XBTC": {
+        "coinbase": [
+            "xbtc.exx.com&bw.com"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "KnCMiner": {
+        "coinbase": [
+            "KnCMiner"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "TangPool": {
+        "coinbase": [
+            "TangPool",
+            "Tangpool"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "ckpool": {
+        "coinbase": [
+            "ckpool"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "megabigpower.com": {
+        "coinbase": [
+            "megabigpower.com"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "Polmine": {
+        "coinbase": [
+            "by polmine.pl"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "BitcoinAffiliateNetwork": {
+        "coinbase": [
+            "mining.bitcoinaffiliatenetwork.com"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "Bravo Mining": {
+        "coinbase": [
+            "bravo-mining"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "BCMonster": {
+        "coinbase": [
+            "BCMonster"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "Bitcoin-India": {
+        "coinbase": [
+            "Bitcoin-India"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "ConnectBTC": {
+        "coinbase": [
+            "ConnectBTC"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "Phash.IO": {
+        "coinbase": [
+            "phash.io"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "Phash.CN": {
+        "coinbase": [
+            "phash.cn"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "MMPool": {
+        "coinbase": [
+            "mmpool",
+            "mkalinin.ru"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "nmcbit.com": {
+        "coinbase": [
+            "nmcbit.com"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "Triplemining.com": {
+        "coinbase": [
+            "Triplemining.com",
+            "triplemining"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "bitclockers": {
+        "coinbase": [
+            "bitclockers"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "mmBitLC": {
+        "coinbase": [
+            "mmBitLC",
+            "BitLC"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "tigerpool.net": {
+        "coinbase": [
+            "tigerpool.net"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "SockThing": {
+        "coinbase": [
+            "SockThing",
+            "SOCK"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "CoinLab": {
+        "coinbase": [
+            "CoinLab"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "Pierce and Paul": {
+        "coinbase": [
+            "For Pierce and Paul"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "Alydian": {
+        "coinbase": [
+            "Alydian"
+        ],
+        "notes": "Alydian53350635211049",
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "MaxBTC": {
+        "coinbase": [
+            "MaxBTC"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "DigitalBTC": {
+        "coinbase": [
+            "agentD"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "BTPOOL": {
+        "coinbase": [
+            "BTPOOL"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "Canoe": {
+        "coinbase": [
+            "CANOE",
+            "canoepool",
+            "/1THash/"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "DCEX": {
+        "coinbase": [
+            "DCEX"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "DPOOL.TOP": {
+        "coinbase": [
+            "DPOOL.TOP"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "58coin.com": {
+        "coinbase": [
+            "58coin.com"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "Bitcoin-Russia": {
+        "coinbase": [
+            "Bitcoin-Russia.ru"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "Helix": {
+        "coinbase": [
+            "Helix"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "Sigmapool": {
+        "coinbase": [
+            "SigmaPool.com",
+            "Sigmapool.com"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "BITFARMS": {
+        "coinbase": [
+            "BITFARMS"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "SecretSuperstar": {
+        "coinbase": [
+            "SecretSuperstar"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "Rawpool.com": {
+        "coinbase": [
+            "Rawpool.com"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "poolserverj": {
+        "coinbase": [
+            "poolserverj"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "8baochi.com": {
+        "coinbase": [
+            "8baochi.com"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "Binance": {
+        "coinbase": [
+            "binance.com",
+            "/Binance",
+            "`binance/"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "OKKONG": {
+        "coinbase": [
+            "/hash.okkong.com/"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "SpiderPool": {
+        "coinbase": [
+            "SpiderPool"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "TMSPool": {
+        "coinbase": [
+            "/TMSPOOL/"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "OKExPool": {
+        "coinbase": [
+            "/www.okex.com/"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "1THash&58COIN": {
+        "coinbase": [
+            "/1THash&58COIN/"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "Yourbtc.net": {
+        "coinbase": [
+            "yourbtc.net"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "Mining-Dutch": {
+        "coinbase": [
+            "/Mining-Dutch"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "NovaBlock": {
+        "coinbase": [
+            "/NovaBlock/"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "Prohashing": {
+        "coinbase": [
+            "/prohashing.com"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "simplecoin.us": {
+        "coinbase": [
+            "simplecoin"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "MiningCity": {
+        "coinbase": [
+            "MiningCity"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "Default zone117x/NodeStratum": {
+        "coinbase": [
+            "/nodeStratum/"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "BitDeer": {
+        "coinbase": [
+            "/Bitdeer",
+            "/bitdeer/"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "Foundry USA Pool": {
+        "coinbase": [
+            "/Foundry USA Pool #dropgold/"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "LuBian": {
+        "coinbase": [
+            "/lubian.com/"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "SBI Crypto": {
+        "coinbase": [
+            "/SBICrypto.com Pool/"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "Zulupool": {
+        "coinbase": [
+            "ZULUPooL"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "TogetherPool": {
+        "coinbase": [
+            "TogetherPool"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "solomining.io": {
+        "coinbase": [
+            "solomining.io"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "KnoxPool": {
+        "coinbase": [
+            "/KnoxPool/"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "BTCPool": {
+        "coinbase": [
+            "BTCPool"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "Bytepool": {
+        "coinbase": [
+            "bytepool.com/"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "Ukrpool": {
+        "coinbase": [
+            "/Ukrpool.com/"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "pooin.com": {
+        "coinbase": [
+            "/pooin.com/"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "Minerium": {
+        "coinbase": [
+            "/Minerium.com/"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "ArkPool": {
+        "coinbase": [
+            "/ArkPool/"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "bpool": {
+        "coinbase": [
+            "/bpool/"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "a1bitcoinpool.com": {
+        "coinbase": [
+            "a1bitcoinpool.com"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "zpool": {
+        "coinbase": [
+            "www.zpool.ca"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "Give Me Coins": {
+        "coinbase": [
+            "Mined at GIVE-ME-COINS.com"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "Mara Pool": {
+        "coinbase": [
+            "MARA Pool - OFAC Compliant Block"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "TAAL": {
+        "coinbase": [
+            "/taal.com/"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "GodPool": {
+        "coinbase": [
+            "/GodPool/"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "Unknown": {
+        "notes": "Just a spare field, comes in handy in some scripts.",
+        "count_period": 0,
+        "count_total": 19330,
+        "work_period": 0.0,
+        "order": 1,
+        "color": "#c16aa1"
+    },
+    "Unknown-1a0": {
+        "count_period": 0,
+        "count_total": 18258,
+        "work_period": 0.0,
+        "order": 2,
+        "color": "#e8db26"
+    },
+    "Unknown-1c0": {
+        "count_period": 0,
+        "count_total": 10,
+        "work_period": 0.0,
+        "order": 3,
+        "color": "#7acd3a"
+    },
+    "Eligius-1a0": {
+        "count_period": 0,
+        "count_total": 7477,
+        "work_period": 0.0,
+        "order": 4,
+        "color": "#28a761"
+    },
+    "BitMinter-1a0": {
+        "count_period": 0,
+        "count_total": 14289,
+        "work_period": 0.0,
+        "order": 5,
+        "color": "#2f14ac"
+    },
+    "nmcbit.com-1a0": {
+        "count_period": 0,
+        "count_total": 237,
+        "work_period": 0.0,
+        "order": 6,
+        "color": "#90001c"
+    },
+    "BTC Guild-1a0": {
+        "count_period": 0,
+        "count_total": 30436,
+        "work_period": 0.0,
+        "order": 7,
+        "color": "#361ae7"
+    },
+    "Yourbtc.net-1a0": {
+        "count_period": 0,
+        "count_total": 598,
+        "work_period": 0.0,
+        "order": 8,
+        "color": "#2b6628"
+    },
+    "Unknown-1b7": {
+        "count_period": 0,
+        "count_total": 2,
+        "work_period": 0.0,
+        "order": 9,
+        "color": "#3d354d"
+    },
+    "simplecoin.us-1a0": {
+        "count_period": 0,
+        "count_total": 105,
+        "work_period": 0.0,
+        "order": 10,
+        "color": "#514775"
+    },
+    "Unknown-1b5": {
+        "count_period": 0,
+        "count_total": 1,
+        "work_period": 0.0,
+        "order": 11,
+        "color": "#fa5536"
+    },
+    "ozcoin-1a0": {
+        "count_period": 0,
+        "count_total": 6104,
+        "work_period": 0.0,
+        "order": 12,
+        "color": "#181e3b"
+    },
+    "Unknown-1b0": {
+        "count_period": 0,
+        "count_total": 25,
+        "work_period": 0.0,
+        "order": 13,
+        "color": "#49c460"
+    },
+    "a1bitcoinpool.com-1a0": {
+        "count_period": 0,
+        "count_total": 4,
+        "work_period": 0.0,
+        "order": 14,
+        "color": "#361496"
+    },
+    "Slush-1a0": {
+        "count_period": 0,
+        "count_total": 12035,
+        "work_period": 0.0,
+        "order": 15,
+        "color": "#e091e7"
+    },
+    "EclipseMC-1a0": {
+        "count_period": 0,
+        "count_total": 10322,
+        "work_period": 0.0,
+        "order": 16,
+        "color": "#6582fb"
+    },
+    "poolserverj-1a0": {
+        "count_period": 0,
+        "count_total": 313,
+        "work_period": 0.0,
+        "order": 17,
+        "color": "#7c81ee"
+    },
+    "MaxBTC-1a0": {
+        "count_period": 0,
+        "count_total": 1266,
+        "work_period": 0.0,
+        "order": 18,
+        "color": "#5be07f"
+    },
+    "Triplemining.com-1a0": {
+        "count_period": 0,
+        "count_total": 832,
+        "work_period": 0.0,
+        "order": 19,
+        "color": "#91a3a3"
+    },
+    "bitclockers-1a0": {
+        "count_period": 0,
+        "count_total": 55,
+        "work_period": 0.0,
+        "order": 20,
+        "color": "#7f3b8c"
+    },
+    "SockThing-1a0": {
+        "count_period": 0,
+        "count_total": 1896,
+        "work_period": 0.0,
+        "order": 21,
+        "color": "#0d9560"
+    },
+    "F2Pool-1b0": {
+        "count_period": 0,
+        "count_total": 74,
+        "work_period": 0.0,
+        "order": 22,
+        "color": "#590d9c"
+    },
+    "F2Pool-1a0": {
+        "count_period": 0,
+        "count_total": 956,
+        "work_period": 0.0,
+        "order": 23,
+        "color": "#6b3876"
+    },
+    "ASICMiner-1a0": {
+        "count_period": 0,
+        "count_total": 524,
+        "work_period": 0.0,
+        "order": 24,
+        "color": "#6f28df"
+    },
+    "BTC Guild-197": {
+        "count_period": 0,
+        "count_total": 1309,
+        "work_period": 0.0,
+        "order": 25,
+        "color": "#a3fec2"
+    },
+    "F2Pool-197": {
+        "count_period": 0,
+        "count_total": 128,
+        "work_period": 0.0,
+        "order": 26,
+        "color": "#db99fd"
+    },
+    "EclipseMC-197": {
+        "count_period": 0,
+        "count_total": 288,
+        "work_period": 0.0,
+        "order": 27,
+        "color": "#b5624b"
+    },
+    "Eligius-197": {
+        "count_period": 0,
+        "count_total": 205,
+        "work_period": 0.0,
+        "order": 28,
+        "color": "#e4e64c"
+    },
+    "Unknown-197": {
+        "count_period": 0,
+        "count_total": 39,
+        "work_period": 0.0,
+        "order": 29,
+        "color": "#81f1bb"
+    },
+    "SockThing-197": {
+        "count_period": 0,
+        "count_total": 58,
+        "work_period": 0.0,
+        "order": 30,
+        "color": "#ca196a"
+    },
+    "BitMinter-197": {
+        "count_period": 0,
+        "count_total": 248,
+        "work_period": 0.0,
+        "order": 31,
+        "color": "#1c3af6"
+    },
+    "GHash.IO-197": {
+        "count_period": 0,
+        "count_total": 94,
+        "work_period": 0.0,
+        "order": 32,
+        "color": "#578717"
+    },
+    "Triplemining.com-197": {
+        "count_period": 0,
+        "count_total": 4,
+        "work_period": 0.0,
+        "order": 33,
+        "color": "#f4066e"
+    },
+    "BTC Guild-195": {
+        "count_period": 0,
+        "count_total": 1106,
+        "work_period": 0.0,
+        "order": 34,
+        "color": "#4a4a37"
+    },
+    "GHash.IO-195": {
+        "count_period": 0,
+        "count_total": 416,
+        "work_period": 0.0,
+        "order": 35,
+        "color": "#97abdf"
+    },
+    "Eligius-195": {
+        "count_period": 0,
+        "count_total": 129,
+        "work_period": 0.0,
+        "order": 36,
+        "color": "#e2655c"
+    },
+    "F2Pool-195": {
+        "count_period": 0,
+        "count_total": 121,
+        "work_period": 0.0,
+        "order": 37,
+        "color": "#fa6049"
+    },
+    "SockThing-195": {
+        "count_period": 0,
+        "count_total": 42,
+        "work_period": 0.0,
+        "order": 38,
+        "color": "#871188"
+    },
+    "EclipseMC-195": {
+        "count_period": 0,
+        "count_total": 203,
+        "work_period": 0.0,
+        "order": 39,
+        "color": "#fdeafd"
+    },
+    "BitMinter-195": {
+        "count_period": 0,
+        "count_total": 152,
+        "work_period": 0.0,
+        "order": 40,
+        "color": "#47dda2"
+    },
+    "Unknown-195": {
+        "count_period": 0,
+        "count_total": 24,
+        "work_period": 0.0,
+        "order": 41,
+        "color": "#02e3c5"
+    },
+    "Slush-195": {
+        "count_period": 0,
+        "count_total": 1,
+        "work_period": 0.0,
+        "order": 42,
+        "color": "#3ff1ab"
+    },
+    "BTC Guild-194": {
+        "count_period": 0,
+        "count_total": 1031,
+        "work_period": 0.0,
+        "order": 43,
+        "color": "#ce43f4"
+    },
+    "Eligius-194": {
+        "count_period": 0,
+        "count_total": 106,
+        "work_period": 0.0,
+        "order": 44,
+        "color": "#e52de8"
+    },
+    "F2Pool-194": {
+        "count_period": 0,
+        "count_total": 110,
+        "work_period": 0.0,
+        "order": 45,
+        "color": "#c8899a"
+    },
+    "EclipseMC-194": {
+        "count_period": 0,
+        "count_total": 146,
+        "work_period": 0.0,
+        "order": 46,
+        "color": "#246fdc"
+    },
+    "BitMinter-194": {
+        "count_period": 0,
+        "count_total": 103,
+        "work_period": 0.0,
+        "order": 47,
+        "color": "#b54dc5"
+    },
+    "GHash.IO-194": {
+        "count_period": 0,
+        "count_total": 598,
+        "work_period": 0.0,
+        "order": 48,
+        "color": "#d82cb4"
+    },
+    "SockThing-194": {
+        "count_period": 0,
+        "count_total": 44,
+        "work_period": 0.0,
+        "order": 49,
+        "color": "#531180"
+    },
+    "Unknown-194": {
+        "count_period": 0,
+        "count_total": 27,
+        "work_period": 0.0,
+        "order": 50,
+        "color": "#fb70a8"
+    },
+    "Triplemining.com-194": {
+        "count_period": 0,
+        "count_total": 3,
+        "work_period": 0.0,
+        "order": 51,
+        "color": "#9f4de4"
+    },
+    "Slush-194": {
+        "count_period": 0,
+        "count_total": 1,
+        "work_period": 0.0,
+        "order": 52,
+        "color": "#da7076"
+    },
+    "GHash.IO-193": {
+        "count_period": 0,
+        "count_total": 466,
+        "work_period": 0.0,
+        "order": 53,
+        "color": "#ff88d5"
+    },
+    "BTC Guild-193": {
+        "count_period": 0,
+        "count_total": 1123,
+        "work_period": 0.0,
+        "order": 54,
+        "color": "#37d9a0"
+    },
+    "BitMinter-193": {
+        "count_period": 0,
+        "count_total": 88,
+        "work_period": 0.0,
+        "order": 55,
+        "color": "#eaf51b"
+    },
+    "Eligius-193": {
+        "count_period": 0,
+        "count_total": 87,
+        "work_period": 0.0,
+        "order": 56,
+        "color": "#dc6885"
+    },
+    "F2Pool-193": {
+        "count_period": 0,
+        "count_total": 62,
+        "work_period": 0.0,
+        "order": 57,
+        "color": "#8ced51"
+    },
+    "EclipseMC-193": {
+        "count_period": 0,
+        "count_total": 131,
+        "work_period": 0.0,
+        "order": 58,
+        "color": "#653cc3"
+    },
+    "Triplemining.com-193": {
+        "count_period": 0,
+        "count_total": 6,
+        "work_period": 0.0,
+        "order": 59,
+        "color": "#bd98b3"
+    },
+    "SockThing-193": {
+        "count_period": 0,
+        "count_total": 33,
+        "work_period": 0.0,
+        "order": 60,
+        "color": "#68b97c"
+    },
+    "Unknown-193": {
+        "count_period": 0,
+        "count_total": 20,
+        "work_period": 0.0,
+        "order": 61,
+        "color": "#d18b29"
+    },
+    "BTC Guild-192": {
+        "count_period": 0,
+        "count_total": 1204,
+        "work_period": 0.0,
+        "order": 62,
+        "color": "#7915fe"
+    },
+    "BitMinter-192": {
+        "count_period": 0,
+        "count_total": 90,
+        "work_period": 0.0,
+        "order": 63,
+        "color": "#3e4209"
+    },
+    "GHash.IO-192": {
+        "count_period": 0,
+        "count_total": 513,
+        "work_period": 0.0,
+        "order": 64,
+        "color": "#bc8fd3"
+    },
+    "Eligius-192": {
+        "count_period": 0,
+        "count_total": 87,
+        "work_period": 0.0,
+        "order": 65,
+        "color": "#343ad8"
+    },
+    "EclipseMC-192": {
+        "count_period": 0,
+        "count_total": 141,
+        "work_period": 0.0,
+        "order": 66,
+        "color": "#4d0660"
+    },
+    "F2Pool-192": {
+        "count_period": 0,
+        "count_total": 32,
+        "work_period": 0.0,
+        "order": 67,
+        "color": "#502567"
+    },
+    "SockThing-192": {
+        "count_period": 0,
+        "count_total": 23,
+        "work_period": 0.0,
+        "order": 68,
+        "color": "#12f74c"
+    },
+    "Triplemining.com-192": {
+        "count_period": 0,
+        "count_total": 5,
+        "work_period": 0.0,
+        "order": 69,
+        "color": "#0ecd2b"
+    },
+    "Unknown-192": {
+        "count_period": 0,
+        "count_total": 20,
+        "work_period": 0.0,
+        "order": 70,
+        "color": "#1a3b57"
+    },
+    "Pierce and Paul-192": {
+        "count_period": 0,
+        "count_total": 16,
+        "work_period": 0.0,
+        "order": 71,
+        "color": "#32a569"
+    },
+    "BTC Guild-191": {
+        "count_period": 0,
+        "count_total": 2663,
+        "work_period": 0.0,
+        "order": 72,
+        "color": "#2e9909"
+    },
+    "GHash.IO-191": {
+        "count_period": 0,
+        "count_total": 1609,
+        "work_period": 0.0,
+        "order": 73,
+        "color": "#2daa1e"
+    },
+    "Eligius-191": {
+        "count_period": 0,
+        "count_total": 585,
+        "work_period": 0.0,
+        "order": 74,
+        "color": "#ac94e7"
+    },
+    "Pierce and Paul-191": {
+        "count_period": 0,
+        "count_total": 331,
+        "work_period": 0.0,
+        "order": 75,
+        "color": "#bc3ac2"
+    },
+    "EclipseMC-191": {
+        "count_period": 0,
+        "count_total": 220,
+        "work_period": 0.0,
+        "order": 76,
+        "color": "#859026"
+    },
+    "BitMinter-191": {
+        "count_period": 0,
+        "count_total": 460,
+        "work_period": 0.0,
+        "order": 77,
+        "color": "#ceff90"
+    },
+    "Unknown-191": {
+        "count_period": 0,
+        "count_total": 152,
+        "work_period": 0.0,
+        "order": 78,
+        "color": "#9207db"
+    },
+    "SockThing-191": {
+        "count_period": 0,
+        "count_total": 37,
+        "work_period": 0.0,
+        "order": 79,
+        "color": "#50070d"
+    },
+    "F2Pool-191": {
+        "count_period": 0,
+        "count_total": 130,
+        "work_period": 0.0,
+        "order": 80,
+        "color": "#27bca5"
+    },
+    "Triplemining.com-191": {
+        "count_period": 0,
+        "count_total": 9,
+        "work_period": 0.0,
+        "order": 81,
+        "color": "#cf2316"
+    },
+    "megabigpower.com-191": {
+        "count_period": 0,
+        "count_total": 1,
+        "work_period": 0.0,
+        "order": 82,
+        "color": "#13f6ad"
+    },
+    "Unknown-1a5": {
+        "count_period": 0,
+        "count_total": 1,
+        "work_period": 0.0,
+        "order": 83,
+        "color": "#e64469"
+    },
+    "Unknown-1a7": {
+        "count_period": 0,
+        "count_total": 4,
+        "work_period": 0.0,
+        "order": 84,
+        "color": "#dfd9da"
+    },
+    "BTC Guild-190": {
+        "count_period": 0,
+        "count_total": 9452,
+        "work_period": 0.0,
+        "order": 85,
+        "color": "#78fb6e"
+    },
+    "GHash.IO-190": {
+        "count_period": 0,
+        "count_total": 12051,
+        "work_period": 0.0,
+        "order": 86,
+        "color": "#6841b4"
+    },
+    "BitMinter-190": {
+        "count_period": 0,
+        "count_total": 1306,
+        "work_period": 0.0,
+        "order": 87,
+        "color": "#0cae0c"
+    },
+    "Eligius-190": {
+        "count_period": 0,
+        "count_total": 5317,
+        "work_period": 0.0,
+        "order": 88,
+        "color": "#44d9ed"
+    },
+    "Pierce and Paul-190": {
+        "count_period": 0,
+        "count_total": 386,
+        "work_period": 0.0,
+        "order": 89,
+        "color": "#92e34f"
+    },
+    "EclipseMC-190": {
+        "count_period": 0,
+        "count_total": 567,
+        "work_period": 0.0,
+        "order": 90,
+        "color": "#c7c00c"
+    },
+    "F2Pool-190": {
+        "count_period": 0,
+        "count_total": 4224,
+        "work_period": 0.0,
+        "order": 91,
+        "color": "#6d034f"
+    },
+    "SockThing-190": {
+        "count_period": 0,
+        "count_total": 57,
+        "work_period": 0.0,
+        "order": 92,
+        "color": "#58c6ec"
+    },
+    "Unknown-190": {
+        "count_period": 0,
+        "count_total": 903,
+        "work_period": 0.0,
+        "order": 93,
+        "color": "#aeff92"
+    },
+    "Triplemining.com-190": {
+        "count_period": 0,
+        "count_total": 19,
+        "work_period": 0.0,
+        "order": 94,
+        "color": "#06e18e"
+    },
+    "Give Me Coins-190": {
+        "count_period": 0,
+        "count_total": 9,
+        "work_period": 0.0,
+        "order": 95,
+        "color": "#dabdd1"
+    },
+    "Unknown-1a3": {
+        "count_period": 0,
+        "count_total": 2,
+        "work_period": 0.0,
+        "order": 96,
+        "color": "#e6bb48"
+    },
+    "Unknown-1a1": {
+        "count_period": 0,
+        "count_total": 5,
+        "work_period": 0.0,
+        "order": 97,
+        "color": "#b2af97"
+    },
+    "Polmine-190": {
+        "count_period": 0,
+        "count_total": 47,
+        "work_period": 0.0,
+        "order": 98,
+        "color": "#9d2986"
+    },
+    "MMPool-190": {
+        "count_period": 0,
+        "count_total": 6,
+        "work_period": 0.0,
+        "order": 99,
+        "color": "#f62931"
+    },
+    "F2Pool-187": {
+        "count_period": 0,
+        "count_total": 345,
+        "work_period": 0.0,
+        "order": 100,
+        "color": "#7c7731"
+    },
+    "GHash.IO-187": {
+        "count_period": 0,
+        "count_total": 926,
+        "work_period": 0.0,
+        "order": 101,
+        "color": "#b9d388"
+    },
+    "Eligius-187": {
+        "count_period": 0,
+        "count_total": 222,
+        "work_period": 0.0,
+        "order": 102,
+        "color": "#f20796"
+    },
+    "Polmine-187": {
+        "count_period": 0,
+        "count_total": 36,
+        "work_period": 0.0,
+        "order": 103,
+        "color": "#904b27"
+    },
+    "BTC Guild-187": {
+        "count_period": 0,
+        "count_total": 377,
+        "work_period": 0.0,
+        "order": 104,
+        "color": "#7a4c73"
+    },
+    "EclipseMC-187": {
+        "count_period": 0,
+        "count_total": 27,
+        "work_period": 0.0,
+        "order": 105,
+        "color": "#29d043"
+    },
+    "BitMinter-187": {
+        "count_period": 0,
+        "count_total": 34,
+        "work_period": 0.0,
+        "order": 106,
+        "color": "#b53630"
+    },
+    "Unknown-187": {
+        "count_period": 0,
+        "count_total": 71,
+        "work_period": 0.0,
+        "order": 107,
+        "color": "#d96297"
+    },
+    "MMPool-187": {
+        "count_period": 0,
+        "count_total": 1,
+        "work_period": 0.0,
+        "order": 108,
+        "color": "#14ebb9"
+    },
+    "F2Pool-186": {
+        "count_period": 0,
+        "count_total": 359,
+        "work_period": 0.0,
+        "order": 109,
+        "color": "#453f0f"
+    },
+    "BTC Guild-186": {
+        "count_period": 0,
+        "count_total": 356,
+        "work_period": 0.0,
+        "order": 110,
+        "color": "#0c516d"
+    },
+    "GHash.IO-186": {
+        "count_period": 0,
+        "count_total": 940,
+        "work_period": 0.0,
+        "order": 111,
+        "color": "#0bf677"
+    },
+    "Unknown-186": {
+        "count_period": 0,
+        "count_total": 106,
+        "work_period": 0.0,
+        "order": 112,
+        "color": "#2decd2"
+    },
+    "Polmine-186": {
+        "count_period": 0,
+        "count_total": 39,
+        "work_period": 0.0,
+        "order": 113,
+        "color": "#a8b9fd"
+    },
+    "Eligius-186": {
+        "count_period": 0,
+        "count_total": 220,
+        "work_period": 0.0,
+        "order": 114,
+        "color": "#0d779b"
+    },
+    "BitMinter-186": {
+        "count_period": 0,
+        "count_total": 38,
+        "work_period": 0.0,
+        "order": 115,
+        "color": "#fb2cf2"
+    },
+    "EclipseMC-186": {
+        "count_period": 0,
+        "count_total": 24,
+        "work_period": 0.0,
+        "order": 116,
+        "color": "#72e9f0"
+    },
+    "MMPool-186": {
+        "count_period": 0,
+        "count_total": 4,
+        "work_period": 0.0,
+        "order": 117,
+        "color": "#cd09f1"
+    },
+    "Unknown-1a2": {
+        "count_period": 0,
+        "count_total": 3,
+        "work_period": 0.0,
+        "order": 118,
+        "color": "#b02b1a"
+    },
+    "F2Pool-185": {
+        "count_period": 0,
+        "count_total": 744,
+        "work_period": 0.0,
+        "order": 119,
+        "color": "#43b753"
+    },
+    "GHash.IO-185": {
+        "count_period": 0,
+        "count_total": 1882,
+        "work_period": 0.0,
+        "order": 120,
+        "color": "#5d6d15"
+    },
+    "Eligius-185": {
+        "count_period": 0,
+        "count_total": 368,
+        "work_period": 0.0,
+        "order": 121,
+        "color": "#496178"
+    },
+    "BTC Guild-185": {
+        "count_period": 0,
+        "count_total": 560,
+        "work_period": 0.0,
+        "order": 122,
+        "color": "#ce24cc"
+    },
+    "BitMinter-185": {
+        "count_period": 0,
+        "count_total": 73,
+        "work_period": 0.0,
+        "order": 123,
+        "color": "#a0a474"
+    },
+    "Polmine-185": {
+        "count_period": 0,
+        "count_total": 100,
+        "work_period": 0.0,
+        "order": 124,
+        "color": "#9e8cc6"
+    },
+    "EclipseMC-185": {
+        "count_period": 0,
+        "count_total": 34,
+        "work_period": 0.0,
+        "order": 125,
+        "color": "#311c02"
+    },
+    "Unknown-185": {
+        "count_period": 0,
+        "count_total": 170,
+        "work_period": 0.0,
+        "order": 126,
+        "color": "#6e4115"
+    },
+    "MMPool-185": {
+        "count_period": 0,
+        "count_total": 3,
+        "work_period": 0.0,
+        "order": 127,
+        "color": "#4695c1"
+    },
+    "Give Me Coins-185": {
+        "count_period": 0,
+        "count_total": 1,
+        "work_period": 0.0,
+        "order": 128,
+        "color": "#ea96d5"
+    },
+    "AntPool-185": {
+        "count_period": 0,
+        "count_total": 18,
+        "work_period": 0.0,
+        "order": 129,
+        "color": "#3c1c66"
+    },
+    "Unknown-184": {
+        "count_period": 0,
+        "count_total": 53,
+        "work_period": 0.0,
+        "order": 130,
+        "color": "#ae7ce2"
+    },
+    "GHash.IO-184": {
+        "count_period": 0,
+        "count_total": 1006,
+        "work_period": 0.0,
+        "order": 131,
+        "color": "#1a86a3"
+    },
+    "F2Pool-184": {
+        "count_period": 0,
+        "count_total": 461,
+        "work_period": 0.0,
+        "order": 132,
+        "color": "#27794c"
+    },
+    "EclipseMC-184": {
+        "count_period": 0,
+        "count_total": 19,
+        "work_period": 0.0,
+        "order": 133,
+        "color": "#0a79f2"
+    },
+    "Polmine-184": {
+        "count_period": 0,
+        "count_total": 55,
+        "work_period": 0.0,
+        "order": 134,
+        "color": "#f699bf"
+    },
+    "Eligius-184": {
+        "count_period": 0,
+        "count_total": 143,
+        "work_period": 0.0,
+        "order": 135,
+        "color": "#f3bcfd"
+    },
+    "BTC Guild-184": {
+        "count_period": 0,
+        "count_total": 224,
+        "work_period": 0.0,
+        "order": 136,
+        "color": "#455f78"
+    },
+    "BitMinter-184": {
+        "count_period": 0,
+        "count_total": 33,
+        "work_period": 0.0,
+        "order": 137,
+        "color": "#1383b3"
+    },
+    "AntPool-184": {
+        "count_period": 0,
+        "count_total": 64,
+        "work_period": 0.0,
+        "order": 138,
+        "color": "#a4ee63"
+    },
+    "MMPool-184": {
+        "count_period": 0,
+        "count_total": 3,
+        "work_period": 0.0,
+        "order": 139,
+        "color": "#0c9d36"
+    },
+    "GHash.IO-183": {
+        "count_period": 0,
+        "count_total": 2350,
+        "work_period": 0.0,
+        "order": 140,
+        "color": "#876c0b"
+    },
+    "F2Pool-183": {
+        "count_period": 0,
+        "count_total": 1717,
+        "work_period": 0.0,
+        "order": 141,
+        "color": "#d082a3"
+    },
+    "AntPool-183": {
+        "count_period": 0,
+        "count_total": 201,
+        "work_period": 0.0,
+        "order": 142,
+        "color": "#fbc17f"
+    },
+    "BTC Guild-183": {
+        "count_period": 0,
+        "count_total": 602,
+        "work_period": 0.0,
+        "order": 143,
+        "color": "#d0d9fe"
+    },
+    "Eligius-183": {
+        "count_period": 0,
+        "count_total": 423,
+        "work_period": 0.0,
+        "order": 144,
+        "color": "#d93630"
+    },
+    "Polmine-183": {
+        "count_period": 0,
+        "count_total": 240,
+        "work_period": 0.0,
+        "order": 145,
+        "color": "#2572cf"
+    },
+    "BitMinter-183": {
+        "count_period": 0,
+        "count_total": 73,
+        "work_period": 0.0,
+        "order": 146,
+        "color": "#98e806"
+    },
+    "EclipseMC-183": {
+        "count_period": 0,
+        "count_total": 46,
+        "work_period": 0.0,
+        "order": 147,
+        "color": "#28e4bc"
+    },
+    "Unknown-183": {
+        "count_period": 0,
+        "count_total": 124,
+        "work_period": 0.0,
+        "order": 148,
+        "color": "#ff15e7"
+    },
+    "MMPool-183": {
+        "count_period": 0,
+        "count_total": 1,
+        "work_period": 0.0,
+        "order": 149,
+        "color": "#43922c"
+    },
+    "BTC Guild-182": {
+        "count_period": 0,
+        "count_total": 642,
+        "work_period": 0.0,
+        "order": 150,
+        "color": "#2024b1"
+    },
+    "GHash.IO-182": {
+        "count_period": 0,
+        "count_total": 2141,
+        "work_period": 0.0,
+        "order": 151,
+        "color": "#4ecec3"
+    },
+    "F2Pool-182": {
+        "count_period": 0,
+        "count_total": 2140,
+        "work_period": 0.0,
+        "order": 152,
+        "color": "#4bcfbd"
+    },
+    "AntPool-182": {
+        "count_period": 0,
+        "count_total": 175,
+        "work_period": 0.0,
+        "order": 153,
+        "color": "#4e8343"
+    },
+    "BitMinter-182": {
+        "count_period": 0,
+        "count_total": 73,
+        "work_period": 0.0,
+        "order": 154,
+        "color": "#9fdf82"
+    },
+    "Unknown-182": {
+        "count_period": 0,
+        "count_total": 145,
+        "work_period": 0.0,
+        "order": 155,
+        "color": "#951eb5"
+    },
+    "EclipseMC-182": {
+        "count_period": 0,
+        "count_total": 43,
+        "work_period": 0.0,
+        "order": 156,
+        "color": "#db9261"
+    },
+    "Polmine-182": {
+        "count_period": 0,
+        "count_total": 171,
+        "work_period": 0.0,
+        "order": 157,
+        "color": "#8c4503"
+    },
+    "MMPool-182": {
+        "count_period": 0,
+        "count_total": 2,
+        "work_period": 0.0,
+        "order": 158,
+        "color": "#652baa"
+    },
+    "Eligius-182": {
+        "count_period": 0,
+        "count_total": 129,
+        "work_period": 0.0,
+        "order": 159,
+        "color": "#59de5c"
+    },
+    "GHash.IO-181": {
+        "count_period": 0,
+        "count_total": 8468,
+        "work_period": 0.0,
+        "order": 160,
+        "color": "#9c5fdb"
+    },
+    "F2Pool-181": {
+        "count_period": 0,
+        "count_total": 35609,
+        "work_period": 0.0,
+        "order": 161,
+        "color": "#e637c0"
+    },
+    "Unknown-181": {
+        "count_period": 0,
+        "count_total": 2133,
+        "work_period": 0.0,
+        "order": 162,
+        "color": "#a55ffe"
+    },
+    "AntPool-181": {
+        "count_period": 0,
+        "count_total": 576,
+        "work_period": 0.0,
+        "order": 163,
+        "color": "#cb68cc"
+    },
+    "BTC Guild-181": {
+        "count_period": 0,
+        "count_total": 3553,
+        "work_period": 0.0,
+        "order": 164,
+        "color": "#30f12e"
+    },
+    "Polmine-181": {
+        "count_period": 0,
+        "count_total": 239,
+        "work_period": 0.0,
+        "order": 165,
+        "color": "#6a8422"
+    },
+    "BitMinter-181": {
+        "count_period": 0,
+        "count_total": 1287,
+        "work_period": 0.0,
+        "order": 166,
+        "color": "#13e874"
+    },
+    "Eligius-181": {
+        "count_period": 0,
+        "count_total": 4820,
+        "work_period": 0.0,
+        "order": 167,
+        "color": "#c62510"
+    },
+    "EclipseMC-181": {
+        "count_period": 0,
+        "count_total": 511,
+        "work_period": 0.0,
+        "order": 168,
+        "color": "#ee8a87"
+    },
+    "MMPool-181": {
+        "count_period": 0,
+        "count_total": 47,
+        "work_period": 0.0,
+        "order": 169,
+        "color": "#88eedc"
+    },
+    "TangPool-181": {
+        "count_period": 0,
+        "count_total": 532,
+        "work_period": 0.0,
+        "order": 170,
+        "color": "#44edb7"
+    },
+    "BTC.COM-181": {
+        "count_period": 0,
+        "count_total": 72,
+        "work_period": 0.0,
+        "order": 171,
+        "color": "#9d90c3"
+    },
+    "Give Me Coins-181": {
+        "count_period": 0,
+        "count_total": 10,
+        "work_period": 0.0,
+        "order": 172,
+        "color": "#c69a82"
+    },
+    "Default zone117x/NodeStratum-1a1": {
+        "count_period": 0,
+        "count_total": 1,
+        "work_period": 0.0,
+        "order": 173,
+        "color": "#c92a7c"
+    },
+    "Slush-181": {
+        "count_period": 0,
+        "count_total": 3509,
+        "work_period": 0.0,
+        "order": 174,
+        "color": "#fc430f"
+    },
+    "Default zone117x/NodeStratum-181": {
+        "count_period": 0,
+        "count_total": 6,
+        "work_period": 0.0,
+        "order": 175,
+        "color": "#6f656b"
+    },
+    "ckpool-181": {
+        "count_period": 0,
+        "count_total": 2,
+        "work_period": 0.0,
+        "order": 176,
+        "color": "#827e95"
+    },
+    "Eligius-180": {
+        "count_period": 0,
+        "count_total": 827,
+        "work_period": 0.0,
+        "order": 177,
+        "color": "#9e245d"
+    },
+    "Slush-180": {
+        "count_period": 267,
+        "count_total": 13334,
+        "work_period": 311727910.0641073,
+        "order": 178,
+        "color": "#1281d2"
+    },
+    "F2Pool-180": {
+        "count_period": 205,
+        "count_total": 48005,
+        "work_period": 239341653.79453936,
+        "order": 179,
+        "color": "#f51f3c"
+    },
+    "GHash.IO-180": {
+        "count_period": 0,
+        "count_total": 815,
+        "work_period": 0.0,
+        "order": 180,
+        "color": "#82ef8c"
+    },
+    "EclipseMC-180": {
+        "count_period": 0,
+        "count_total": 79,
+        "work_period": 0.0,
+        "order": 181,
+        "color": "#792d2f"
+    },
+    "BitMinter-180": {
+        "count_period": 0,
+        "count_total": 457,
+        "work_period": 0.0,
+        "order": 182,
+        "color": "#81f30b"
+    },
+    "Unknown-180": {
+        "count_period": 64,
+        "count_total": 1704,
+        "work_period": 74721296.79439276,
+        "order": 183,
+        "color": "#09cba3"
+    },
+    "Default zone117x/NodeStratum-180": {
+        "count_period": 0,
+        "count_total": 72,
+        "work_period": 0.0,
+        "order": 184,
+        "color": "#a1feaa"
+    },
+    "ckpool-180": {
+        "count_period": 0,
+        "count_total": 9,
+        "work_period": 0.0,
+        "order": 185,
+        "color": "#7b6a73"
+    },
+    "BTCC-180": {
+        "count_period": 69,
+        "count_total": 13011,
+        "work_period": 80558898.1064547,
+        "order": 186,
+        "color": "#1964cf"
+    },
+    "ViaBTC-180": {
+        "count_period": 349,
+        "count_total": 11176,
+        "work_period": 407464571.58192307,
+        "order": 187,
+        "color": "#f3d500"
+    },
+    "HaoBTC-180": {
+        "count_period": 0,
+        "count_total": 223,
+        "work_period": 0.0,
+        "order": 188,
+        "color": "#9018ca"
+    },
+    "zpool-1a0": {
+        "count_period": 0,
+        "count_total": 4,
+        "work_period": 0.0,
+        "order": 189,
+        "color": "#e5d3fd"
+    },
+    "BTC.COM-180": {
+        "count_period": 370,
+        "count_total": 8303,
+        "work_period": 431982497.0925832,
+        "order": 190,
+        "color": "#cd0d28"
+    },
+    "Phash.CN-180": {
+        "count_period": 0,
+        "count_total": 5,
+        "work_period": 0.0,
+        "order": 191,
+        "color": "#523176"
+    },
+    "Phash.IO-180": {
+        "count_period": 0,
+        "count_total": 81,
+        "work_period": 0.0,
+        "order": 192,
+        "color": "#29c080"
+    },
+    "BTC.TOP-180": {
+        "count_period": 306,
+        "count_total": 6832,
+        "work_period": 357261200.2981904,
+        "order": 193,
+        "color": "#3cc1e3"
+    },
+    "Default zone117x/NodeStratum-1a0": {
+        "count_period": 0,
+        "count_total": 2,
+        "work_period": 0.0,
+        "order": 194,
+        "color": "#62a0b0"
+    },
+    "Default zone117x/NodeStratum-1b0": {
+        "count_period": 0,
+        "count_total": 1,
+        "work_period": 0.0,
+        "order": 195,
+        "color": "#455791"
+    },
+    "Batpool-180": {
+        "count_period": 3,
+        "count_total": 551,
+        "work_period": 3502560.787237159,
+        "order": 196,
+        "color": "#d152b6"
+    },
+    "Canoe-180": {
+        "count_period": 0,
+        "count_total": 680,
+        "work_period": 0.0,
+        "order": 197,
+        "color": "#732e98"
+    },
+    "AntPool-180": {
+        "count_period": 227,
+        "count_total": 5118,
+        "work_period": 265158555.4297073,
+        "order": 198,
+        "color": "#222d21"
+    },
+    "Bixin-180": {
+        "count_period": 18,
+        "count_total": 2442,
+        "work_period": 21015364.723422963,
+        "order": 199,
+        "color": "#e495e2"
+    },
+    "BitClub-180": {
+        "count_period": 76,
+        "count_total": 964,
+        "work_period": 88731539.94334142,
+        "order": 200,
+        "color": "#2c77cd"
+    },
+    "BTPOOL-180": {
+        "count_period": 21,
+        "count_total": 377,
+        "work_period": 24517925.510660123,
+        "order": 201,
+        "color": "#81d8a6"
+    },
+    "Batpool-181": {
+        "count_period": 0,
+        "count_total": 8,
+        "work_period": 0.0,
+        "order": 202,
+        "color": "#4b0eae"
+    },
+    "BTC.TOP-181": {
+        "count_period": 0,
+        "count_total": 144,
+        "work_period": 0.0,
+        "order": 203,
+        "color": "#6bef51"
+    },
+    "ViaBTC-181": {
+        "count_period": 0,
+        "count_total": 57,
+        "work_period": 0.0,
+        "order": 204,
+        "color": "#205fcc"
+    },
+    "zpool-193": {
+        "count_period": 0,
+        "count_total": 2,
+        "work_period": 0.0,
+        "order": 205,
+        "color": "#2a9bcb"
+    },
+    "GBMiners-180": {
+        "count_period": 41,
+        "count_total": 152,
+        "work_period": 47868330.75890787,
+        "order": 206,
+        "color": "#32e77f"
+    },
+    "zpool-192": {
+        "count_period": 0,
+        "count_total": 1,
+        "work_period": 0.0,
+        "order": 207,
+        "color": "#855784"
+    },
+    "zpool-194": {
+        "count_period": 0,
+        "count_total": 1,
+        "work_period": 0.0,
+        "order": 208,
+        "color": "#23b861"
+    }
+}

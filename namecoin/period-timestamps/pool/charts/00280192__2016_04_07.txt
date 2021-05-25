@@ -1,0 +1,17 @@
+Namecoin Mining Distribution
+Block: 280192
+07 Apr 2016 
+
+Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
+
+                                    Namecoin         Bitcoin
+
+         Total Chain 100.00%      80,724,299               0
+
+              F2Pool  81.14%      65,495,263               0  29.08%
+               Slush  13.75%      11,102,973               0  23.26%
+            GHash.IO   2.39%       1,928,680               0  34.00%
+             Eligius   1.72%       1,387,871               0  33.33%
+           BitMinter   0.86%         693,449               0  27.78%
+Default zone117x/NodeStratum   0.10%          77,536               0  50.00%
+              ckpool   0.05%          38,524               0 100.00%
