@@ -850,8 +850,12 @@
             "SigmaPool.com",
             "Sigmapool.com"
         ],
+        "address": [
+            "12cKiMNhCtBhZRUBCnYXo8A4WQzMUtYjmR"
+        ],
+        "notes": "Address attributed by: https://raw.githubusercontent.com/btc21/Bitcoin-Known-Miners/master/miners.json",
         "count_period": 5,
-        "count_total": 21,
+        "count_total": 22,
         "count_parenttarget_period": 3,
         "work_period": 61014403.632712394,
         "order": 57,
@@ -892,6 +896,16 @@
         "coinbase": [
             "Rawpool.com"
         ],
+        "address": [
+            "1FbBbv5oYqFKwiPm4CAqvAy8345n8AQ74b",
+            "35y82tEPDa2wm6tzkEacMG8GPPW7zbMj83",
+            "3CLigLYNkrtoNgNcUwTaKoUSHCwr9W851W",
+            "3QYvfQoG9Gs9Vfvbpw6947muSqhoGagvF6",
+            "bc1qnnl503n04cqacpwvhr89qr70metxr79ht3n380",
+            "bc1q8ej2g5uxdsg0jwl0mpl606qfjxgkyv3p29yf37",
+            "bc1qru8mtv3e3u7ms6ecjmwgeakdakclemvhnw00q9"
+        ],
+        "notes": "Addresses attributed by: https://raw.githubusercontent.com/btc21/Bitcoin-Known-Miners/master/miners.json",
         "count_period": 0,
         "count_total": 0,
         "count_parenttarget_period": 0,
@@ -1109,8 +1123,13 @@
     },
     "Foundry USA Pool": {
         "coinbase": [
-            "/Foundry USA Pool #dropgold/"
+            "/Foundry USA Pool #dropgold/",
+            "/2cDw/"
         ],
+        "address": [
+            "1FFxkVijzvUPUeHgkFjBk2Qw8j3wQY2cDw"
+        ],
+        "notes": "Attributed by: https://raw.githubusercontent.com/btc21/Bitcoin-Known-Miners/master/miners.json",
         "count_period": 0,
         "count_total": 0,
         "count_parenttarget_period": 0,
@@ -1124,8 +1143,10 @@
     },
     "LuBian": {
         "coinbase": [
-            "/lubian.com/"
+            "/lubian.com/",
+            "/Buffett/"
         ],
+        "notes": "Attributed by: https://raw.githubusercontent.com/btc21/Bitcoin-Known-Miners/master/miners.json",
         "count_period": 0,
         "count_total": 0,
         "count_parenttarget_period": 0,
@@ -1171,6 +1192,10 @@
         "coinbase": [
             "TogetherPool"
         ],
+        "address": [
+            "bc1qwlrsvgtn99rqp3fgaxq6f6jkgms80rnej0a8tc"
+        ],
+        "notes": "Address attributed by: https://raw.githubusercontent.com/btc21/Bitcoin-Known-Miners/master/miners.json",
         "count_period": 0,
         "count_total": 0,
         "count_parenttarget_period": 0,
@@ -1395,10 +1420,43 @@
             0
         ]
     },
+    "32p7WS5Yr8phj2AKdf8QGpDZvQutf3zR3D": {
+        "address": [
+            "32p7WS5Yr8phj2AKdf8QGpDZvQutf3zR3D"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "count_parenttarget_period": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "CODEBLACK": {
+        "coinbase": [
+            "/CODEBLACK/"
+        ],
+        "address": [
+            "1AdbRdfLqxekeTjkybHc84iPQW11t4sGqM"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "count_parenttarget_period": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
     "Unknown": {
         "notes": "Just a spare field, comes in handy in some scripts.",
         "count_period": 0,
-        "count_total": 47662,
+        "count_total": 47661,
         "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,

@@ -850,8 +850,12 @@
             "SigmaPool.com",
             "Sigmapool.com"
         ],
+        "address": [
+            "12cKiMNhCtBhZRUBCnYXo8A4WQzMUtYjmR"
+        ],
+        "notes": "Address attributed by: https://raw.githubusercontent.com/btc21/Bitcoin-Known-Miners/master/miners.json",
         "count_period": 7,
-        "count_total": 141,
+        "count_total": 142,
         "count_parenttarget_period": 5,
         "work_period": 90031560.52625743,
         "order": 57,
@@ -892,6 +896,16 @@
         "coinbase": [
             "Rawpool.com"
         ],
+        "address": [
+            "1FbBbv5oYqFKwiPm4CAqvAy8345n8AQ74b",
+            "35y82tEPDa2wm6tzkEacMG8GPPW7zbMj83",
+            "3CLigLYNkrtoNgNcUwTaKoUSHCwr9W851W",
+            "3QYvfQoG9Gs9Vfvbpw6947muSqhoGagvF6",
+            "bc1qnnl503n04cqacpwvhr89qr70metxr79ht3n380",
+            "bc1q8ej2g5uxdsg0jwl0mpl606qfjxgkyv3p29yf37",
+            "bc1qru8mtv3e3u7ms6ecjmwgeakdakclemvhnw00q9"
+        ],
+        "notes": "Addresses attributed by: https://raw.githubusercontent.com/btc21/Bitcoin-Known-Miners/master/miners.json",
         "count_period": 0,
         "count_total": 0,
         "count_parenttarget_period": 0,
@@ -1106,8 +1120,13 @@
     },
     "Foundry USA Pool": {
         "coinbase": [
-            "/Foundry USA Pool #dropgold/"
+            "/Foundry USA Pool #dropgold/",
+            "/2cDw/"
         ],
+        "address": [
+            "1FFxkVijzvUPUeHgkFjBk2Qw8j3wQY2cDw"
+        ],
+        "notes": "Attributed by: https://raw.githubusercontent.com/btc21/Bitcoin-Known-Miners/master/miners.json",
         "count_period": 0,
         "count_total": 0,
         "count_parenttarget_period": 0,
@@ -1121,8 +1140,10 @@
     },
     "LuBian": {
         "coinbase": [
-            "/lubian.com/"
+            "/lubian.com/",
+            "/Buffett/"
         ],
+        "notes": "Attributed by: https://raw.githubusercontent.com/btc21/Bitcoin-Known-Miners/master/miners.json",
         "count_period": 0,
         "count_total": 0,
         "count_parenttarget_period": 0,
@@ -1168,6 +1189,10 @@
         "coinbase": [
             "TogetherPool"
         ],
+        "address": [
+            "bc1qwlrsvgtn99rqp3fgaxq6f6jkgms80rnej0a8tc"
+        ],
+        "notes": "Address attributed by: https://raw.githubusercontent.com/btc21/Bitcoin-Known-Miners/master/miners.json",
         "count_period": 0,
         "count_total": 0,
         "count_parenttarget_period": 0,
@@ -1259,7 +1284,7 @@
         "count_total": 85,
         "count_parenttarget_period": 0,
         "work_period": 0.0,
-        "order": 60,
+        "order": 61,
         "color": "#81bbc1",
         "percent_parenttarget": "78.26%"
     },
@@ -1286,7 +1311,7 @@
         "count_total": 54,
         "count_parenttarget_period": 11,
         "work_period": 222063812.37792805,
-        "order": 62,
+        "order": 63,
         "color": "#801dd1",
         "percent_parenttarget": "61.11%"
     },
@@ -1298,7 +1323,7 @@
         "count_total": 139,
         "count_parenttarget_period": 0,
         "work_period": 0.0,
-        "order": 61,
+        "order": 62,
         "color": "#00c28a",
         "percent_parenttarget": "60.00%"
     },
@@ -1383,10 +1408,40 @@
             0
         ]
     },
+    "32p7WS5Yr8phj2AKdf8QGpDZvQutf3zR3D": {
+        "address": [
+            "32p7WS5Yr8phj2AKdf8QGpDZvQutf3zR3D"
+        ],
+        "count_period": 0,
+        "count_total": 77,
+        "count_parenttarget_period": 0,
+        "work_period": 0.0,
+        "order": 60,
+        "color": "#90bcc2",
+        "percent_parenttarget": "57.14%"
+    },
+    "CODEBLACK": {
+        "coinbase": [
+            "/CODEBLACK/"
+        ],
+        "address": [
+            "1AdbRdfLqxekeTjkybHc84iPQW11t4sGqM"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "count_parenttarget_period": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
     "Unknown": {
         "notes": "Just a spare field, comes in handy in some scripts.",
         "count_period": 0,
-        "count_total": 47742,
+        "count_total": 47664,
         "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,

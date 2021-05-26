@@ -12,9 +12,11 @@
         "notes": "Another coinbase is 'fabe6d6d' in hex (\ud83d\udc1f) and 'Mined by' in ascii, but I think the address covers these coinbase signatures.",
         "count_period": 261,
         "count_total": 3413,
+        "count_parenttarget_period": 222,
         "work_period": 574173.4708590498,
         "order": 17,
-        "color": "#37f7e2"
+        "color": "#37f7e2",
+        "percent_parenttarget": "85.06%"
     },
     "Slush": {
         "coinbase": [
@@ -22,9 +24,11 @@
         ],
         "count_period": 0,
         "count_total": 12037,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 10,
-        "color": "#462363"
+        "color": "#462363",
+        "percent_parenttarget": "0.00%"
     },
     "AntPool": {
         "coinbase": [
@@ -32,6 +36,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -46,6 +51,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -62,6 +68,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -77,6 +84,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -92,6 +100,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -108,6 +117,7 @@
         "notes": "E2M/BTCST is attributed by coin.dance",
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -124,6 +134,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -138,6 +149,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -152,6 +164,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -167,6 +180,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -181,6 +195,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -195,6 +210,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -210,6 +226,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -224,9 +241,11 @@
         ],
         "count_period": 485,
         "count_total": 45614,
+        "count_parenttarget_period": 394,
         "work_period": 1066950.7025541763,
         "order": 5,
-        "color": "#404231"
+        "color": "#404231",
+        "percent_parenttarget": "81.24%"
     },
     "BitMinter": {
         "coinbase": [
@@ -234,9 +253,11 @@
         ],
         "count_period": 34,
         "count_total": 16489,
+        "count_parenttarget_period": 27,
         "work_period": 74796.54409658069,
         "order": 3,
-        "color": "#900159"
+        "color": "#900159",
+        "percent_parenttarget": "79.41%"
     },
     "GHash.IO": {
         "coinbase": [
@@ -249,9 +270,11 @@
         "notes": "Doesn't always put 'GHash' in the coinbase. Need address to identify most blocks.",
         "count_period": 725,
         "count_total": 10809,
+        "count_parenttarget_period": 605,
         "work_period": 1595332.1554180556,
         "order": 19,
-        "color": "#0176eb"
+        "color": "#0176eb",
+        "percent_parenttarget": "83.45%"
     },
     "50BTC.com": {
         "coinbase": [
@@ -259,6 +282,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -273,9 +297,11 @@
         ],
         "count_period": 0,
         "count_total": 524,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 18,
-        "color": "#86fb35"
+        "color": "#86fb35",
+        "percent_parenttarget": "33.60%"
     },
     "Eligius": {
         "coinbase": [
@@ -283,9 +309,11 @@
         ],
         "count_period": 444,
         "count_total": 11755,
+        "count_parenttarget_period": 352,
         "work_period": 976754.8699671219,
         "order": 2,
-        "color": "#64dd2a"
+        "color": "#64dd2a",
+        "percent_parenttarget": "79.28%"
     },
     "ozcoin": {
         "coinbase": [
@@ -294,9 +322,11 @@
         ],
         "count_period": 0,
         "count_total": 6104,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 8,
-        "color": "#5126e8"
+        "color": "#5126e8",
+        "percent_parenttarget": "0.00%"
     },
     "HaoBTC": {
         "coinbase": [
@@ -304,6 +334,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -318,6 +349,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -332,6 +364,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -347,6 +380,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -361,6 +395,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -375,6 +410,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -389,6 +425,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -404,9 +441,11 @@
         ],
         "count_period": 8,
         "count_total": 11893,
+        "count_parenttarget_period": 5,
         "work_period": 17599.18684625428,
         "order": 11,
-        "color": "#e0439c"
+        "color": "#e0439c",
+        "percent_parenttarget": "62.50%"
     },
     "XBTC": {
         "coinbase": [
@@ -414,6 +453,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -428,6 +468,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -443,6 +484,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -457,6 +499,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -471,9 +514,11 @@
         ],
         "count_period": 0,
         "count_total": 1,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 21,
-        "color": "#5168ae"
+        "color": "#5168ae",
+        "percent_parenttarget": "100.00%"
     },
     "Polmine": {
         "coinbase": [
@@ -481,9 +526,11 @@
         ],
         "count_period": 5,
         "count_total": 11,
+        "count_parenttarget_period": 2,
         "work_period": 10999.491778908925,
         "order": 23,
-        "color": "#150ef1"
+        "color": "#150ef1",
+        "percent_parenttarget": "40.00%"
     },
     "BitcoinAffiliateNetwork": {
         "coinbase": [
@@ -491,6 +538,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -505,6 +553,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -519,6 +568,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -533,6 +583,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -547,6 +598,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -561,6 +613,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -575,6 +628,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -590,6 +644,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -604,9 +659,11 @@
         ],
         "count_period": 0,
         "count_total": 237,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 4,
-        "color": "#be1d2a"
+        "color": "#be1d2a",
+        "percent_parenttarget": "0.00%"
     },
     "Triplemining.com": {
         "coinbase": [
@@ -615,9 +672,11 @@
         ],
         "count_period": 0,
         "count_total": 876,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 14,
-        "color": "#b17bca"
+        "color": "#b17bca",
+        "percent_parenttarget": "100.00%"
     },
     "bitclockers": {
         "coinbase": [
@@ -625,9 +684,11 @@
         ],
         "count_period": 0,
         "count_total": 55,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 15,
-        "color": "#24d8af"
+        "color": "#24d8af",
+        "percent_parenttarget": "100.00%"
     },
     "mmBitLC": {
         "coinbase": [
@@ -636,6 +697,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -650,6 +712,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -665,9 +728,11 @@
         ],
         "count_period": 1,
         "count_total": 2182,
+        "count_parenttarget_period": 1,
         "work_period": 2199.898355781785,
         "order": 16,
-        "color": "#86e926"
+        "color": "#86e926",
+        "percent_parenttarget": "100.00%"
     },
     "CoinLab": {
         "coinbase": [
@@ -675,6 +740,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -689,9 +755,11 @@
         ],
         "count_period": 12,
         "count_total": 731,
+        "count_parenttarget_period": 11,
         "work_period": 26398.780269381416,
         "order": 20,
-        "color": "#1ff872"
+        "color": "#1ff872",
+        "percent_parenttarget": "91.67%"
     },
     "Alydian": {
         "coinbase": [
@@ -700,6 +768,7 @@
         "notes": "Alydian53350635211049",
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -714,9 +783,11 @@
         ],
         "count_period": 0,
         "count_total": 1266,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 13,
-        "color": "#50bf08"
+        "color": "#50bf08",
+        "percent_parenttarget": "100.00%"
     },
     "DigitalBTC": {
         "coinbase": [
@@ -724,6 +795,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -738,6 +810,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -754,6 +827,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -768,6 +842,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -782,6 +857,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -796,6 +872,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -810,6 +887,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -824,6 +902,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -837,8 +916,13 @@
             "SigmaPool.com",
             "Sigmapool.com"
         ],
+        "address": [
+            "12cKiMNhCtBhZRUBCnYXo8A4WQzMUtYjmR"
+        ],
+        "notes": "Address attributed by: https://raw.githubusercontent.com/btc21/Bitcoin-Known-Miners/master/miners.json",
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -853,6 +937,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -867,6 +952,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -879,8 +965,19 @@
         "coinbase": [
             "Rawpool.com"
         ],
+        "address": [
+            "1FbBbv5oYqFKwiPm4CAqvAy8345n8AQ74b",
+            "35y82tEPDa2wm6tzkEacMG8GPPW7zbMj83",
+            "3CLigLYNkrtoNgNcUwTaKoUSHCwr9W851W",
+            "3QYvfQoG9Gs9Vfvbpw6947muSqhoGagvF6",
+            "bc1qnnl503n04cqacpwvhr89qr70metxr79ht3n380",
+            "bc1q8ej2g5uxdsg0jwl0mpl606qfjxgkyv3p29yf37",
+            "bc1qru8mtv3e3u7ms6ecjmwgeakdakclemvhnw00q9"
+        ],
+        "notes": "Addresses attributed by: https://raw.githubusercontent.com/btc21/Bitcoin-Known-Miners/master/miners.json",
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -895,9 +992,11 @@
         ],
         "count_period": 0,
         "count_total": 313,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 12,
-        "color": "#a49375"
+        "color": "#a49375",
+        "percent_parenttarget": "0.00%"
     },
     "8baochi.com": {
         "coinbase": [
@@ -905,6 +1004,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -921,6 +1021,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -935,6 +1036,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -949,6 +1051,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -963,6 +1066,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -977,6 +1081,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -991,6 +1096,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -1005,9 +1111,11 @@
         ],
         "count_period": 0,
         "count_total": 598,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 6,
-        "color": "#4197f3"
+        "color": "#4197f3",
+        "percent_parenttarget": "60.61%"
     },
     "Mining-Dutch": {
         "coinbase": [
@@ -1015,6 +1123,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -1029,6 +1138,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -1043,6 +1153,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -1057,9 +1168,11 @@
         ],
         "count_period": 0,
         "count_total": 105,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 7,
-        "color": "#936226"
+        "color": "#936226",
+        "percent_parenttarget": "22.22%"
     },
     "MiningCity": {
         "coinbase": [
@@ -1067,6 +1180,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -1081,6 +1195,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -1096,6 +1211,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -1106,10 +1222,16 @@
     },
     "Foundry USA Pool": {
         "coinbase": [
-            "/Foundry USA Pool #dropgold/"
+            "/Foundry USA Pool #dropgold/",
+            "/2cDw/"
         ],
+        "address": [
+            "1FFxkVijzvUPUeHgkFjBk2Qw8j3wQY2cDw"
+        ],
+        "notes": "Attributed by: https://raw.githubusercontent.com/btc21/Bitcoin-Known-Miners/master/miners.json",
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -1120,10 +1242,13 @@
     },
     "LuBian": {
         "coinbase": [
-            "/lubian.com/"
+            "/lubian.com/",
+            "/Buffett/"
         ],
+        "notes": "Attributed by: https://raw.githubusercontent.com/btc21/Bitcoin-Known-Miners/master/miners.json",
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -1138,6 +1263,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -1152,6 +1278,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -1164,8 +1291,13 @@
         "coinbase": [
             "TogetherPool"
         ],
+        "address": [
+            "bc1qwlrsvgtn99rqp3fgaxq6f6jkgms80rnej0a8tc"
+        ],
+        "notes": "Address attributed by: https://raw.githubusercontent.com/btc21/Bitcoin-Known-Miners/master/miners.json",
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -1180,6 +1312,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -1194,6 +1327,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -1208,6 +1342,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -1222,6 +1357,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -1236,6 +1372,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -1250,6 +1387,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -1264,6 +1402,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -1278,6 +1417,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -1292,6 +1432,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -1306,9 +1447,11 @@
         ],
         "count_period": 0,
         "count_total": 4,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 9,
-        "color": "#e42903"
+        "color": "#e42903",
+        "percent_parenttarget": "0.00%"
     },
     "zpool": {
         "coinbase": [
@@ -1316,6 +1459,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -1330,9 +1474,11 @@
         ],
         "count_period": 1,
         "count_total": 5,
+        "count_parenttarget_period": 0,
         "work_period": 2199.898355781785,
         "order": 22,
-        "color": "#23f82d"
+        "color": "#23f82d",
+        "percent_parenttarget": "0.00%"
     },
     "Mara Pool": {
         "coinbase": [
@@ -1340,6 +1486,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -1354,6 +1501,7 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -1368,6 +1516,40 @@
         ],
         "count_period": 0,
         "count_total": 0,
+        "count_parenttarget_period": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "32p7WS5Yr8phj2AKdf8QGpDZvQutf3zR3D": {
+        "address": [
+            "32p7WS5Yr8phj2AKdf8QGpDZvQutf3zR3D"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "count_parenttarget_period": 0,
+        "work_period": 0.0,
+        "order": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "CODEBLACK": {
+        "coinbase": [
+            "/CODEBLACK/"
+        ],
+        "address": [
+            "1AdbRdfLqxekeTjkybHc84iPQW11t4sGqM"
+        ],
+        "count_period": 0,
+        "count_total": 0,
+        "count_parenttarget_period": 0,
         "work_period": 0.0,
         "order": 1,
         "color": [
@@ -1380,8 +1562,10 @@
         "notes": "Just a spare field, comes in handy in some scripts.",
         "count_period": 40,
         "count_total": 38275,
+        "count_parenttarget_period": 38,
         "work_period": 87995.9342312714,
         "order": 1,
-        "color": "#c16aa1"
+        "color": "#c16aa1",
+        "percent_parenttarget": "95.00%"
     }
 }
