@@ -11,7 +11,7 @@
         ],
         "notes": "Another coinbase is 'fabe6d6d' in hex (\ud83d\udc1f) and 'Mined by' in ascii, but I think the address covers these coinbase signatures.",
         "count_period": 348,
-        "count_total": 10681,
+        "count_total": 10650,
         "work_period": 6233222610.084519,
         "order": 6,
         "color": "#37f7e2"
@@ -21,9 +21,9 @@
             "slush"
         ],
         "count_period": 68,
-        "count_total": 2265,
+        "count_total": 2257,
         "work_period": 1218071322.1966355,
-        "order": 8,
+        "order": 1,
         "color": "#462363"
     },
     "AntPool": {
@@ -31,9 +31,9 @@
             "AntPool"
         ],
         "count_period": 201,
-        "count_total": 6622,
+        "count_total": 6605,
         "work_period": 3600609294.9121194,
-        "order": 12,
+        "order": 7,
         "color": "#114cf6"
     },
     "poolin.com": {
@@ -41,9 +41,9 @@
             "poolin.com"
         ],
         "count_period": 290,
-        "count_total": 8899,
+        "count_total": 8877,
         "work_period": 5194631447.208573,
-        "order": 9,
+        "order": 4,
         "color": "#101452"
     },
     "BTC.COM": {
@@ -53,9 +53,9 @@
             "/BTCcom/"
         ],
         "count_period": 161,
-        "count_total": 7037,
+        "count_total": 7024,
         "work_period": 2883646162.1029916,
-        "order": 7,
+        "order": 10,
         "color": "#1068b3"
     },
     "ViaBTC": {
@@ -64,9 +64,9 @@
             "viabtc.com"
         ],
         "count_period": 159,
-        "count_total": 4210,
+        "count_total": 4205,
         "work_period": 2848468258.594045,
-        "order": 13,
+        "order": 8,
         "color": "#4875b6"
     },
     "Bitfury": {
@@ -75,9 +75,9 @@
             "BitFury"
         ],
         "count_period": 0,
-        "count_total": 242,
+        "count_total": 238,
         "work_period": 0.0,
-        "order": 10,
+        "order": 15,
         "color": "#f6b85b"
     },
     "BTC.TOP": {
@@ -87,9 +87,9 @@
         ],
         "notes": "E2M/BTCST is attributed by coin.dance",
         "count_period": 49,
-        "count_total": 1759,
+        "count_total": 1754,
         "work_period": 877537771.724143,
-        "order": 4,
+        "order": 3,
         "color": "#6b2f7f"
     },
     "Huobi": {
@@ -99,9 +99,9 @@
             "/one_more_mcd/"
         ],
         "count_period": 185,
-        "count_total": 4827,
+        "count_total": 4819,
         "work_period": 3316074177.3013964,
-        "order": 1,
+        "order": 5,
         "color": "#47e82a"
     },
     "okpool": {
@@ -970,9 +970,9 @@
             "SpiderPool"
         ],
         "count_period": 12,
-        "count_total": 382,
+        "count_total": 381,
         "work_period": 214897438.948019,
-        "order": 14,
+        "order": 13,
         "color": "#5a90c7"
     },
     "TMSPool": {
@@ -990,9 +990,9 @@
             "/www.okex.com/"
         ],
         "count_period": 9,
-        "count_total": 2582,
+        "count_total": 2573,
         "work_period": 161053391.1518159,
-        "order": 3,
+        "order": 9,
         "color": "#91ceda"
     },
     "1THash&58COIN": {
@@ -1000,7 +1000,7 @@
             "/1THash&58COIN/"
         ],
         "count_period": 0,
-        "count_total": 3455,
+        "count_total": 3448,
         "work_period": 0.0,
         "order": 11,
         "color": "#0e15b1"
@@ -1034,9 +1034,9 @@
             "/NovaBlock/"
         ],
         "count_period": 7,
-        "count_total": 643,
+        "count_total": 642,
         "work_period": 125636111.52447379,
-        "order": 15,
+        "order": 14,
         "color": "#a26072"
     },
     "Prohashing": {
@@ -1194,7 +1194,7 @@
             "bytepool.com/"
         ],
         "count_period": 0,
-        "count_total": 453,
+        "count_total": 448,
         "work_period": 0.0,
         "order": 2,
         "color": "#4302e0"
@@ -1359,9 +1359,9 @@
     "Unknown": {
         "notes": "Just a spare field, comes in handy in some scripts.",
         "count_period": 0,
-        "count_total": 375,
+        "count_total": 361,
         "work_period": 0.0,
-        "order": 5,
+        "order": 12,
         "color": "#c16aa1"
     }
 }
