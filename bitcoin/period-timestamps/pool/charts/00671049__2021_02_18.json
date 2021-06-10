@@ -11,9 +11,9 @@
         ],
         "notes": "Another coinbase is 'fabe6d6d' in hex (\ud83d\udc1f) and 'Mined by' in ascii, but I think the address covers these coinbase signatures.",
         "count_period": 331,
-        "count_total": 10302,
+        "count_total": 10255,
         "work_period": 5832327950.285436,
-        "order": 6,
+        "order": 4,
         "color": "#37f7e2"
     },
     "Slush": {
@@ -21,9 +21,9 @@
             "slush"
         ],
         "count_period": 68,
-        "count_total": 2189,
+        "count_total": 2179,
         "work_period": 1198747902.300309,
-        "order": 1,
+        "order": 8,
         "color": "#462363"
     },
     "AntPool": {
@@ -31,9 +31,9 @@
             "AntPool"
         ],
         "count_period": 203,
-        "count_total": 6404,
+        "count_total": 6378,
         "work_period": 3577523952.543614,
-        "order": 7,
+        "order": 2,
         "color": "#114cf6"
     },
     "poolin.com": {
@@ -41,9 +41,9 @@
             "poolin.com"
         ],
         "count_period": 286,
-        "count_total": 8587,
+        "count_total": 8549,
         "work_period": 5041926253.061392,
-        "order": 4,
+        "order": 1,
         "color": "#101452"
     },
     "BTC.COM": {
@@ -53,9 +53,9 @@
             "/BTCcom/"
         ],
         "count_period": 175,
-        "count_total": 6863,
+        "count_total": 6831,
         "work_period": 3086683048.251795,
-        "order": 10,
+        "order": 3,
         "color": "#1068b3"
     },
     "ViaBTC": {
@@ -64,9 +64,9 @@
             "viabtc.com"
         ],
         "count_period": 157,
-        "count_total": 4046,
+        "count_total": 4031,
         "work_period": 2767393039.819426,
-        "order": 8,
+        "order": 5,
         "color": "#4875b6"
     },
     "Bitfury": {
@@ -75,9 +75,9 @@
             "BitFury"
         ],
         "count_period": 0,
-        "count_total": 238,
+        "count_total": 236,
         "work_period": 0.0,
-        "order": 15,
+        "order": 13,
         "color": "#f6b85b"
     },
     "BTC.TOP": {
@@ -87,9 +87,9 @@
         ],
         "notes": "E2M/BTCST is attributed by coin.dance",
         "count_period": 63,
-        "count_total": 1705,
+        "count_total": 1688,
         "work_period": 1110701166.7992322,
-        "order": 3,
+        "order": 9,
         "color": "#6b2f7f"
     },
     "Huobi": {
@@ -99,9 +99,9 @@
             "/one_more_mcd/"
         ],
         "count_period": 199,
-        "count_total": 4634,
+        "count_total": 4624,
         "work_period": 3507692240.8284464,
-        "order": 5,
+        "order": 6,
         "color": "#47e82a"
     },
     "okpool": {
@@ -152,7 +152,7 @@
             "pool.bitcoin.com"
         ],
         "count_period": 0,
-        "count_total": 108,
+        "count_total": 107,
         "work_period": 0.0,
         "order": 17,
         "color": "#3032ab"
@@ -970,9 +970,9 @@
             "SpiderPool"
         ],
         "count_period": 19,
-        "count_total": 369,
+        "count_total": 368,
         "work_period": 335486109.93263113,
-        "order": 13,
+        "order": 16,
         "color": "#5a90c7"
     },
     "TMSPool": {
@@ -990,9 +990,9 @@
             "/www.okex.com/"
         ],
         "count_period": 12,
-        "count_total": 2564,
+        "count_total": 2542,
         "work_period": 211009326.8597364,
-        "order": 9,
+        "order": 10,
         "color": "#91ceda"
     },
     "1THash&58COIN": {
@@ -1000,9 +1000,9 @@
             "/1THash&58COIN/"
         ],
         "count_period": 0,
-        "count_total": 3448,
+        "count_total": 3434,
         "work_period": 0.0,
-        "order": 11,
+        "order": 7,
         "color": "#0e15b1"
     },
     "Yourbtc.net": {
@@ -1034,9 +1034,9 @@
             "/NovaBlock/"
         ],
         "count_period": 13,
-        "count_total": 635,
+        "count_total": 634,
         "work_period": 228719620.074234,
-        "order": 14,
+        "order": 18,
         "color": "#a26072"
     },
     "Prohashing": {
@@ -1194,9 +1194,9 @@
             "bytepool.com/"
         ],
         "count_period": 0,
-        "count_total": 448,
+        "count_total": 439,
         "work_period": 0.0,
-        "order": 2,
+        "order": 12,
         "color": "#4302e0"
     },
     "Ukrpool": {
@@ -1204,9 +1204,9 @@
             "/Ukrpool.com/"
         ],
         "count_period": 0,
-        "count_total": 50,
+        "count_total": 49,
         "work_period": 0.0,
-        "order": 16,
+        "order": 14,
         "color": "#d65b9c"
     },
     "pooin.com": {
@@ -1320,7 +1320,7 @@
         "count_period": 0,
         "count_total": 50,
         "work_period": 0.0,
-        "order": 18,
+        "order": 11,
         "color": "#6d6cca"
     },
     "GodPool": {
@@ -1363,9 +1363,9 @@
     "Unknown": {
         "notes": "Just a spare field, comes in handy in some scripts.",
         "count_period": 1,
-        "count_total": 361,
+        "count_total": 357,
         "work_period": 17710293.214497585,
-        "order": 12,
+        "order": 15,
         "color": "#c16aa1"
     }
 }
