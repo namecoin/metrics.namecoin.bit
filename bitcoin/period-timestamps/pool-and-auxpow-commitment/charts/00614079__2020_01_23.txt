@@ -4,26 +4,25 @@ Block: 614079
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-         Total Chain 100.00%   5,838,501,373
+         Total Chain 100.00%   3,395,613,769
 
-          F2Pool-YES  17.36%   1,013,798,355
-      poolin.com-YES  16.32%     952,726,165
-         AntPool-YES  12.34%     720,651,843
-         BTC.COM-YES  11.09%     647,365,215
-        OKExPool-YES   7.32%     427,505,330
-          ViaBTC-YES   7.11%     415,290,892
-           Slush-YES   4.81%     280,932,074
-   1THash&58COIN-YES   4.81%     280,932,074
-           Huobi-YES   4.18%     244,288,760
-         BTC.TOP-YES   2.93%     171,002,132
-        Bytepool-YES   2.93%     171,002,132
-         Unknown-YES   2.09%     122,144,380
-        NovaBlock-NO   2.09%     122,144,380
-          Bitfury-NO   1.05%      61,072,190
-      SpiderPool-YES   0.84%      48,857,752
-       poolin.com-NO   0.84%      48,857,752
-             TAAL-NO   0.84%      48,857,752
-           ckpool-NO   0.42%      24,428,876
-         Ukrpool-YES   0.21%      12,214,438
-      Bitcoin.com-NO   0.21%      12,214,438
-            Slush-NO   0.21%      12,214,438
+      poolin.com-YES  19.06%     647,365,215
+          F2Pool-YES  17.27%     586,293,024
+         BTC.COM-YES  10.79%     366,433,140
+         AntPool-YES  10.43%     354,218,702
+        OKExPool-YES   7.91%     268,717,636
+          ViaBTC-YES   6.12%     207,645,446
+   1THash&58COIN-YES   6.12%     207,645,446
+           Slush-YES   5.04%     171,002,132
+        Bytepool-YES   3.24%     109,929,942
+           Huobi-YES   2.88%      97,715,504
+         BTC.TOP-YES   2.16%      73,286,628
+        NovaBlock-NO   1.80%      61,072,190
+             TAAL-NO   1.44%      48,857,752
+         Unknown-YES   1.44%      48,857,752
+          Bitfury-NO   1.08%      36,643,314
+       poolin.com-NO   1.08%      36,643,314
+      SpiderPool-YES   0.72%      24,428,876
+           ckpool-NO   0.72%      24,428,876
+      Bitcoin.com-NO   0.36%      12,214,438
+            Slush-NO   0.36%      12,214,438
