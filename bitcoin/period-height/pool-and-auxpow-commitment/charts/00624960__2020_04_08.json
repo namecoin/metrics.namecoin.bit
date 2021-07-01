@@ -1534,129 +1534,129 @@
     },
     "BTC.COM-YES": {
         "count_period": 261,
-        "count_total": 1204,
+        "count_total": 1190,
         "work_period": 3172193710.401076,
         "order": 1,
         "color": "#f84aea"
     },
-    "ViaBTC-YES": {
-        "count_period": 122,
-        "count_total": 639,
-        "work_period": 1482460158.5859554,
+    "1THash&58COIN-YES": {
+        "count_period": 134,
+        "count_total": 519,
+        "work_period": 1628275911.8894928,
         "order": 2,
-        "color": "#01973c"
+        "color": "#3556da"
+    },
+    "NovaBlock-NO": {
+        "count_period": 27,
+        "count_total": 124,
+        "work_period": 328085444.93295693,
+        "order": 3,
+        "color": "#c0b3bf"
     },
     "Bytepool-YES": {
         "count_period": 20,
-        "count_total": 298,
+        "count_total": 293,
         "work_period": 243026255.5058939,
-        "order": 3,
-        "color": "#db72e2"
-    },
-    "F2Pool-YES": {
-        "count_period": 402,
-        "count_total": 1833,
-        "work_period": 4884827735.668491,
         "order": 4,
-        "color": "#164df7"
+        "color": "#db72e2"
     },
     "poolin.com-YES": {
         "count_period": 294,
-        "count_total": 1545,
+        "count_total": 1533,
         "work_period": 3572485955.9366565,
         "order": 5,
         "color": "#a745dd"
     },
     "AntPool-YES": {
         "count_period": 217,
-        "count_total": 1043,
+        "count_total": 1035,
         "work_period": 2636834872.238959,
         "order": 6,
         "color": "#ba3610"
     },
-    "Slush-YES": {
-        "count_period": 108,
-        "count_total": 445,
-        "work_period": 1312341779.7318285,
+    "F2Pool-YES": {
+        "count_period": 402,
+        "count_total": 1819,
+        "work_period": 4884827735.668491,
         "order": 7,
-        "color": "#b78419"
-    },
-    "1THash&58COIN-YES": {
-        "count_period": 134,
-        "count_total": 533,
-        "work_period": 1628275911.8894928,
-        "order": 8,
-        "color": "#3556da"
-    },
-    "poolin.com-NO": {
-        "count_period": 37,
-        "count_total": 120,
-        "work_period": 449598572.68590415,
-        "order": 9,
-        "color": "#a3a6c5"
-    },
-    "Huobi-YES": {
-        "count_period": 91,
-        "count_total": 453,
-        "work_period": 1105769462.5518174,
-        "order": 10,
-        "color": "#5549ee"
+        "color": "#164df7"
     },
     "OKExPool-YES": {
         "count_period": 158,
-        "count_total": 663,
+        "count_total": 659,
         "work_period": 1919907418.4965672,
-        "order": 11,
+        "order": 8,
         "color": "#12e3b8"
-    },
-    "BTC.TOP-YES": {
-        "count_period": 55,
-        "count_total": 302,
-        "work_period": 668322202.6412083,
-        "order": 12,
-        "color": "#5a2283"
-    },
-    "NovaBlock-NO": {
-        "count_period": 27,
-        "count_total": 127,
-        "work_period": 328085444.93295693,
-        "order": 13,
-        "color": "#c0b3bf"
     },
     "Bitfury-NO": {
         "count_period": 0,
-        "count_total": 157,
+        "count_total": 154,
         "work_period": 0.0,
-        "order": 14,
+        "order": 9,
         "color": "#003ae3"
     },
     "Unknown-YES": {
         "count_period": 10,
-        "count_total": 268,
+        "count_total": 267,
         "work_period": 121513127.75294694,
-        "order": 15,
+        "order": 10,
         "color": "#305774"
+    },
+    "ViaBTC-YES": {
+        "count_period": 122,
+        "count_total": 634,
+        "work_period": 1482460158.5859554,
+        "order": 11,
+        "color": "#01973c"
     },
     "ckpool-NO": {
         "count_period": 5,
         "count_total": 28,
         "work_period": 60756563.87647348,
-        "order": 16,
+        "order": 12,
         "color": "#c48ff2"
+    },
+    "Slush-YES": {
+        "count_period": 108,
+        "count_total": 438,
+        "work_period": 1312341779.7318285,
+        "order": 13,
+        "color": "#b78419"
     },
     "TAAL-NO": {
         "count_period": 0,
         "count_total": 22,
         "work_period": 0.0,
-        "order": 17,
+        "order": 14,
         "color": "#0ce0a1"
+    },
+    "Huobi-YES": {
+        "count_period": 91,
+        "count_total": 448,
+        "work_period": 1105769462.5518174,
+        "order": 15,
+        "color": "#5549ee"
     },
     "SpiderPool-YES": {
         "count_period": 17,
         "count_total": 57,
         "work_period": 206572317.1800098,
-        "order": 18,
+        "order": 16,
         "color": "#209a4e"
+    },
+    "poolin.com-NO": {
+        "count_period": 37,
+        "count_total": 117,
+        "work_period": 449598572.68590415,
+        "order": 17,
+        "color": "#a3a6c5"
+    },
+    "BTC.TOP-YES": {
+        "count_period": 55,
+        "count_total": 300,
+        "work_period": 668322202.6412083,
+        "order": 18,
+        "color": "#5a2283"
     },
     "Ukrpool-YES": {
         "count_period": 1,
