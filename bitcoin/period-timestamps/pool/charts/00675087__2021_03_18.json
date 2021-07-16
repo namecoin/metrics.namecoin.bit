@@ -11,9 +11,9 @@
         ],
         "notes": "Another coinbase is 'fabe6d6d' in hex (\ud83d\udc1f) and 'Mined by' in ascii, but I think the address covers these coinbase signatures.",
         "count_period": 332,
-        "count_total": 9995,
+        "count_total": 9976,
         "work_period": 5896777467.080679,
-        "order": 9,
+        "order": 5,
         "color": "#37f7e2"
     },
     "Slush": {
@@ -21,9 +21,9 @@
             "slush"
         ],
         "count_period": 58,
-        "count_total": 2079,
+        "count_total": 2067,
         "work_period": 1030100866.4803553,
-        "order": 12,
+        "order": 13,
         "color": "#462363"
     },
     "AntPool": {
@@ -31,9 +31,9 @@
             "AntPool"
         ],
         "count_period": 218,
-        "count_total": 6281,
+        "count_total": 6261,
         "work_period": 3869290064.4577775,
-        "order": 7,
+        "order": 6,
         "color": "#114cf6"
     },
     "poolin.com": {
@@ -41,9 +41,9 @@
             "poolin.com"
         ],
         "count_period": 289,
-        "count_total": 8309,
+        "count_total": 8285,
         "work_period": 5132095437.316476,
-        "order": 6,
+        "order": 4,
         "color": "#101452"
     },
     "BTC.COM": {
@@ -53,9 +53,9 @@
             "/BTCcom/"
         ],
         "count_period": 161,
-        "count_total": 6559,
+        "count_total": 6539,
         "work_period": 2862157492.876912,
-        "order": 1,
+        "order": 3,
         "color": "#1068b3"
     },
     "ViaBTC": {
@@ -64,9 +64,9 @@
             "viabtc.com"
         ],
         "count_period": 163,
-        "count_total": 4009,
+        "count_total": 4002,
         "work_period": 2894415883.2333274,
-        "order": 8,
+        "order": 7,
         "color": "#4875b6"
     },
     "Bitfury": {
@@ -75,7 +75,7 @@
             "BitFury"
         ],
         "count_period": 0,
-        "count_total": 97,
+        "count_total": 92,
         "work_period": 0.0,
         "order": 10,
         "color": "#f6b85b"
@@ -87,9 +87,9 @@
         ],
         "notes": "E2M/BTCST is attributed by coin.dance",
         "count_period": 76,
-        "count_total": 1666,
+        "count_total": 1660,
         "work_period": 1348922628.5267413,
-        "order": 11,
+        "order": 2,
         "color": "#6b2f7f"
     },
     "Huobi": {
@@ -99,9 +99,9 @@
             "/one_more_mcd/"
         ],
         "count_period": 176,
-        "count_total": 4741,
+        "count_total": 4737,
         "work_period": 3123700839.7510147,
-        "order": 13,
+        "order": 11,
         "color": "#47e82a"
     },
     "okpool": {
@@ -990,9 +990,9 @@
             "/www.okex.com/"
         ],
         "count_period": 19,
-        "count_total": 2265,
+        "count_total": 2258,
         "work_period": 336774717.1502666,
-        "order": 4,
+        "order": 12,
         "color": "#91ceda"
     },
     "1THash&58COIN": {
@@ -1000,9 +1000,9 @@
             "/1THash&58COIN/"
         ],
         "count_period": 0,
-        "count_total": 3188,
+        "count_total": 3178,
         "work_period": 0.0,
-        "order": 3,
+        "order": 9,
         "color": "#0e15b1"
     },
     "Yourbtc.net": {
@@ -1034,9 +1034,9 @@
             "/NovaBlock/"
         ],
         "count_period": 0,
-        "count_total": 586,
+        "count_total": 581,
         "work_period": 0.0,
-        "order": 2,
+        "order": 14,
         "color": "#a26072"
     },
     "Prohashing": {
@@ -1198,9 +1198,9 @@
             "bytepool.com/"
         ],
         "count_period": 0,
-        "count_total": 215,
+        "count_total": 209,
         "work_period": 0.0,
-        "order": 14,
+        "order": 8,
         "color": "#4302e0"
     },
     "Ukrpool": {
@@ -1359,9 +1359,9 @@
     "Unknown": {
         "notes": "Just a spare field, comes in handy in some scripts.",
         "count_period": 0,
-        "count_total": 226,
+        "count_total": 221,
         "work_period": 0.0,
-        "order": 5,
+        "order": 1,
         "color": "#c16aa1"
     }
 }

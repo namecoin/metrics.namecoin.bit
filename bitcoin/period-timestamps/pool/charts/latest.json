@@ -11,9 +11,9 @@
         ],
         "notes": "Another coinbase is 'fabe6d6d' in hex (\ud83d\udc1f) and 'Mined by' in ascii, but I think the address covers these coinbase signatures.",
         "count_period": 160,
-        "count_total": 12260,
+        "count_total": 12241,
         "work_period": 2368059841.6774874,
-        "order": 9,
+        "order": 5,
         "color": "#37f7e2"
     },
     "Slush": {
@@ -21,9 +21,9 @@
             "slush"
         ],
         "count_period": 67,
-        "count_total": 2555,
+        "count_total": 2543,
         "work_period": 956134059.1059141,
-        "order": 12,
+        "order": 13,
         "color": "#462363"
     },
     "AntPool": {
@@ -31,9 +31,9 @@
             "AntPool"
         ],
         "count_period": 202,
-        "count_total": 8464,
+        "count_total": 8444,
         "work_period": 2875667185.125397,
-        "order": 7,
+        "order": 6,
         "color": "#114cf6"
     },
     "poolin.com": {
@@ -41,9 +41,9 @@
             "poolin.com"
         ],
         "count_period": 156,
-        "count_total": 10322,
+        "count_total": 10298,
         "work_period": 2297584057.2710114,
-        "order": 6,
+        "order": 4,
         "color": "#101452"
     },
     "BTC.COM": {
@@ -53,9 +53,9 @@
             "/BTCcom/"
         ],
         "count_period": 84,
-        "count_total": 7694,
+        "count_total": 7674,
         "work_period": 1203886451.363616,
-        "order": 1,
+        "order": 3,
         "color": "#1068b3"
     },
     "ViaBTC": {
@@ -64,9 +64,9 @@
             "viabtc.com"
         ],
         "count_period": 189,
-        "count_total": 5547,
+        "count_total": 5540,
         "work_period": 2735204580.0971565,
-        "order": 8,
+        "order": 7,
         "color": "#4875b6"
     },
     "Bitfury": {
@@ -75,7 +75,7 @@
             "BitFury"
         ],
         "count_period": 0,
-        "count_total": 97,
+        "count_total": 92,
         "work_period": 0.0,
         "order": 10,
         "color": "#f6b85b"
@@ -87,9 +87,9 @@
         ],
         "notes": "E2M/BTCST is attributed by coin.dance",
         "count_period": 6,
-        "count_total": 2042,
+        "count_total": 2036,
         "work_period": 94209300.72753157,
-        "order": 11,
+        "order": 2,
         "color": "#6b2f7f"
     },
     "Huobi": {
@@ -99,9 +99,9 @@
             "/one_more_mcd/"
         ],
         "count_period": 35,
-        "count_total": 5606,
+        "count_total": 5602,
         "work_period": 516575043.38167703,
-        "order": 13,
+        "order": 11,
         "color": "#47e82a"
     },
     "okpool": {
@@ -986,9 +986,9 @@
             "/www.okex.com/"
         ],
         "count_period": 5,
-        "count_total": 2393,
+        "count_total": 2386,
         "work_period": 73139041.8612577,
-        "order": 4,
+        "order": 12,
         "color": "#91ceda"
     },
     "1THash&58COIN": {
@@ -996,9 +996,9 @@
             "/1THash&58COIN/"
         ],
         "count_period": 0,
-        "count_total": 3188,
+        "count_total": 3178,
         "work_period": 0.0,
-        "order": 3,
+        "order": 9,
         "color": "#0e15b1"
     },
     "Yourbtc.net": {
@@ -1030,9 +1030,9 @@
             "/NovaBlock/"
         ],
         "count_period": 0,
-        "count_total": 586,
+        "count_total": 581,
         "work_period": 0.0,
-        "order": 2,
+        "order": 14,
         "color": "#a26072"
     },
     "Prohashing": {
@@ -1194,9 +1194,9 @@
             "bytepool.com/"
         ],
         "count_period": 0,
-        "count_total": 215,
+        "count_total": 209,
         "work_period": 0.0,
-        "order": 14,
+        "order": 8,
         "color": "#4302e0"
     },
     "Ukrpool": {
@@ -1347,9 +1347,9 @@
     "Unknown": {
         "notes": "Just a spare field, comes in handy in some scripts.",
         "count_period": 293,
-        "count_total": 753,
+        "count_total": 748,
         "work_period": 4254655950.670157,
-        "order": 5,
+        "order": 1,
         "color": "#c16aa1"
     }
 }

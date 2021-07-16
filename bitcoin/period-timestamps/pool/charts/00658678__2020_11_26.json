@@ -11,9 +11,9 @@
         ],
         "notes": "Another coinbase is 'fabe6d6d' in hex (\ud83d\udc1f) and 'Mined by' in ascii, but I think the address covers these coinbase signatures.",
         "count_period": 433,
-        "count_total": 7162,
+        "count_total": 7143,
         "work_period": 6204533744.297492,
-        "order": 9,
+        "order": 5,
         "color": "#37f7e2"
     },
     "Slush": {
@@ -21,9 +21,9 @@
             "slush"
         ],
         "count_period": 58,
-        "count_total": 1560,
+        "count_total": 1548,
         "work_period": 830927027.456949,
-        "order": 12,
+        "order": 13,
         "color": "#462363"
     },
     "AntPool": {
@@ -31,9 +31,9 @@
             "AntPool"
         ],
         "count_period": 222,
-        "count_total": 4632,
+        "count_total": 4612,
         "work_period": 3174241767.218546,
-        "order": 7,
+        "order": 6,
         "color": "#114cf6"
     },
     "poolin.com": {
@@ -41,9 +41,9 @@
             "poolin.com"
         ],
         "count_period": 274,
-        "count_total": 6227,
+        "count_total": 6203,
         "work_period": 3929264859.91554,
-        "order": 6,
+        "order": 4,
         "color": "#101452"
     },
     "BTC.COM": {
@@ -53,9 +53,9 @@
             "/BTCcom/"
         ],
         "count_period": 198,
-        "count_total": 5191,
+        "count_total": 5171,
         "work_period": 2835851985.3684683,
-        "order": 1,
+        "order": 3,
         "color": "#1068b3"
     },
     "ViaBTC": {
@@ -64,9 +64,9 @@
             "viabtc.com"
         ],
         "count_period": 160,
-        "count_total": 2732,
+        "count_total": 2725,
         "work_period": 2290483011.2799397,
-        "order": 8,
+        "order": 7,
         "color": "#4875b6"
     },
     "Bitfury": {
@@ -75,7 +75,7 @@
             "BitFury"
         ],
         "count_period": 0,
-        "count_total": 97,
+        "count_total": 92,
         "work_period": 0.0,
         "order": 10,
         "color": "#f6b85b"
@@ -87,9 +87,9 @@
         ],
         "notes": "E2M/BTCST is attributed by coin.dance",
         "count_period": 52,
-        "count_total": 1231,
+        "count_total": 1225,
         "work_period": 739642266.0693796,
-        "order": 11,
+        "order": 2,
         "color": "#6b2f7f"
     },
     "Huobi": {
@@ -99,9 +99,9 @@
             "/one_more_mcd/"
         ],
         "count_period": 228,
-        "count_total": 3195,
+        "count_total": 3191,
         "work_period": 3264857797.0136113,
-        "order": 13,
+        "order": 11,
         "color": "#47e82a"
     },
     "okpool": {
@@ -998,9 +998,9 @@
             "/www.okex.com/"
         ],
         "count_period": 1,
-        "count_total": 2191,
+        "count_total": 2184,
         "work_period": 14545395.305423219,
-        "order": 4,
+        "order": 12,
         "color": "#91ceda"
     },
     "1THash&58COIN": {
@@ -1008,9 +1008,9 @@
             "/1THash&58COIN/"
         ],
         "count_period": 147,
-        "count_total": 2645,
+        "count_total": 2635,
         "work_period": 2107411456.6419826,
-        "order": 3,
+        "order": 9,
         "color": "#0e15b1"
     },
     "Yourbtc.net": {
@@ -1042,9 +1042,9 @@
             "/NovaBlock/"
         ],
         "count_period": 23,
-        "count_total": 463,
+        "count_total": 458,
         "work_period": 332537897.24721885,
-        "order": 2,
+        "order": 14,
         "color": "#a26072"
     },
     "Prohashing": {
@@ -1214,9 +1214,9 @@
             "bytepool.com/"
         ],
         "count_period": 0,
-        "count_total": 215,
+        "count_total": 209,
         "work_period": 0.0,
-        "order": 14,
+        "order": 8,
         "color": "#4302e0"
     },
     "Ukrpool": {
@@ -1395,9 +1395,9 @@
     "Unknown": {
         "notes": "Just a spare field, comes in handy in some scripts.",
         "count_period": 0,
-        "count_total": 223,
+        "count_total": 218,
         "work_period": 0.0,
-        "order": 5,
+        "order": 1,
         "color": "#c16aa1"
     }
 }
