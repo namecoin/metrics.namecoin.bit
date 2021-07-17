@@ -1,0 +1,19 @@
+Namecoin Mining Distribution
+Block: 276120
+10 Mar 2016 
+
+Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
+
+                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+
+         Total Chain      100.00%      79,721,748      100.00%               0           
+
+          F2Pool-180       81.12%      64,674,914        0.00%               0                     30.97%
+       SlushPool-180       12.54%       9,994,020        0.00%               0                     28.74%
+        GHash.IO-180        2.88%       2,296,951        0.00%               0                     23.33%
+         Eligius-180        2.02%       1,607,626        0.00%               0                     19.05%
+       BitMinter-180        1.01%         803,813        0.00%               0                     23.81%
+       Multipool-180        0.24%         191,132        0.00%               0                      0.00%
+       EclipseMC-180        0.10%          76,645        0.00%               0                      0.00%
+         Unknown-180        0.05%          38,322        0.00%               0                      0.00%
+  myBTCcoin Pool-180        0.05%          38,322        0.00%               0                    100.00%

@@ -1,0 +1,31 @@
+Namecoin Mining Distribution
+Block: 182864
+19 Jun 2014 
+
+Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
+
+                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+
+         Total Chain      100.00%      16,235,044      100.00%               0           
+
+        GHash.IO-185       44.80%       7,305,248        0.00%               0                     69.31%
+          F2Pool-185       17.09%       2,802,457        0.00%               0                     69.19%
+       BTC Guild-185       14.71%       2,388,544        0.00%               0                     67.90%
+         Eligius-185        8.82%       1,444,342        0.00%               0                     70.62%
+    CloudHashing-185        3.89%         636,171        0.00%               0                     68.82%
+        GHash.IO-186        2.42%         354,440        0.00%               0                     65.52%
+         Polmine-185        1.92%         322,945        0.00%               0                     69.57%
+       BitMinter-185        1.92%         313,899        0.00%               0                     63.04%
+          F2Pool-186        1.00%         146,664        0.00%               0                     75.00%
+       BTC Guild-186        1.00%         146,664        0.00%               0                     75.00%
+       EclipseMC-185        0.67%         111,345        0.00%               0                     56.25%
+         Eligius-186        0.75%         109,998        0.00%               0                     61.11%
+       Cointerra-185        0.29%          45,038        0.00%               0                     57.14%
+         Unknown-185        0.17%          26,705        0.00%               0                     50.00%
+    CloudHashing-186        0.17%          24,444        0.00%               0                     75.00%
+         Polmine-186        0.13%          18,333        0.00%               0                     33.33%
+          mmpool-185        0.08%          13,352        0.00%               0                     50.00%
+       BitMinter-186        0.04%           6,111        0.00%               0                    100.00%
+       EclipseMC-186        0.04%           6,111        0.00%               0                    100.00%
+         Unknown-186        0.04%           6,111        0.00%               0                    100.00%
+          mmpool-186        0.04%           6,111        0.00%               0                    100.00%

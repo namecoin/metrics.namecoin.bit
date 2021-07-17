@@ -1,0 +1,29 @@
+Namecoin Mining Distribution
+Block: 178113
+22 May 2014 
+
+Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
+
+                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+
+         Total Chain      100.00%      11,071,707      100.00%               0           
+
+        GHash.IO-187       31.32%       3,552,867        0.00%               0                     64.58%
+        GHash.IO-190       13.80%       1,434,567        0.00%               0                     70.39%
+       BTC Guild-187       12.47%       1,416,040        0.00%               0                     65.89%
+          F2Pool-187       11.38%       1,308,162        0.00%               0                     68.13%
+         Eligius-187        7.42%         842,595        0.00%               0                     62.36%
+          F2Pool-190        6.63%         689,112        0.00%               0                     61.64%
+       BTC Guild-190        5.71%         593,763        0.00%               0                     68.61%
+         Eligius-190        4.05%         420,401        0.00%               0                     62.89%
+    CloudHashing-187        1.88%         231,561        0.00%               0                     57.78%
+         Polmine-187        1.42%         158,892        0.00%               0                     76.47%
+       BitMinter-187        1.13%         130,477        0.00%               0                     55.56%
+       EclipseMC-187        0.96%         102,566        0.00%               0                     47.83%
+       EclipseMC-190        0.58%          60,676        0.00%               0                     64.29%
+       BitMinter-190        0.50%          52,008        0.00%               0                     58.33%
+         Polmine-190        0.33%          34,672        0.00%               0                     62.50%
+    CloudHashing-190        0.21%          21,670        0.00%               0                     60.00%
+         Unknown-187        0.13%          13,002        0.00%               0                     33.33%
+         Unknown-190        0.04%           4,334        0.00%               0                    100.00%
+          mmpool-190        0.04%           4,334        0.00%               0                      0.00%
