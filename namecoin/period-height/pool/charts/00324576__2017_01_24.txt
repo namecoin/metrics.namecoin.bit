@@ -4,19 +4,19 @@ Block: 324576
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                                    Namecoin         Bitcoin
+                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain 100.00%     263,249,488               0
+         Total Chain      100.00%     263,249,488      100.00%               0           
 
-              F2Pool  35.02%      92,186,401               0  43.91%
-                BTCC  18.45%      48,583,137               0  37.90%
-              ViaBTC  15.67%      41,261,902               0  43.04%
-               Slush  13.05%      34,341,393               0  41.83%
-             BTC.COM   9.72%      25,592,825               0  41.33%
-             BTC.TOP   5.51%      14,493,895               0  45.05%
-             Batpool   1.69%       4,439,571               0  44.12%
-             Unknown   0.35%         914,029               0 100.00%
-            Phash.IO   0.25%         652,878               0  20.00%
-           BitMinter   0.10%         261,151               0  50.00%
-             Eligius   0.10%         261,151               0  50.00%
-Default zone117x/NodeStratum   0.10%         261,151               0  50.00%
+              F2Pool       35.02%      92,186,401        0.00%               0                     43.91%
+                BTCC       18.45%      48,583,137        0.00%               0                     37.90%
+              ViaBTC       15.67%      41,261,902        0.00%               0                     43.04%
+           SlushPool       13.05%      34,341,393        0.00%               0                     41.83%
+             BTC.com        9.72%      25,592,825        0.00%               0                     41.33%
+             BTC.TOP        5.51%      14,493,895        0.00%               0                     45.05%
+             BATPOOL        1.69%       4,439,571        0.00%               0                     44.12%
+             Unknown        0.35%         914,029        0.00%               0                    100.00%
+            PHash.IO        0.25%         652,878        0.00%               0                     20.00%
+           BitMinter        0.10%         261,151        0.00%               0                     50.00%
+             Eligius        0.10%         261,151        0.00%               0                     50.00%
+               Eobot        0.10%         261,151        0.00%               0                     50.00%

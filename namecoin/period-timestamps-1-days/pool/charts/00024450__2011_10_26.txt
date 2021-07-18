@@ -4,9 +4,9 @@ Block: 24450
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                                    Namecoin         Bitcoin
+                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain 100.00%             406               0
+         Total Chain      100.00%             406      100.00%               0           
 
-             Unknown  82.22%             334               0  10.27%
-             Eligius  17.78%              72               0  15.00%
+             Unknown       82.22%             334        0.00%               0                     10.27%
+             Eligius       17.78%              72        0.00%               0                     15.00%

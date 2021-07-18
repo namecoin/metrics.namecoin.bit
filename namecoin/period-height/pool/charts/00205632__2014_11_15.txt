@@ -4,17 +4,18 @@ Block: 205632
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                                    Namecoin         Bitcoin
+                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain 100.00%      35,691,256               0
+         Total Chain      100.00%      35,691,256      100.00%               0           
 
-              F2Pool  45.68%      16,305,426               0  56.24%
-            GHash.IO  28.17%      10,055,797               0  54.23%
-           BTC Guild   7.79%       2,779,535               0  54.14%
-             Eligius   7.59%       2,708,719               0  55.56%
-             AntPool   5.65%       2,018,261               0  57.02%
-             Unknown   2.78%         991,426               0  51.79%
-           BitMinter   1.04%         371,784               0  42.86%
-           EclipseMC   0.69%         247,856               0  57.14%
-             Polmine   0.55%         194,744               0  54.55%
-              MMPool   0.05%          17,704               0 100.00%
+              F2Pool       45.68%      16,305,426        0.00%               0                     56.24%
+            GHash.IO       28.17%      10,055,797        0.00%               0                     54.23%
+           BTC Guild        7.79%       2,779,535        0.00%               0                     54.14%
+             Eligius        7.59%       2,708,719        0.00%               0                     55.56%
+             AntPool        5.65%       2,018,261        0.00%               0                     57.02%
+        CloudHashing        1.74%         619,641        0.00%               0                     54.29%
+           BitMinter        1.04%         371,784        0.00%               0                     42.86%
+             Unknown        1.04%         371,784        0.00%               0                     47.62%
+           EclipseMC        0.69%         247,856        0.00%               0                     57.14%
+             Polmine        0.55%         194,744        0.00%               0                     54.55%
+              mmpool        0.05%          17,704        0.00%               0                    100.00%

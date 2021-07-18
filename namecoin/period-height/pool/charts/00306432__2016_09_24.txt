@@ -4,18 +4,18 @@ Block: 306432
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                                    Namecoin         Bitcoin
+                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain 100.00%     194,346,185               0
+         Total Chain      100.00%     194,346,185      100.00%               0           
 
-              F2Pool  34.23%      66,516,896               0  50.58%
-                BTCC  24.70%      48,009,013               0  51.00%
-              ViaBTC  20.44%      39,717,335               0  44.90%
-               Slush  12.70%      24,678,732               0  53.12%
-             BTC.COM   4.91%       9,543,728               0  45.45%
-            GHash.IO   1.09%       2,120,828               0  54.55%
-              HaoBTC   0.79%       1,542,420               0  50.00%
-             Unknown   0.50%         964,012               0  50.00%
-           BitMinter   0.35%         674,809               0  42.86%
-             Eligius   0.25%         482,006               0  60.00%
-Default zone117x/NodeStratum   0.05%          96,401               0 100.00%
+              F2Pool       34.23%      66,516,896        0.00%               0                     50.58%
+                BTCC       24.70%      48,009,013        0.00%               0                     51.00%
+              ViaBTC       20.44%      39,717,335        0.00%               0                     44.90%
+           SlushPool       12.70%      24,678,732        0.00%               0                     53.12%
+             BTC.com        4.91%       9,543,728        0.00%               0                     45.45%
+            GHash.IO        1.09%       2,120,828        0.00%               0                     54.55%
+               Bixin        0.79%       1,542,420        0.00%               0                     50.00%
+             Unknown        0.50%         964,012        0.00%               0                     50.00%
+           BitMinter        0.35%         674,809        0.00%               0                     42.86%
+             Eligius        0.25%         482,006        0.00%               0                     60.00%
+               Eobot        0.05%          96,401        0.00%               0                    100.00%

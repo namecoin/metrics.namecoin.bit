@@ -4,16 +4,18 @@ Block: 222386
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                                    Namecoin         Bitcoin
+                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain 100.00%      27,074,205               0
+         Total Chain      100.00%      27,074,205      100.00%               0           
 
-              F2Pool  42.31%      11,454,471               0  22.73%
-           BTC Guild  14.10%       3,818,157               0  40.91%
-             Unknown  13.46%       3,644,604               0  23.81%
-             Eligius   9.62%       2,603,288               0  20.00%
-            TangPool   8.97%       2,429,736               0  35.71%
-            GHash.IO   8.33%       2,256,183               0  23.08%
-           BitMinter   1.92%         520,657               0  66.67%
-             BTC.COM   0.64%         173,552               0   0.00%
-           EclipseMC   0.64%         173,552               0   0.00%
+              F2Pool       42.31%      11,454,471        0.00%               0                     22.73%
+           BTC Guild       14.10%       3,818,157        0.00%               0                     40.91%
+             Polmine       11.54%       3,123,946        0.00%               0                     27.78%
+             Eligius        9.62%       2,603,288        0.00%               0                     20.00%
+            GHash.IO        8.33%       2,256,183        0.00%               0                     23.08%
+            Tangpool        5.13%       1,388,420        0.00%               0                     37.50%
+               Bixin        4.49%       1,214,868        0.00%               0                     28.57%
+           BitMinter        1.92%         520,657        0.00%               0                     66.67%
+             Unknown        1.28%         347,105        0.00%               0                      0.00%
+             Bitsolo        0.64%         173,552        0.00%               0                      0.00%
+           EclipseMC        0.64%         173,552        0.00%               0                      0.00%

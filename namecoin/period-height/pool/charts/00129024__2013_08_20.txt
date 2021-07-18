@@ -4,17 +4,18 @@ Block: 129024
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                                    Namecoin         Bitcoin
+                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain 100.00%          49,802               0
+         Total Chain      100.00%          49,802      100.00%               0           
 
-           BTC Guild  53.27%          26,536               0  44.69%
-            GHash.IO  14.34%           7,137               0  44.29%
-           EclipseMC   9.97%           4,964               0  43.78%
-           BitMinter   8.09%           4,025               0  41.10%
-             Eligius   5.90%           2,939               0  47.90%
-              F2Pool   5.36%           2,667               0  53.70%
-           SockThing   1.93%             963               0  46.15%
-             Unknown   1.04%             518               0  33.33%
-               Slush   0.05%              24               0 100.00%
-    Triplemining.com   0.05%              24               0 100.00%
+           BTC Guild       53.27%          26,536        0.00%               0                     44.69%
+            GHash.IO       14.34%           7,137        0.00%               0                     44.29%
+           EclipseMC        9.97%           4,964        0.00%               0                     43.78%
+           BitMinter        8.09%           4,025        0.00%               0                     41.10%
+             Eligius        5.90%           2,939        0.00%               0                     47.90%
+              F2Pool        5.36%           2,667        0.00%               0                     53.70%
+          Bitparking        1.93%             963        0.00%               0                     46.15%
+             Unknown        0.79%             395        0.00%               0                     37.50%
+             Polmine        0.25%             123        0.00%               0                     20.00%
+           SlushPool        0.05%              24        0.00%               0                    100.00%
+        TripleMining        0.05%              24        0.00%               0                    100.00%

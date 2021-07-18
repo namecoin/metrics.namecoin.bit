@@ -4,16 +4,17 @@ Block: 223214
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                                    Namecoin         Bitcoin
+                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain 100.00%      24,776,425               0
+         Total Chain      100.00%      24,776,425      100.00%               0           
 
-              F2Pool  63.89%      15,829,382               0  35.87%
-           BTC Guild   9.03%       2,236,760               0  46.15%
-            GHash.IO   8.33%       2,064,702               0  33.33%
-             Unknown   6.94%       1,720,585               0  50.00%
-            TangPool   4.86%       1,204,409               0  28.57%
-             Eligius   3.47%         860,292               0   0.00%
-           BitMinter   1.39%         344,117               0   0.00%
-           EclipseMC   1.39%         344,117               0  50.00%
-             BTC.COM   0.69%         172,058               0   0.00%
+              F2Pool       63.89%      15,829,382        0.00%               0                     35.87%
+           BTC Guild        9.03%       2,236,760        0.00%               0                     46.15%
+            GHash.IO        8.33%       2,064,702        0.00%               0                     33.33%
+             Polmine        6.25%       1,548,526        0.00%               0                     44.44%
+             Eligius        3.47%         860,292        0.00%               0                      0.00%
+               Bixin        2.78%         688,234        0.00%               0                     25.00%
+            Tangpool        2.78%         688,234        0.00%               0                     25.00%
+           BitMinter        1.39%         344,117        0.00%               0                      0.00%
+           EclipseMC        1.39%         344,117        0.00%               0                     50.00%
+             Bitsolo        0.69%         172,058        0.00%               0                    100.00%

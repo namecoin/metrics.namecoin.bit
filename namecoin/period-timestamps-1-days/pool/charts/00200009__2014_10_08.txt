@@ -4,17 +4,17 @@ Block: 200009
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                                    Namecoin         Bitcoin
+                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain 100.00%      34,458,185               0
+         Total Chain      100.00%      34,458,185      100.00%               0           
 
-              F2Pool  35.92%      12,375,827               0  50.98%
-            GHash.IO  34.51%      11,890,500               0  69.39%
-           BTC Guild   7.75%       2,669,296               0  54.55%
-             Eligius   7.04%       2,426,632               0  60.00%
-             AntPool   5.63%       1,941,306               0  62.50%
-             Polmine   3.52%       1,213,316               0  60.00%
-             Unknown   2.11%         727,989               0 100.00%
-           BitMinter   1.41%         485,326               0 100.00%
-           EclipseMC   1.41%         485,326               0 100.00%
-              MMPool   0.70%         242,663               0   0.00%
+              F2Pool       35.92%      12,375,827        0.00%               0                     50.98%
+            GHash.IO       34.51%      11,890,500        0.00%               0                     69.39%
+           BTC Guild        7.75%       2,669,296        0.00%               0                     54.55%
+             Eligius        7.04%       2,426,632        0.00%               0                     60.00%
+             AntPool        5.63%       1,941,306        0.00%               0                     62.50%
+             Polmine        3.52%       1,213,316        0.00%               0                     60.00%
+        CloudHashing        2.11%         727,989        0.00%               0                    100.00%
+           BitMinter        1.41%         485,326        0.00%               0                    100.00%
+           EclipseMC        1.41%         485,326        0.00%               0                    100.00%
+              mmpool        0.70%         242,663        0.00%               0                      0.00%

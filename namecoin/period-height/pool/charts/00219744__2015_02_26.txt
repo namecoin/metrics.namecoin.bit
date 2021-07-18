@@ -4,16 +4,18 @@ Block: 219744
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                                    Namecoin         Bitcoin
+                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain 100.00%      26,853,672               0
+         Total Chain      100.00%      26,853,672      100.00%               0           
 
-              F2Pool  37.50%      10,070,207               0  33.99%
-            GHash.IO  21.13%       5,674,481               0  34.27%
-             Unknown  15.58%       4,182,599               0  37.58%
-           BTC Guild   9.47%       2,543,979               0  41.36%
-            TangPool   7.39%       1,984,736               0  37.58%
-             Eligius   6.55%       1,758,290               0  39.39%
-           BitMinter   1.59%         426,252               0  43.75%
-           EclipseMC   0.69%         186,485               0  42.86%
-              MMPool   0.10%          26,640               0   0.00%
+              F2Pool       37.50%      10,070,207        0.00%               0                     33.99%
+            GHash.IO       21.13%       5,674,481        0.00%               0                     34.27%
+             Unknown       15.43%       4,142,638        0.00%               0                     37.30%
+           BTC Guild        9.47%       2,543,979        0.00%               0                     41.36%
+             Eligius        6.55%       1,758,290        0.00%               0                     39.39%
+            Tangpool        4.02%       1,078,950        0.00%               0                     39.51%
+               Bixin        3.37%         905,785        0.00%               0                     35.29%
+           BitMinter        1.59%         426,252        0.00%               0                     43.75%
+           EclipseMC        0.69%         186,485        0.00%               0                     42.86%
+             Bitsolo        0.15%          39,961        0.00%               0                     66.67%
+              mmpool        0.10%          26,640        0.00%               0                      0.00%

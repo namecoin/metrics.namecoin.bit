@@ -4,12 +4,12 @@ Block: 315261
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                                    Namecoin         Bitcoin
+                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain 100.00%     200,336,112               0
+         Total Chain      100.00%     200,336,112      100.00%               0           
 
-              F2Pool  41.38%      82,897,701               0  40.00%
-                BTCC  20.00%      40,067,222               0  48.28%
-               Slush  15.86%      31,777,452               0  43.48%
-              ViaBTC  14.48%      29,014,195               0  38.10%
-             BTC.COM   8.28%      16,579,540               0  66.67%
+              F2Pool       41.38%      82,897,701        0.00%               0                     40.00%
+                BTCC       20.00%      40,067,222        0.00%               0                     48.28%
+           SlushPool       15.86%      31,777,452        0.00%               0                     43.48%
+              ViaBTC       14.48%      29,014,195        0.00%               0                     38.10%
+             BTC.com        8.28%      16,579,540        0.00%               0                     66.67%

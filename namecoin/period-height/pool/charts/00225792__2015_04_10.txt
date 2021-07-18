@@ -4,17 +4,19 @@ Block: 225792
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                                    Namecoin         Bitcoin
+                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain 100.00%      24,948,393               0
+         Total Chain      100.00%      24,948,393      100.00%               0           
 
-              F2Pool  55.85%      13,933,952               0  36.15%
-           BTC Guild  12.20%       3,044,440               0  37.80%
-            GHash.IO   9.82%       2,450,403               0  38.89%
-             Eligius   7.64%       1,905,869               0  39.61%
-             Unknown   7.14%       1,782,111               0  33.33%
-            TangPool   2.83%         705,419               0  40.35%
-           BitMinter   2.78%         693,043               0  37.50%
-           EclipseMC   1.04%         259,891               0  47.62%
-             BTC.COM   0.60%         148,509               0  58.33%
-              MMPool   0.10%          24,751               0  50.00%
+              F2Pool       55.85%      13,933,952        0.00%               0                     36.15%
+           BTC Guild       12.20%       3,044,440        0.00%               0                     37.80%
+            GHash.IO        9.82%       2,450,403        0.00%               0                     38.89%
+             Eligius        7.64%       1,905,869        0.00%               0                     39.61%
+             Polmine        6.60%       1,645,978        0.00%               0                     34.59%
+           BitMinter        2.78%         693,043        0.00%               0                     37.50%
+               Bixin        1.88%         470,279        0.00%               0                     50.00%
+            Tangpool        1.54%         383,649        0.00%               0                     35.48%
+           EclipseMC        1.04%         259,891        0.00%               0                     47.62%
+             Bitsolo        0.40%          99,006        0.00%               0                     25.00%
+             Unknown        0.15%          37,127        0.00%               0                      0.00%
+              mmpool        0.10%          24,751        0.00%               0                     50.00%

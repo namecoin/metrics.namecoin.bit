@@ -4,16 +4,17 @@ Block: 120960
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                                    Namecoin         Bitcoin
+                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain 100.00%          14,820               0
+         Total Chain      100.00%          14,820      100.00%               0           
 
-           BTC Guild  59.57%           8,828               0  37.64%
-           BitMinter  10.07%           1,492               0  36.95%
-           EclipseMC   8.98%           1,331               0  32.04%
-             Eligius   8.58%           1,271               0  35.26%
-              F2Pool   7.59%           1,124               0  33.99%
-           SockThing   3.08%             455               0  29.03%
-             Unknown   1.49%             220               0  60.00%
-    Triplemining.com   0.55%              80               0  36.36%
-              MaxBTC   0.10%              14               0 100.00%
+           BTC Guild       59.57%           8,828        0.00%               0                     37.64%
+           BitMinter       10.07%           1,492        0.00%               0                     36.95%
+           EclipseMC        8.98%           1,331        0.00%               0                     32.04%
+             Eligius        8.58%           1,271        0.00%               0                     35.26%
+              F2Pool        7.59%           1,124        0.00%               0                     33.99%
+          Bitparking        3.08%             455        0.00%               0                     29.03%
+             Polmine        0.79%             117        0.00%               0                     75.00%
+             Unknown        0.69%             102        0.00%               0                     42.86%
+        TripleMining        0.55%              80        0.00%               0                     36.36%
+              MaxBTC        0.10%              14        0.00%               0                    100.00%

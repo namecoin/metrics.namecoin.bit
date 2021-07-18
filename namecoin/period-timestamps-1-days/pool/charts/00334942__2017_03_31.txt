@@ -4,18 +4,18 @@ Block: 334942
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                                    Namecoin         Bitcoin
+                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain 100.00%     526,076,106               0
+         Total Chain      100.00%     526,076,106      100.00%               0           
 
-              F2Pool  23.39%     123,058,738               0  47.50%
-             AntPool  16.96%      89,217,585               0  58.62%
-               Slush  14.04%      73,835,243               0  79.17%
-              ViaBTC  14.04%      73,835,243               0  37.50%
-                BTCC  12.28%      64,605,837               0  47.62%
-             BTC.TOP  11.11%      58,452,900               0  42.11%
-             BTC.COM   2.92%      15,382,342               0  40.00%
-               Canoe   2.34%      12,305,873               0  50.00%
-             Batpool   1.75%       9,229,405               0   0.00%
-            Phash.IO   0.58%       3,076,468               0   0.00%
-Default zone117x/NodeStratum   0.58%       3,076,468               0   0.00%
+              F2Pool       23.39%     123,058,738        0.00%               0                     47.50%
+             AntPool       16.96%      89,217,585        0.00%               0                     58.62%
+           SlushPool       14.04%      73,835,243        0.00%               0                     79.17%
+              ViaBTC       14.04%      73,835,243        0.00%               0                     37.50%
+                BTCC       12.28%      64,605,837        0.00%               0                     47.62%
+             BTC.TOP       11.11%      58,452,900        0.00%               0                     42.11%
+             BTC.com        2.92%      15,382,342        0.00%               0                     40.00%
+               CANOE        2.34%      12,305,873        0.00%               0                     50.00%
+             BATPOOL        1.75%       9,229,405        0.00%               0                      0.00%
+               Eobot        0.58%       3,076,468        0.00%               0                      0.00%
+            PHash.IO        0.58%       3,076,468        0.00%               0                      0.00%

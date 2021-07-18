@@ -4,16 +4,17 @@ Block: 169344
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                                    Namecoin         Bitcoin
+                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain 100.00%       5,932,048               0
+         Total Chain      100.00%       5,932,048      100.00%               0           
 
-            GHash.IO  35.66%       2,115,526               0  70.38%
-           BTC Guild  21.08%       1,250,484               0  68.47%
-              F2Pool  19.84%       1,176,926               0  70.50%
-             Eligius  18.45%       1,094,879               0  72.31%
-             Unknown   2.48%         147,115               0  60.00%
-           BitMinter   2.03%         120,635               0  53.66%
-           EclipseMC   0.30%          17,653               0  66.67%
-             Polmine   0.10%           5,884               0  50.00%
-           SockThing   0.05%           2,942               0 100.00%
+            GHash.IO       35.66%       2,115,526        0.00%               0                     70.38%
+           BTC Guild       21.08%       1,250,484        0.00%               0                     68.47%
+              F2Pool       19.84%       1,176,926        0.00%               0                     70.50%
+             Eligius       18.45%       1,094,879        0.00%               0                     72.31%
+           BitMinter        2.03%         120,635        0.00%               0                     53.66%
+           EclipseMC        2.03%         120,635        0.00%               0                     53.66%
+        CloudHashing        0.55%          32,365        0.00%               0                     72.73%
+             Unknown        0.20%          11,769        0.00%               0                    100.00%
+             Polmine        0.10%           5,884        0.00%               0                     50.00%
+          Bitparking        0.05%           2,942        0.00%               0                    100.00%

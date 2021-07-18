@@ -4,18 +4,18 @@ Block: 139104
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                                    Namecoin         Bitcoin
+                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain 100.00%         227,769               0
+         Total Chain      100.00%         227,769      100.00%               0           
 
-           BTC Guild  45.68%         104,039               0  61.67%
-            GHash.IO  23.41%          53,318               0  60.17%
-             Eligius   8.63%          19,655               0  54.02%
-           BitMinter   8.23%          18,751               0  60.84%
-     Pierce and Paul   4.56%          10,392               0  64.13%
-           EclipseMC   3.72%           8,472               0  70.67%
-              F2Pool   3.03%           6,925               0  62.30%
-             Unknown   2.03%           4,631               0  60.98%
-           SockThing   0.45%           1,016               0  44.44%
-    Triplemining.com   0.20%             451               0  75.00%
-    megabigpower.com   0.05%             112               0 100.00%
+           BTC Guild       45.68%         104,039        0.00%               0                     61.67%
+            GHash.IO       23.41%          53,318        0.00%               0                     60.17%
+             Eligius        8.63%          19,655        0.00%               0                     54.02%
+           BitMinter        8.23%          18,751        0.00%               0                     60.84%
+             Unknown        6.50%          14,798        0.00%               0                     62.60%
+           EclipseMC        3.72%           8,472        0.00%               0                     70.67%
+              F2Pool        3.03%           6,925        0.00%               0                     62.30%
+          Bitparking        0.45%           1,016        0.00%               0                     44.44%
+        TripleMining        0.20%             451        0.00%               0                     75.00%
+             Polmine        0.10%             225        0.00%               0                    100.00%
+        MegaBigPower        0.05%             112        0.00%               0                    100.00%

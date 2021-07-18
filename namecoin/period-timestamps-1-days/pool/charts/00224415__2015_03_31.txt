@@ -4,16 +4,17 @@ Block: 224415
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                                    Namecoin         Bitcoin
+                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain 100.00%      23,185,169               0
+         Total Chain      100.00%      23,185,169      100.00%               0           
 
-              F2Pool  47.54%      11,022,457               0  37.93%
-           BTC Guild  13.93%       3,230,720               0  29.41%
-             Unknown  10.66%       2,470,550               0  53.85%
-            TangPool   9.02%       2,090,466               0  27.27%
-            GHash.IO   8.20%       1,900,423               0  40.00%
-             Eligius   5.74%       1,330,296               0  85.71%
-           EclipseMC   2.46%         570,127               0  66.67%
-           BitMinter   1.64%         380,084               0   0.00%
-             BTC.COM   0.82%         190,042               0 100.00%
+              F2Pool       47.54%      11,022,457        0.00%               0                     37.93%
+           BTC Guild       13.93%       3,230,720        0.00%               0                     29.41%
+             Polmine        9.84%       2,280,508        0.00%               0                     58.33%
+            GHash.IO        8.20%       1,900,423        0.00%               0                     40.00%
+               Bixin        5.74%       1,330,296        0.00%               0                     28.57%
+             Eligius        5.74%       1,330,296        0.00%               0                     85.71%
+            Tangpool        4.10%         950,211        0.00%               0                     40.00%
+           EclipseMC        2.46%         570,127        0.00%               0                     66.67%
+           BitMinter        1.64%         380,084        0.00%               0                      0.00%
+             Unknown        0.82%         190,042        0.00%               0                      0.00%

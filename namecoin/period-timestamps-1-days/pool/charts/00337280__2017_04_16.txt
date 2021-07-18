@@ -4,17 +4,17 @@ Block: 337280
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                                    Namecoin         Bitcoin
+                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain 100.00%     541,048,322               0
+         Total Chain      100.00%     541,048,322      100.00%               0           
 
-             AntPool  24.29%     131,441,117               0  51.16%
-             BTC.TOP  17.51%      94,759,875               0  64.52%
-              F2Pool  15.82%      85,589,565               0  67.86%
-               Slush  13.56%      73,362,484               0  50.00%
-                BTCC  11.30%      61,135,403               0  50.00%
-             BTC.COM   6.78%      36,681,242               0  58.33%
-              ViaBTC   6.21%      33,624,472               0  27.27%
-               Canoe   2.26%      12,227,080               0  25.00%
-             Batpool   1.69%       9,170,310               0  66.67%
-Default zone117x/NodeStratum   0.56%       3,056,770               0 100.00%
+             AntPool       24.29%     131,441,117        0.00%               0                     51.16%
+             BTC.TOP       17.51%      94,759,875        0.00%               0                     64.52%
+              F2Pool       15.82%      85,589,565        0.00%               0                     67.86%
+           SlushPool       13.56%      73,362,484        0.00%               0                     50.00%
+                BTCC       11.30%      61,135,403        0.00%               0                     50.00%
+             BTC.com        6.78%      36,681,242        0.00%               0                     58.33%
+              ViaBTC        6.21%      33,624,472        0.00%               0                     27.27%
+               CANOE        2.26%      12,227,080        0.00%               0                     25.00%
+             BATPOOL        1.69%       9,170,310        0.00%               0                     66.67%
+               Eobot        0.56%       3,056,770        0.00%               0                    100.00%

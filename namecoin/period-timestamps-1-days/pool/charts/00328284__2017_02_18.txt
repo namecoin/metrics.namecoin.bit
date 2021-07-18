@@ -4,17 +4,17 @@ Block: 328284
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                                    Namecoin         Bitcoin
+                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain 100.00%     345,390,777               0
+         Total Chain      100.00%     345,390,777      100.00%               0           
 
-              F2Pool  28.66%      98,997,356               0  44.44%
-              ViaBTC  15.92%      54,998,531               0  64.00%
-                BTCC  15.29%      52,798,590               0  45.83%
-               Slush  14.01%      48,398,707               0  40.91%
-             BTC.COM  10.83%      37,399,001               0  52.94%
-             BTC.TOP  10.19%      35,199,060               0  43.75%
-             Batpool   2.55%       8,799,765               0  25.00%
-               Canoe   1.27%       4,399,882               0  50.00%
-            Phash.IO   0.64%       2,199,941               0 100.00%
-Default zone117x/NodeStratum   0.64%       2,199,941               0 100.00%
+              F2Pool       28.66%      98,997,356        0.00%               0                     44.44%
+              ViaBTC       15.92%      54,998,531        0.00%               0                     64.00%
+                BTCC       15.29%      52,798,590        0.00%               0                     45.83%
+           SlushPool       14.01%      48,398,707        0.00%               0                     40.91%
+             BTC.com       10.83%      37,399,001        0.00%               0                     52.94%
+             BTC.TOP       10.19%      35,199,060        0.00%               0                     43.75%
+             BATPOOL        2.55%       8,799,765        0.00%               0                     25.00%
+               CANOE        1.27%       4,399,882        0.00%               0                     50.00%
+               Eobot        0.64%       2,199,941        0.00%               0                    100.00%
+            PHash.IO        0.64%       2,199,941        0.00%               0                    100.00%

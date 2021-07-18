@@ -4,15 +4,15 @@ Block: 115725
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                                    Namecoin         Bitcoin
+                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain 100.00%          13,288               0
+         Total Chain      100.00%          13,288      100.00%               0           
 
-           BTC Guild  50.13%           6,661               0  22.75%
-           BitMinter  14.32%           1,903               0  29.63%
-           ASICMiner  10.08%           1,339               0  28.95%
-              F2Pool   8.22%           1,092               0  25.81%
-             Eligius   6.90%             916               0   7.69%
-           SockThing   4.51%             599               0  23.53%
-           EclipseMC   4.24%             563               0  12.50%
-             Unknown   1.59%             211               0  33.33%
+           BTC Guild       50.13%           6,661        0.00%               0                     22.75%
+           BitMinter       14.32%           1,903        0.00%               0                     29.63%
+           ASICMiner       10.08%           1,339        0.00%               0                     28.95%
+              F2Pool        8.22%           1,092        0.00%               0                     25.81%
+             Eligius        6.90%             916        0.00%               0                      7.69%
+          Bitparking        4.51%             599        0.00%               0                     23.53%
+           EclipseMC        4.24%             563        0.00%               0                     12.50%
+             Polmine        1.59%             211        0.00%               0                     33.33%

@@ -4,15 +4,19 @@ Block: 233856
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                                    Namecoin         Bitcoin
+                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain 100.00%      22,352,963               0
+         Total Chain      100.00%      22,352,963      100.00%               0           
 
-              F2Pool  72.07%      16,110,463               0  29.04%
-            GHash.IO   8.83%       1,973,650               0  33.71%
-           BTC Guild   6.85%       1,530,133               0  33.33%
-             Eligius   5.95%       1,330,550               0  25.83%
-           BitMinter   2.28%         510,044               0  32.61%
-             Unknown   2.23%         498,956               0  31.11%
-           EclipseMC   1.54%         343,725               0  22.58%
-              MMPool   0.25%          55,439               0  60.00%
+              F2Pool       72.07%      16,110,463        0.00%               0                     29.04%
+            GHash.IO        8.83%       1,973,650        0.00%               0                     33.71%
+           BTC Guild        6.85%       1,530,133        0.00%               0                     33.33%
+             Eligius        5.95%       1,330,550        0.00%               0                     25.83%
+           BitMinter        2.28%         510,044        0.00%               0                     32.61%
+           EclipseMC        1.54%         343,725        0.00%               0                     22.58%
+             Polmine        0.94%         210,670        0.00%               0                     21.05%
+               Huobi        0.69%         155,230        0.00%               0                     35.71%
+             Unknown        0.50%         110,879        0.00%               0                     40.00%
+              mmpool        0.25%          55,439        0.00%               0                     60.00%
+             Bitsolo        0.05%          11,087        0.00%               0                      0.00%
+              TBDice        0.05%          11,087        0.00%               0                    100.00%

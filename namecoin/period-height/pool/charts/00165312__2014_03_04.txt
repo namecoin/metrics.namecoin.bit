@@ -4,18 +4,18 @@ Block: 165312
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                                    Namecoin         Bitcoin
+                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain 100.00%       5,116,274               0
+         Total Chain      100.00%       5,116,274      100.00%               0           
 
-            GHash.IO  32.64%       1,670,158               0  80.40%
-             Eligius  25.55%       1,306,884               0  80.78%
-           BTC Guild  24.06%       1,230,755               0  79.38%
-              F2Pool  11.36%         581,119               0  78.60%
-             Unknown   3.67%         187,785               0  79.73%
-           BitMinter   1.88%          96,430               0  76.32%
-           EclipseMC   0.35%          17,763               0  71.43%
-             Polmine   0.20%          10,150               0 100.00%
-           SockThing   0.15%           7,612               0 100.00%
-     Pierce and Paul   0.10%           5,075               0 100.00%
-    Triplemining.com   0.05%           2,537               0 100.00%
+            GHash.IO       32.64%       1,670,158        0.00%               0                     80.40%
+             Eligius       25.55%       1,306,884        0.00%               0                     80.78%
+           BTC Guild       24.06%       1,230,755        0.00%               0                     79.38%
+              F2Pool       11.36%         581,119        0.00%               0                     78.60%
+        CloudHashing        2.23%         114,193        0.00%               0                     77.78%
+           BitMinter        1.88%          96,430        0.00%               0                     76.32%
+           EclipseMC        1.69%          86,279        0.00%               0                     82.35%
+             Polmine        0.20%          10,150        0.00%               0                    100.00%
+             Unknown        0.20%          10,150        0.00%               0                     75.00%
+          Bitparking        0.15%           7,612        0.00%               0                    100.00%
+        TripleMining        0.05%           2,537        0.00%               0                    100.00%

@@ -4,9 +4,9 @@ Block: 403548
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                                    Namecoin         Bitcoin
+                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain 100.00%   2,277,094,885               0
+         Total Chain      100.00%   2,277,094,885      100.00%               0           
 
-             BTC.COM  55.00%   1,252,402,186               0  81.82%
-              ViaBTC  45.00%   1,024,692,698               0  85.19%
+             BTC.com       55.00%   1,252,402,186        0.00%               0                     81.82%
+              ViaBTC       45.00%   1,024,692,698        0.00%               0                     85.19%

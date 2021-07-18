@@ -4,17 +4,16 @@ Block: 92736
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                                    Namecoin         Bitcoin
+                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain 100.00%           1,493               0
+         Total Chain      100.00%           1,493      100.00%               0           
 
-           BTC Guild  26.88%             401               0  27.31%
-           BitMinter  21.28%             317               0  24.48%
-           EclipseMC  20.09%             300               0  21.48%
-              ozcoin   9.77%             145               0  22.34%
-               Slush   8.83%             131               0  28.09%
-             Unknown   6.60%              98               0  32.33%
-             Eligius   2.48%              37               0  18.00%
-              MaxBTC   2.33%              34               0  29.79%
-    Triplemining.com   0.99%              14               0  25.00%
-         poolserverj   0.74%              11               0  33.33%
+           BTC Guild       26.88%             401        0.00%               0                     27.31%
+           BitMinter       21.28%             317        0.00%               0                     24.48%
+           EclipseMC       20.09%             300        0.00%               0                     21.48%
+              OzCoin        9.77%             145        0.00%               0                     22.34%
+           SlushPool        8.83%             131        0.00%               0                     28.09%
+             Unknown        7.34%             109        0.00%               0                     32.43%
+             Eligius        2.48%              37        0.00%               0                     18.00%
+              MaxBTC        2.33%              34        0.00%               0                     29.79%
+        TripleMining        0.99%              14        0.00%               0                     25.00%

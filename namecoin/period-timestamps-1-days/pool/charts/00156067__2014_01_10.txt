@@ -4,16 +4,17 @@ Block: 156067
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                                    Namecoin         Bitcoin
+                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain 100.00%       2,623,052               0
+         Total Chain      100.00%       2,623,052      100.00%               0           
 
-            GHash.IO  45.88%       1,203,359               0  88.76%
-           BTC Guild  22.16%         581,398               0  74.42%
-              F2Pool  12.37%         324,501               0  87.50%
-             Eligius  10.82%         283,938               0  80.95%
-             Unknown   4.64%         121,688               0  66.67%
-           BitMinter   2.58%          67,604               0  80.00%
-           EclipseMC   0.52%          13,520               0 100.00%
-           SockThing   0.52%          13,520               0 100.00%
-     Pierce and Paul   0.52%          13,520               0 100.00%
+            GHash.IO       45.88%       1,203,359        0.00%               0                     88.76%
+           BTC Guild       22.16%         581,398        0.00%               0                     74.42%
+              F2Pool       12.37%         324,501        0.00%               0                     87.50%
+             Eligius       10.82%         283,938        0.00%               0                     80.95%
+           BitMinter        2.58%          67,604        0.00%               0                     80.00%
+             Unknown        2.58%          67,604        0.00%               0                     60.00%
+        CloudHashing        2.06%          54,083        0.00%               0                     75.00%
+          Bitparking        0.52%          13,520        0.00%               0                    100.00%
+           EclipseMC        0.52%          13,520        0.00%               0                    100.00%
+             Polmine        0.52%          13,520        0.00%               0                    100.00%

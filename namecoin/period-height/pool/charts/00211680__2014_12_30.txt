@@ -4,16 +4,17 @@ Block: 211680
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                                    Namecoin         Bitcoin
+                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain 100.00%      29,991,783               0
+         Total Chain      100.00%      29,991,783      100.00%               0           
 
-              F2Pool  49.21%      14,758,797               0  48.89%
-            GHash.IO  28.92%       8,673,769               0  53.00%
-           BTC Guild  10.37%       3,109,464               0  54.07%
-             Eligius   7.89%       2,363,670               0  53.46%
-             Unknown   0.99%         297,556               0  30.00%
-             AntPool   0.94%         282,678               0  52.63%
-           EclipseMC   0.84%         252,922               0  58.82%
-           BitMinter   0.74%         223,167               0  33.33%
-              MMPool   0.10%          29,755               0  50.00%
+              F2Pool       49.21%      14,758,797        0.00%               0                     48.89%
+            GHash.IO       28.92%       8,673,769        0.00%               0                     53.00%
+           BTC Guild       10.37%       3,109,464        0.00%               0                     54.07%
+             Eligius        7.89%       2,363,670        0.00%               0                     53.46%
+             AntPool        0.94%         282,678        0.00%               0                     52.63%
+           EclipseMC        0.84%         252,922        0.00%               0                     58.82%
+           BitMinter        0.74%         223,167        0.00%               0                     33.33%
+             Unknown        0.69%         208,289        0.00%               0                     28.57%
+        CloudHashing        0.30%          89,266        0.00%               0                     33.33%
+              mmpool        0.10%          29,755        0.00%               0                     50.00%
