@@ -4,14 +4,15 @@ Block: 72839
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%           2,080      100.00%               0           
+              Total Chain      100.00%           2,080      100.00%               0           
 
-             Unknown       31.71%             659        0.00%               0                     51.92%
-           BTC Guild       28.66%             596        0.00%               0                     40.43%
-           SlushPool       18.29%             380        0.00%               0                     53.33%
-           BitMinter       11.59%             241        0.00%               0                     68.42%
-              OzCoin        4.27%              88        0.00%               0                     42.86%
-              MaxBTC        3.05%              63        0.00%               0                     20.00%
-             Eligius        2.44%              50        0.00%               0                     75.00%
+                BTC Guild       28.66%             596        0.00%               0                     40.43%
+                EclipseMC       18.29%             380        0.00%               0                     43.33%
+                    Slush       18.29%             380        0.00%               0                     53.33%
+                  Unknown       13.41%             279        0.00%               0                     63.64%
+                BitMinter       11.59%             241        0.00%               0                     68.42%
+                   OzCoin        4.27%              88        0.00%               0                     42.86%
+                   MaxBTC        3.05%              63        0.00%               0                     20.00%
+                  Eligius        2.44%              50        0.00%               0                     75.00%

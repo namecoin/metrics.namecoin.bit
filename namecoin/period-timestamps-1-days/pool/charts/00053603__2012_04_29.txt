@@ -4,15 +4,17 @@ Block: 53603
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%             969      100.00%               0           
+              Total Chain      100.00%             969      100.00%               0           
 
-           BTC Guild       26.32%             255        0.00%               0                     42.86%
-             Unknown       23.31%             226        0.00%               0                     45.16%
-           SlushPool       18.80%             182        0.00%               0                     48.00%
-              OzCoin       12.03%             116        0.00%               0                     56.25%
-             Eligius        7.52%              72        0.00%               0                     40.00%
-           BitMinter        6.02%              58        0.00%               0                     62.50%
-              MaxBTC        3.01%              29        0.00%               0                     50.00%
-        TripleMining        3.01%              29        0.00%               0                     75.00%
+                BTC Guild       26.32%             255        0.00%               0                     42.86%
+                    Slush       18.80%             182        0.00%               0                     48.00%
+                   OzCoin       12.03%             116        0.00%               0                     56.25%
+                  Unknown       12.03%             116        0.00%               0                     37.50%
+                EclipseMC        9.02%              87        0.00%               0                     58.33%
+                  Eligius        7.52%              72        0.00%               0                     40.00%
+                BitMinter        6.02%              58        0.00%               0                     62.50%
+                   MaxBTC        3.01%              29        0.00%               0                     50.00%
+             TripleMining        3.01%              29        0.00%               0                     75.00%
+              bitclockers        2.26%              21        0.00%               0                     33.33%

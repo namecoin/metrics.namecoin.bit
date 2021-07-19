@@ -4,13 +4,14 @@ Block: 42967
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%             938      100.00%               0           
+              Total Chain      100.00%             938      100.00%               0           
 
-           BTC Guild       39.86%             373        0.00%               0                     33.90%
-           SlushPool       26.35%             247        0.00%               0                     46.15%
-             Unknown       14.86%             139        0.00%               0                     54.55%
-              OzCoin       11.49%             107        0.00%               0                     35.29%
-             Eligius        4.73%              44        0.00%               0                     42.86%
-           BitMinter        2.70%              25        0.00%               0                     25.00%
+                BTC Guild       39.86%             373        0.00%               0                     33.90%
+                    Slush       26.35%             247        0.00%               0                     46.15%
+                   OzCoin       11.49%             107        0.00%               0                     35.29%
+                EclipseMC        9.46%              88        0.00%               0                     42.86%
+                  Unknown        5.41%              50        0.00%               0                     75.00%
+                  Eligius        4.73%              44        0.00%               0                     42.86%
+                BitMinter        2.70%              25        0.00%               0                     25.00%

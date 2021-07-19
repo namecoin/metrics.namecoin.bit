@@ -4,16 +4,17 @@ Block: 149184
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%         905,755      100.00%               0           
+              Total Chain      100.00%         905,755      100.00%               0           
 
-           BTC Guild       37.70%         341,422        0.00%               0                     73.95%
-            GHash.IO       32.74%         296,498        0.00%               0                     76.67%
-             Eligius       13.29%         120,396        0.00%               0                     69.40%
-           BitMinter        6.89%          62,444        0.00%               0                     57.55%
-              F2Pool        3.42%          31,083        0.00%               0                     71.01%
-           EclipseMC        2.93%          26,505        0.00%               0                     66.10%
-             Unknown        2.68%          24,258        0.00%               0                     74.07%
-          Bitparking        0.30%           2,695        0.00%               0                     66.67%
-        TripleMining        0.05%             449        0.00%               0                      0.00%
+                BTC Guild       37.70%         341,422        0.00%               0                     73.95%
+                 GHash.IO       32.74%         296,498        0.00%               0                     76.67%
+                  Eligius       13.29%         120,396        0.00%               0                     69.40%
+                BitMinter        6.89%          62,444        0.00%               0                     57.55%
+                   F2Pool        3.42%          31,083        0.00%               0                     71.01%
+                EclipseMC        2.93%          26,505        0.00%               0                     66.10%
+          Pierce and Paul        2.18%          19,766        0.00%               0                     77.27%
+                  Unknown        0.50%           4,492        0.00%               0                     60.00%
+               Bitparking        0.30%           2,695        0.00%               0                     66.67%
+             TripleMining        0.05%             449        0.00%               0                      0.00%

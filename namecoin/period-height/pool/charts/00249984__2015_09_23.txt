@@ -4,15 +4,15 @@ Block: 249984
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%      30,473,836      100.00%               0           
+              Total Chain      100.00%      30,473,836      100.00%               0           
 
-              F2Pool       61.90%      18,865,355        0.00%               0                     34.05%
-           SlushPool       22.62%       6,893,110        0.00%               0                     36.40%
-             Eligius        8.78%       2,674,647        0.00%               0                     34.46%
-           BitMinter        3.17%         967,454        0.00%               0                     32.81%
-            GHash.IO        2.88%         876,755        0.00%               0                     32.76%
-           EclipseMC        0.55%         166,281        0.00%               0                     54.55%
-              TBDice        0.05%          15,116        0.00%               0                      0.00%
-              mmpool        0.05%          15,116        0.00%               0                      0.00%
+                   F2Pool       61.90%      18,865,355        0.00%               0                     34.05%
+                    Slush       22.62%       6,893,110        0.00%               0                     36.40%
+                  Eligius        8.78%       2,674,647        0.00%               0                     34.46%
+                BitMinter        3.17%         967,454        0.00%               0                     32.81%
+                 GHash.IO        2.88%         876,755        0.00%               0                     32.76%
+                EclipseMC        0.55%         166,281        0.00%               0                     54.55%
+                   MMPool        0.05%          15,116        0.00%               0                      0.00%
+                   TBDice        0.05%          15,116        0.00%               0                      0.00%

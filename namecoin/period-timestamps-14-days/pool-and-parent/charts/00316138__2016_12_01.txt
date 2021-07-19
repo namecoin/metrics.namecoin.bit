@@ -4,17 +4,17 @@ Block: 316138
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%     196,544,027      100.00%               0           
+              Total Chain      100.00%     196,544,027      100.00%               0           
 
-          F2Pool-180       38.34%      75,379,366        0.00%               0                     40.75%
-            BTCC-180       21.23%      41,719,382        0.00%               0                     44.39%
-          ViaBTC-180       16.12%      31,650,475        0.00%               0                     39.69%
-       SlushPool-180       14.63%      28,747,525        0.00%               0                     41.69%
-         BTC.com-180        8.63%      16,992,059        0.00%               0                     46.55%
-         Unknown-190        0.55%       1,090,536        0.00%               0                    100.00%
-        PHash.IO-180        0.25%         486,793        0.00%               0                     40.00%
-       BitMinter-180        0.15%         288,513        0.00%               0                     33.33%
-         Eligius-180        0.05%          99,139        0.00%               0                      0.00%
-           Eobot-180        0.05%          90,234        0.00%               0                      0.00%
+               F2Pool-180       38.34%      75,379,366        0.00%               0                     40.75%
+                 BTCC-180       21.23%      41,719,382        0.00%               0                     44.39%
+               ViaBTC-180       16.12%      31,650,475        0.00%               0                     39.69%
+                Slush-180       14.63%      28,747,525        0.00%               0                     41.69%
+              BTC.COM-180        8.63%      16,992,059        0.00%               0                     46.55%
+              Unknown-190        0.55%       1,090,536        0.00%               0                    100.00%
+             PHash.IO-180        0.25%         486,793        0.00%               0                     40.00%
+            BitMinter-180        0.15%         288,513        0.00%               0                     33.33%
+              Eligius-180        0.05%          99,139        0.00%               0                      0.00%
+Default zone117x/NodeStratum-180        0.05%          90,234        0.00%               0                      0.00%

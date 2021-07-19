@@ -4,16 +4,16 @@ Block: 276120
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%      79,721,748      100.00%               0           
+              Total Chain      100.00%      79,721,748      100.00%               0           
 
-              F2Pool       81.12%      64,674,914        0.00%               0                     30.97%
-           SlushPool       12.54%       9,994,020        0.00%               0                     28.74%
-            GHash.IO        2.88%       2,296,951        0.00%               0                     23.33%
-             Eligius        2.02%       1,607,626        0.00%               0                     19.05%
-           BitMinter        1.01%         803,813        0.00%               0                     23.81%
-           Multipool        0.24%         191,132        0.00%               0                      0.00%
-           EclipseMC        0.10%          76,645        0.00%               0                      0.00%
-             Unknown        0.05%          38,322        0.00%               0                      0.00%
-      myBTCcoin Pool        0.05%          38,322        0.00%               0                    100.00%
+                   F2Pool       81.12%      64,674,914        0.00%               0                     30.97%
+                    Slush       12.54%       9,994,020        0.00%               0                     28.74%
+                 GHash.IO        2.88%       2,296,951        0.00%               0                     23.33%
+                  Eligius        2.02%       1,607,626        0.00%               0                     19.05%
+                BitMinter        1.01%         803,813        0.00%               0                     23.81%
+                Multipool        0.24%         191,132        0.00%               0                      0.00%
+                EclipseMC        0.10%          76,645        0.00%               0                      0.00%
+Default zone117x/NodeStratum        0.05%          38,322        0.00%               0                    100.00%
+                  Unknown        0.05%          38,322        0.00%               0                      0.00%

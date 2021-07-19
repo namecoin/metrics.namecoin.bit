@@ -4,15 +4,16 @@ Block: 159627
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%       3,242,788      100.00%               0           
+              Total Chain      100.00%       3,242,788      100.00%               0           
 
-            GHash.IO       35.10%       1,138,197        0.00%               0                     77.36%
-           BTC Guild       27.81%         901,967        0.00%               0                     85.71%
-              F2Pool       16.56%         536,885        0.00%               0                     92.00%
-             Eligius       13.91%         450,983        0.00%               0                     95.24%
-             Unknown        2.65%          85,901        0.00%               0                    100.00%
-        CloudHashing        1.99%          64,426        0.00%               0                    100.00%
-           BitMinter        1.32%          42,950        0.00%               0                     50.00%
-             Polmine        0.66%          21,475        0.00%               0                    100.00%
+                 GHash.IO       35.10%       1,138,197        0.00%               0                     77.36%
+                BTC Guild       27.81%         901,967        0.00%               0                     85.71%
+                   F2Pool       16.56%         536,885        0.00%               0                     92.00%
+                  Eligius       13.91%         450,983        0.00%               0                     95.24%
+             CloudHashing        1.99%          64,426        0.00%               0                    100.00%
+                BitMinter        1.32%          42,950        0.00%               0                     50.00%
+          Pierce and Paul        1.32%          42,950        0.00%               0                    100.00%
+                  Unknown        1.32%          42,950        0.00%               0                    100.00%
+                  Polmine        0.66%          21,475        0.00%               0                    100.00%

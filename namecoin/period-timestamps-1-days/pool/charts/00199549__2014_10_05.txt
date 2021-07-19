@@ -4,15 +4,15 @@ Block: 199549
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%      36,317,764      100.00%               0           
+              Total Chain      100.00%      36,317,764      100.00%               0           
 
-              F2Pool       36.53%      13,265,770        0.00%               0                     59.02%
-            GHash.IO       32.34%      11,743,468        0.00%               0                     74.07%
-             AntPool        8.98%       3,262,074        0.00%               0                     53.33%
-             Eligius        8.98%       3,262,074        0.00%               0                     46.67%
-           BTC Guild        5.39%       1,957,244        0.00%               0                     33.33%
-             Polmine        4.19%       1,522,301        0.00%               0                     57.14%
-        CloudHashing        1.80%         652,414        0.00%               0                     66.67%
-             Unknown        1.80%         652,414        0.00%               0                      0.00%
+                   F2Pool       36.53%      13,265,770        0.00%               0                     59.02%
+                 GHash.IO       32.34%      11,743,468        0.00%               0                     74.07%
+                  AntPool        8.98%       3,262,074        0.00%               0                     53.33%
+                  Eligius        8.98%       3,262,074        0.00%               0                     46.67%
+                BTC Guild        5.39%       1,957,244        0.00%               0                     33.33%
+                  Polmine        4.19%       1,522,301        0.00%               0                     57.14%
+             CloudHashing        1.80%         652,414        0.00%               0                     66.67%
+                  Unknown        1.80%         652,414        0.00%               0                      0.00%

@@ -4,15 +4,17 @@ Block: 146983
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%         832,917      100.00%               0           
+              Total Chain      100.00%         832,917      100.00%               0           
 
-           BTC Guild       32.64%         271,885        0.00%               0                     53.97%
-            GHash.IO       27.46%         228,728        0.00%               0                     64.15%
-             Eligius       19.69%         163,994        0.00%               0                     50.00%
-           BitMinter        8.29%          69,050        0.00%               0                     56.25%
-             Unknown        4.66%          38,840        0.00%               0                     66.67%
-           EclipseMC        4.15%          34,525        0.00%               0                     25.00%
-              F2Pool        2.59%          21,578        0.00%               0                     40.00%
-          Bitparking        0.52%           4,315        0.00%               0                    100.00%
+                BTC Guild       32.64%         271,885        0.00%               0                     53.97%
+                 GHash.IO       27.46%         228,728        0.00%               0                     64.15%
+                  Eligius       19.69%         163,994        0.00%               0                     50.00%
+                BitMinter        8.29%          69,050        0.00%               0                     56.25%
+                EclipseMC        4.15%          34,525        0.00%               0                     25.00%
+          Pierce and Paul        3.63%          30,209        0.00%               0                     57.14%
+                   F2Pool        2.59%          21,578        0.00%               0                     40.00%
+               Bitparking        0.52%           4,315        0.00%               0                    100.00%
+            Give Me Coins        0.52%           4,315        0.00%               0                    100.00%
+                  Unknown        0.52%           4,315        0.00%               0                    100.00%

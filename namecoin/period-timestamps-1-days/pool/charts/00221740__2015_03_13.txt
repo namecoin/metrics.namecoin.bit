@@ -4,16 +4,17 @@ Block: 221740
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%      29,611,620      100.00%               0           
+              Total Chain      100.00%      29,611,620      100.00%               0           
 
-              F2Pool       49.69%      14,712,691        0.00%               0                     31.65%
-             Polmine       14.47%       4,283,441        0.00%               0                     17.39%
-            GHash.IO       11.32%       3,352,258        0.00%               0                     27.78%
-           BTC Guild        8.18%       2,421,075        0.00%               0                     30.77%
-               Bixin        5.66%       1,676,129        0.00%               0                     22.22%
-             Eligius        5.03%       1,489,892        0.00%               0                     12.50%
-           BitMinter        3.77%       1,117,419        0.00%               0                     50.00%
-            Tangpool        1.26%         372,473        0.00%               0                      0.00%
-           EclipseMC        0.63%         186,236        0.00%               0                      0.00%
+                   F2Pool       49.69%      14,712,691        0.00%               0                     31.65%
+                  Polmine       14.47%       4,283,441        0.00%               0                     17.39%
+                 GHash.IO       11.32%       3,352,258        0.00%               0                     27.78%
+                BTC Guild        8.18%       2,421,075        0.00%               0                     30.77%
+                  Eligius        5.03%       1,489,892        0.00%               0                     12.50%
+                    Bixin        4.40%       1,303,656        0.00%               0                     14.29%
+                BitMinter        3.77%       1,117,419        0.00%               0                     50.00%
+                  BTC.COM        1.26%         372,473        0.00%               0                     50.00%
+                 TangPool        1.26%         372,473        0.00%               0                      0.00%
+                EclipseMC        0.63%         186,236        0.00%               0                      0.00%

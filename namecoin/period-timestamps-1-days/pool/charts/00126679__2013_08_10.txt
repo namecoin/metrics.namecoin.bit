@@ -4,17 +4,17 @@ Block: 126679
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%          36,578      100.00%               0           
+              Total Chain      100.00%          36,578      100.00%               0           
 
-           BTC Guild       51.75%          18,929        0.00%               0                     33.08%
-           EclipseMC       14.40%           5,266        0.00%               0                     43.24%
-           BitMinter       10.89%           3,985        0.00%               0                     25.00%
-             Eligius        9.73%           3,558        0.00%               0                     32.00%
-            GHash.IO        5.06%           1,850        0.00%               0                     23.08%
-              F2Pool        3.89%           1,423        0.00%               0                     30.00%
-          Bitparking        1.56%             569        0.00%               0                     25.00%
-             Polmine        1.17%             426        0.00%               0                     33.33%
-        TripleMining        0.78%             284        0.00%               0                      0.00%
-             Unknown        0.78%             284        0.00%               0                    100.00%
+                BTC Guild       51.75%          18,929        0.00%               0                     33.08%
+                EclipseMC       14.40%           5,266        0.00%               0                     43.24%
+                BitMinter       10.89%           3,985        0.00%               0                     25.00%
+                  Eligius        9.73%           3,558        0.00%               0                     32.00%
+                 GHash.IO        5.06%           1,850        0.00%               0                     23.08%
+                   F2Pool        3.89%           1,423        0.00%               0                     30.00%
+               Bitparking        1.56%             569        0.00%               0                     25.00%
+                  Polmine        1.17%             426        0.00%               0                     33.33%
+             TripleMining        0.78%             284        0.00%               0                      0.00%
+                  Unknown        0.78%             284        0.00%               0                    100.00%

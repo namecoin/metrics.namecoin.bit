@@ -4,15 +4,15 @@ Block: 270144
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%      62,495,325      100.00%               0           
+              Total Chain      100.00%      62,495,325      100.00%               0           
 
-              F2Pool       77.53%      48,453,407        0.00%               0                     28.66%
-           SlushPool       13.94%       8,710,328        0.00%               0                     29.18%
-             Eligius        4.02%       2,510,806        0.00%               0                     24.69%
-            GHash.IO        2.73%       1,704,868        0.00%               0                     43.64%
-           BitMinter        1.24%         774,940        0.00%               0                     44.00%
-           EclipseMC        0.35%         216,983        0.00%               0                     71.43%
-             Unknown        0.10%          61,995        0.00%               0                     50.00%
-              mmpool        0.10%          61,995        0.00%               0                     50.00%
+                   F2Pool       77.53%      48,453,407        0.00%               0                     28.66%
+                    Slush       13.94%       8,710,328        0.00%               0                     29.18%
+                  Eligius        4.02%       2,510,806        0.00%               0                     24.69%
+                 GHash.IO        2.73%       1,704,868        0.00%               0                     43.64%
+                BitMinter        1.24%         774,940        0.00%               0                     44.00%
+                EclipseMC        0.35%         216,983        0.00%               0                     71.43%
+                   MMPool        0.10%          61,995        0.00%               0                     50.00%
+                  Unknown        0.10%          61,995        0.00%               0                     50.00%

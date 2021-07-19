@@ -19,6 +19,7 @@
             "1F1xcRt8H8Wa623KqmkEontwAAVqDSAWCV"
         ],
         "coinbase": [
+            "1hash.com",
             "Mined by 1hash.com"
         ],
         "color": [
@@ -37,7 +38,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 939,
-        "order": 210,
+        "order": 222,
         "percent_parenttarget": "83.33%",
         "work_period": 0.0
     },
@@ -76,12 +77,27 @@
         "order": 1,
         "work_period": 0.0
     },
+    "1THash&58COIN": {
+        "coinbase": [
+            "/1THash&58COIN/"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
+        "work_period": 0.0
+    },
     "1THash-180": {
         "color": "#3370b8",
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 19,
-        "order": 212,
+        "order": 224,
         "percent_parenttarget": "50.00%",
         "work_period": 0.0
     },
@@ -90,7 +106,7 @@
         "count_parenttarget_period": 106,
         "count_period": 121,
         "count_total": 2873,
-        "order": 355,
+        "order": 373,
         "percent_parenttarget": "87.60%",
         "work_period": 1496468146.7426517
     },
@@ -114,9 +130,39 @@
         "order": 1,
         "work_period": 0.0
     },
+    "32p7WS5Yr8phj2AKdf8QGpDZvQutf3zR3D": {
+        "address": [
+            "32p7WS5Yr8phj2AKdf8QGpDZvQutf3zR3D"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
+        "work_period": 0.0
+    },
     "50BTC": {
         "coinbase": [
             "50BTC"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
+        "work_period": 0.0
+    },
+    "50BTC.com": {
+        "coinbase": [
+            "50BTC.com"
         ],
         "color": [
             0,
@@ -152,8 +198,23 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 3,
-        "order": 313,
+        "order": 330,
         "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "58coin.com": {
+        "coinbase": [
+            "58coin.com"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
         "work_period": 0.0
     },
     "7pool": {
@@ -180,6 +241,21 @@
         ],
         "coinbase": [
             "/\u516b\u5b9d\u6c60 8baochi.com/"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
+        "work_period": 0.0
+    },
+    "8baochi.com": {
+        "coinbase": [
+            "8baochi.com"
         ],
         "color": [
             0,
@@ -230,6 +306,7 @@
     },
     "ASICMiner": {
         "coinbase": [
+            "ASICMiner",
             "ASICMiner"
         ],
         "color": [
@@ -248,8 +325,24 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 524,
-        "order": 23,
+        "order": 26,
         "percent_parenttarget": "23.28%",
+        "work_period": 0.0
+    },
+    "Alydian": {
+        "coinbase": [
+            "Alydian"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "notes": "Alydian53350635211049",
+        "order": 1,
         "work_period": 0.0
     },
     "AntPool": {
@@ -293,6 +386,7 @@
             "1D9jw3QHNankXxtcGVihsDK7Z7THN6j7Pg"
         ],
         "coinbase": [
+            "AntPool",
             "Mined by AntPool",
             "Mined By AntPool",
             "/AntPool/"
@@ -313,7 +407,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 440,
-        "order": 319,
+        "order": 338,
         "percent_parenttarget": "86.61%",
         "work_period": 0.0
     },
@@ -322,7 +416,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 4054,
-        "order": 307,
+        "order": 322,
         "percent_parenttarget": "84.04%",
         "work_period": 0.0
     },
@@ -331,7 +425,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 1605,
-        "order": 288,
+        "order": 304,
         "percent_parenttarget": "78.67%",
         "work_period": 0.0
     },
@@ -340,7 +434,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 557,
-        "order": 270,
+        "order": 286,
         "percent_parenttarget": "80.00%",
         "work_period": 0.0
     },
@@ -349,7 +443,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 467,
-        "order": 256,
+        "order": 272,
         "percent_parenttarget": "70.00%",
         "work_period": 0.0
     },
@@ -358,7 +452,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 106,
-        "order": 242,
+        "order": 258,
         "percent_parenttarget": "80.00%",
         "work_period": 0.0
     },
@@ -367,7 +461,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 82,
-        "order": 234,
+        "order": 250,
         "percent_parenttarget": "60.00%",
         "work_period": 0.0
     },
@@ -376,7 +470,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 5515,
-        "order": 209,
+        "order": 221,
         "percent_parenttarget": "85.71%",
         "work_period": 0.0
     },
@@ -385,7 +479,7 @@
         "count_parenttarget_period": 1,
         "count_period": 1,
         "count_total": 15,
-        "order": 401,
+        "order": 423,
         "percent_parenttarget": "100.00%",
         "work_period": 12202880.726542477
     },
@@ -394,7 +488,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 576,
-        "order": 173,
+        "order": 181,
         "percent_parenttarget": "25.00%",
         "work_period": 0.0
     },
@@ -403,7 +497,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 175,
-        "order": 162,
+        "order": 170,
         "percent_parenttarget": "50.00%",
         "work_period": 0.0
     },
@@ -412,7 +506,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 201,
-        "order": 149,
+        "order": 157,
         "percent_parenttarget": "66.67%",
         "work_period": 0.0
     },
@@ -421,7 +515,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 64,
-        "order": 144,
+        "order": 152,
         "percent_parenttarget": "63.64%",
         "work_period": 0.0
     },
@@ -430,7 +524,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 18,
-        "order": 135,
+        "order": 143,
         "percent_parenttarget": "77.78%",
         "work_period": 0.0
     },
@@ -439,7 +533,7 @@
         "count_parenttarget_period": 11,
         "count_period": 11,
         "count_total": 11,
-        "order": 402,
+        "order": 424,
         "percent_parenttarget": "100.00%",
         "work_period": 134835311.59290686
     },
@@ -448,7 +542,7 @@
         "count_parenttarget_period": 113,
         "count_period": 134,
         "count_total": 6779,
-        "order": 333,
+        "order": 351,
         "percent_parenttarget": "84.33%",
         "work_period": 1635186017.3566966
     },
@@ -457,6 +551,7 @@
             "1QEiAhdHdMhBgVbDM7zUXWGkNhgEEJ6uLd"
         ],
         "coinbase": [
+            "/ArkPool/",
             "/ArkPool/"
         ],
         "color": [
@@ -493,7 +588,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 551,
-        "order": 207,
+        "order": 219,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -502,7 +597,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 8,
-        "order": 215,
+        "order": 227,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -511,7 +606,23 @@
             "1E18BNyobcoiejcDYAz5SjbrzifNDEpM88"
         ],
         "coinbase": [
+            "BCMonster",
             "/BCMonster/"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
+        "work_period": 0.0
+    },
+    "BITFARMS": {
+        "coinbase": [
+            "BITFARMS"
         ],
         "color": [
             0,
@@ -526,6 +637,7 @@
     },
     "BTC Guild": {
         "coinbase": [
+            "BTC Guild",
             "BTC Guild"
         ],
         "color": [
@@ -544,7 +656,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 3553,
-        "order": 174,
+        "order": 182,
         "percent_parenttarget": "37.80%",
         "work_period": 0.0
     },
@@ -553,7 +665,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 642,
-        "order": 159,
+        "order": 167,
         "percent_parenttarget": "50.00%",
         "work_period": 0.0
     },
@@ -562,7 +674,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 602,
-        "order": 150,
+        "order": 158,
         "percent_parenttarget": "66.20%",
         "work_period": 0.0
     },
@@ -571,7 +683,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 224,
-        "order": 142,
+        "order": 150,
         "percent_parenttarget": "72.05%",
         "work_period": 0.0
     },
@@ -580,7 +692,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 560,
-        "order": 126,
+        "order": 133,
         "percent_parenttarget": "74.04%",
         "work_period": 0.0
     },
@@ -589,7 +701,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 356,
-        "order": 113,
+        "order": 120,
         "percent_parenttarget": "75.00%",
         "work_period": 0.0
     },
@@ -598,7 +710,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 377,
-        "order": 106,
+        "order": 113,
         "percent_parenttarget": "74.36%",
         "work_period": 0.0
     },
@@ -607,7 +719,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 9452,
-        "order": 88,
+        "order": 93,
         "percent_parenttarget": "68.61%",
         "work_period": 0.0
     },
@@ -616,7 +728,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 2663,
-        "order": 75,
+        "order": 79,
         "percent_parenttarget": "82.80%",
         "work_period": 0.0
     },
@@ -625,7 +737,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 1204,
-        "order": 65,
+        "order": 68,
         "percent_parenttarget": "58.14%",
         "work_period": 0.0
     },
@@ -634,7 +746,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 1123,
-        "order": 56,
+        "order": 59,
         "percent_parenttarget": "71.75%",
         "work_period": 0.0
     },
@@ -643,7 +755,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 1031,
-        "order": 44,
+        "order": 47,
         "percent_parenttarget": "56.98%",
         "work_period": 0.0
     },
@@ -652,7 +764,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 1106,
-        "order": 34,
+        "order": 37,
         "percent_parenttarget": "46.32%",
         "work_period": 0.0
     },
@@ -661,7 +773,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 1309,
-        "order": 24,
+        "order": 27,
         "percent_parenttarget": "40.72%",
         "work_period": 0.0
     },
@@ -704,12 +816,11 @@
         "order": 1,
         "work_period": 0.0
     },
-    "BTC.TOP": {
-        "address": [
-            "1Hz96kJKF2HLPGY15JWLB5m9qGNxvt8tHJ"
-        ],
+    "BTC.COM": {
         "coinbase": [
-            "/BTC.TOP/"
+            "BTC.COM",
+            "BTC.com",
+            "/BTCcom/"
         ],
         "color": [
             0,
@@ -722,21 +833,177 @@
         "order": 1,
         "work_period": 0.0
     },
+    "BTC.COM-171": {
+        "color": "#67e2dd",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 673,
+        "order": 342,
+        "percent_parenttarget": "90.57%",
+        "work_period": 0.0
+    },
+    "BTC.COM-172": {
+        "color": "#5d29f0",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 9445,
+        "order": 318,
+        "percent_parenttarget": "83.88%",
+        "work_period": 0.0
+    },
+    "BTC.COM-173": {
+        "color": "#1577fd",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 3893,
+        "order": 303,
+        "percent_parenttarget": "79.13%",
+        "work_period": 0.0
+    },
+    "BTC.COM-174": {
+        "color": "#041bb3",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 2699,
+        "order": 282,
+        "percent_parenttarget": "81.38%",
+        "work_period": 0.0
+    },
+    "BTC.COM-175": {
+        "color": "#361494",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 2464,
+        "order": 267,
+        "percent_parenttarget": "78.44%",
+        "work_period": 0.0
+    },
+    "BTC.COM-176": {
+        "color": "#67ef0b",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 1265,
+        "order": 253,
+        "percent_parenttarget": "79.93%",
+        "work_period": 0.0
+    },
+    "BTC.COM-177": {
+        "color": "#a522b0",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 568,
+        "order": 245,
+        "percent_parenttarget": "68.75%",
+        "work_period": 0.0
+    },
+    "BTC.COM-180": {
+        "color": "#cd0d28",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 9825,
+        "order": 214,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "BTC.COM-1802": {
+        "color": "#1b58e3",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 2,
+        "order": 419,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "BTC.COM-181": {
+        "color": "#9d90c3",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 72,
+        "order": 193,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "BTC.COM-185": {
+        "color": "#f3f892",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 1,
+        "order": 296,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "BTC.COM-190": {
+        "color": "#1ce0cb",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 18,
+        "order": 264,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "BTC.COM-191": {
+        "color": "#c83074",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 4,
+        "order": 329,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "BTC.COM-192": {
+        "color": "#44476e",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 1,
+        "order": 337,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "BTC.COM-BTC": {
+        "color": "#68f089",
+        "count_parenttarget_period": 300,
+        "count_period": 337,
+        "count_total": 8981,
+        "order": 353,
+        "percent_parenttarget": "89.02%",
+        "work_period": 4164282434.5256352
+    },
+    "BTC.TOP": {
+        "address": [
+            "1Hz96kJKF2HLPGY15JWLB5m9qGNxvt8tHJ"
+        ],
+        "coinbase": [
+            "BTC.TOP",
+            "E2M/BTCST",
+            "/BTC.TOP/"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "notes": "E2M/BTCST is attributed by coin.dance",
+        "order": 1,
+        "work_period": 0.0
+    },
     "BTC.TOP-171": {
         "color": "#2e0b58",
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 285,
-        "order": 322,
-        "percent_parenttarget": "91.03%",
+        "count_total": 292,
+        "order": 341,
+        "percent_parenttarget": "89.41%",
         "work_period": 0.0
     },
     "BTC.TOP-172": {
         "color": "#4e938e",
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 4424,
-        "order": 301,
+        "count_total": 4966,
+        "order": 316,
         "percent_parenttarget": "87.36%",
         "work_period": 0.0
     },
@@ -744,36 +1011,36 @@
         "color": "#c849f2",
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 1723,
-        "order": 290,
-        "percent_parenttarget": "74.55%",
+        "count_total": 2019,
+        "order": 306,
+        "percent_parenttarget": "71.88%",
         "work_period": 0.0
     },
     "BTC.TOP-174": {
         "color": "#22d7e2",
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 749,
-        "order": 267,
-        "percent_parenttarget": "79.82%",
+        "count_total": 902,
+        "order": 281,
+        "percent_parenttarget": "77.37%",
         "work_period": 0.0
     },
     "BTC.TOP-175": {
         "color": "#426e5e",
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 569,
-        "order": 252,
-        "percent_parenttarget": "67.90%",
+        "count_total": 658,
+        "order": 268,
+        "percent_parenttarget": "68.82%",
         "work_period": 0.0
     },
     "BTC.TOP-176": {
         "color": "#7d13e3",
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 578,
-        "order": 236,
-        "percent_parenttarget": "75.49%",
+        "count_total": 597,
+        "order": 252,
+        "percent_parenttarget": "75.36%",
         "work_period": 0.0
     },
     "BTC.TOP-177": {
@@ -781,7 +1048,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 274,
-        "order": 224,
+        "order": 240,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -789,8 +1056,8 @@
         "color": "#3cc1e3",
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 8499,
-        "order": 206,
+        "count_total": 8603,
+        "order": 216,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -799,7 +1066,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 42,
-        "order": 377,
+        "order": 397,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -807,8 +1074,8 @@
         "color": "#515a95",
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 96,
-        "order": 371,
+        "count_total": 98,
+        "order": 385,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -817,7 +1084,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 144,
-        "order": 216,
+        "order": 228,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -825,19 +1092,19 @@
         "color": "#838ff8",
         "count_parenttarget_period": 2,
         "count_period": 2,
-        "count_total": 89,
-        "order": 346,
+        "count_total": 90,
+        "order": 363,
         "percent_parenttarget": "100.00%",
         "work_period": 25009385.05402455
     },
     "BTC.TOP-BTC": {
         "color": "#745e97",
-        "count_parenttarget_period": 53,
-        "count_period": 61,
-        "count_total": 2186,
-        "order": 337,
-        "percent_parenttarget": "86.89%",
-        "work_period": 752222831.1313062
+        "count_parenttarget_period": 56,
+        "count_period": 68,
+        "count_total": 2474,
+        "order": 355,
+        "percent_parenttarget": "82.35%",
+        "work_period": 839453867.0199224
     },
     "BTC.com": {
         "address": [
@@ -861,146 +1128,21 @@
         "order": 1,
         "work_period": 0.0
     },
-    "BTC.com-171": {
-        "color": "#5fdce9",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 673,
-        "order": 323,
-        "percent_parenttarget": "90.57%",
-        "work_period": 0.0
-    },
-    "BTC.com-172": {
-        "color": "#7259ee",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 9445,
-        "order": 303,
-        "percent_parenttarget": "83.88%",
-        "work_period": 0.0
-    },
-    "BTC.com-173": {
-        "color": "#fc0856",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 3893,
-        "order": 287,
-        "percent_parenttarget": "79.13%",
-        "work_period": 0.0
-    },
-    "BTC.com-174": {
-        "color": "#da2bfb",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 2699,
-        "order": 265,
-        "percent_parenttarget": "81.38%",
-        "work_period": 0.0
-    },
-    "BTC.com-175": {
-        "color": "#f43bd0",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 2464,
-        "order": 251,
-        "percent_parenttarget": "78.44%",
-        "work_period": 0.0
-    },
-    "BTC.com-176": {
-        "color": "#47e582",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 1265,
-        "order": 237,
-        "percent_parenttarget": "79.93%",
-        "work_period": 0.0
-    },
-    "BTC.com-177": {
-        "color": "#feb89b",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 568,
-        "order": 229,
-        "percent_parenttarget": "68.75%",
-        "work_period": 0.0
-    },
     "BTC.com-180": {
         "color": "#772c7e",
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 9826,
-        "order": 204,
-        "percent_parenttarget": "100.00%",
-        "work_period": 0.0
-    },
-    "BTC.com-1802": {
-        "color": "#3c12fa",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 2,
-        "order": 397,
-        "percent_parenttarget": "100.00%",
-        "work_period": 0.0
-    },
-    "BTC.com-181": {
-        "color": "#3a3be2",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 4,
-        "order": 217,
-        "percent_parenttarget": "100.00%",
-        "work_period": 0.0
-    },
-    "BTC.com-185": {
-        "color": "#afe69f",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
         "count_total": 1,
-        "order": 280,
+        "order": 232,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
-    },
-    "BTC.com-190": {
-        "color": "#f98d91",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 18,
-        "order": 248,
-        "percent_parenttarget": "100.00%",
-        "work_period": 0.0
-    },
-    "BTC.com-191": {
-        "color": "#db51ad",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 4,
-        "order": 312,
-        "percent_parenttarget": "100.00%",
-        "work_period": 0.0
-    },
-    "BTC.com-192": {
-        "color": "#b1be8c",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 1,
-        "order": 318,
-        "percent_parenttarget": "100.00%",
-        "work_period": 0.0
-    },
-    "BTC.com-BTC": {
-        "color": "#48fddb",
-        "count_parenttarget_period": 300,
-        "count_period": 337,
-        "count_total": 8981,
-        "order": 335,
-        "percent_parenttarget": "89.02%",
-        "work_period": 4164282434.5256352
     },
     "BTCC": {
         "address": [
             "152f1muMCNa7goXYhYAQC61hxEgGacmncB"
         ],
         "coinbase": [
+            "BTCC",
             "BTCChina Pool",
             "btcchina.com",
             "BTCChina.com",
@@ -1021,8 +1163,8 @@
         "color": "#0c0382",
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 73,
-        "order": 310,
+        "count_total": 74,
+        "order": 324,
         "percent_parenttarget": "58.33%",
         "work_period": 0.0
     },
@@ -1031,7 +1173,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 8,
-        "order": 291,
+        "order": 307,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -1040,7 +1182,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 77,
-        "order": 271,
+        "order": 287,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -1049,7 +1191,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 394,
-        "order": 250,
+        "order": 266,
         "percent_parenttarget": "78.69%",
         "work_period": 0.0
     },
@@ -1058,7 +1200,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 190,
-        "order": 235,
+        "order": 251,
         "percent_parenttarget": "68.32%",
         "work_period": 0.0
     },
@@ -1067,7 +1209,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 63,
-        "order": 228,
+        "order": 244,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -1076,7 +1218,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 13159,
-        "order": 201,
+        "order": 210,
         "percent_parenttarget": "91.67%",
         "work_period": 0.0
     },
@@ -1117,6 +1259,7 @@
             "1EKFdxiNJ37LFu7Ambf8TETeBUFKN2SeUh"
         ],
         "coinbase": [
+            "BTCPool",
             "BTCPool"
         ],
         "color": [
@@ -1150,12 +1293,13 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 21,
-        "order": 14,
+        "order": 15,
         "percent_parenttarget": "50.00%",
         "work_period": 0.0
     },
     "BTPOOL": {
         "coinbase": [
+            "BTPOOL",
             "/BTPOOL/"
         ],
         "color": [
@@ -1174,7 +1318,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 72,
-        "order": 306,
+        "order": 321,
         "percent_parenttarget": "20.00%",
         "work_period": 0.0
     },
@@ -1183,7 +1327,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 154,
-        "order": 289,
+        "order": 305,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -1192,7 +1336,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 92,
-        "order": 273,
+        "order": 289,
         "percent_parenttarget": "84.62%",
         "work_period": 0.0
     },
@@ -1201,7 +1345,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 85,
-        "order": 260,
+        "order": 275,
         "percent_parenttarget": "70.00%",
         "work_period": 0.0
     },
@@ -1210,7 +1354,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 28,
-        "order": 244,
+        "order": 260,
         "percent_parenttarget": "87.50%",
         "work_period": 0.0
     },
@@ -1219,7 +1363,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 20,
-        "order": 233,
+        "order": 249,
         "percent_parenttarget": "50.00%",
         "work_period": 0.0
     },
@@ -1228,8 +1372,24 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 436,
-        "order": 213,
+        "order": 225,
         "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "BW Pool": {
+        "coinbase": [
+            "BW Pool",
+            "BWPool"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
         "work_period": 0.0
     },
     "BWPool": {
@@ -1251,14 +1411,9 @@
         "order": 1,
         "work_period": 0.0
     },
-    "Binance Pool": {
-        "address": [
-            "1DSh7vX6ed2cgTeKPwufV5i4hSi4pp373h",
-            "16moWjUJVRnDQKqhoCdcszfJg9wzBdoTHw",
-            "bc1qx9t2l3pyny2spqpqlye8svce70nppwtaxwdrp4"
-        ],
+    "Batpool": {
         "coinbase": [
-            "/Binance/"
+            "BATPOOL"
         ],
         "color": [
             0,
@@ -1271,12 +1426,37 @@
         "order": 1,
         "work_period": 0.0
     },
+    "Binance Pool": {
+        "address": [
+            "bc1qx9t2l3pyny2spqpqlye8svce70nppwtaxwdrp4",
+            "1DSh7vX6ed2cgTeKPwufV5i4hSi4pp373h",
+            "16moWjUJVRnDQKqhoCdcszfJg9wzBdoTHw",
+            "bc1qx9t2l3pyny2spqpqlye8svce70nppwtaxwdrp4"
+        ],
+        "coinbase": [
+            "binance.com",
+            "/Binance",
+            "`binance/",
+            "/Binance/"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "notes": "Addresses attributed by: https://raw.githubusercontent.com/btc21/Bitcoin-Known-Miners/master/miners.json",
+        "order": 1,
+        "work_period": 0.0
+    },
     "Binance Pool-BTC": {
         "color": "#7d086f",
         "count_parenttarget_period": 68,
         "count_period": 83,
         "count_total": 683,
-        "order": 393,
+        "order": 415,
         "percent_parenttarget": "81.93%",
         "work_period": 1024307948.7208798
     },
@@ -1285,6 +1465,8 @@
             "155fzsEBHy9Ri2bMQ8uuuR3tv1YzcDywd4"
         ],
         "coinbase": [
+            "BitClub",
+            "BitClub Network",
             "/BitClub Network/"
         ],
         "color": [
@@ -1303,7 +1485,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 34,
-        "order": 272,
+        "order": 288,
         "percent_parenttarget": "61.90%",
         "work_period": 0.0
     },
@@ -1312,7 +1494,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 212,
-        "order": 258,
+        "order": 274,
         "percent_parenttarget": "70.27%",
         "work_period": 0.0
     },
@@ -1321,7 +1503,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 109,
-        "order": 245,
+        "order": 261,
         "percent_parenttarget": "77.55%",
         "work_period": 0.0
     },
@@ -1330,7 +1512,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 56,
-        "order": 232,
+        "order": 248,
         "percent_parenttarget": "80.36%",
         "work_period": 0.0
     },
@@ -1339,8 +1521,24 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 1107,
-        "order": 211,
+        "order": 223,
         "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "BitDeer": {
+        "coinbase": [
+            "/Bitdeer",
+            "/bitdeer/"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
         "work_period": 0.0
     },
     "BitFury": {
@@ -1368,6 +1566,7 @@
             "19PkHafEN18mquJ9ChwZt5YEFoCdPP5vYB"
         ],
         "coinbase": [
+            "BitMinter",
             "BitMinter"
         ],
         "color": [
@@ -1386,7 +1585,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 4,
-        "order": 329,
+        "order": 348,
         "percent_parenttarget": "50.00%",
         "work_period": 0.0
     },
@@ -1395,7 +1594,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 8,
-        "order": 311,
+        "order": 325,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -1404,7 +1603,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 3,
-        "order": 297,
+        "order": 312,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -1413,7 +1612,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 3,
-        "order": 278,
+        "order": 294,
         "percent_parenttarget": "50.00%",
         "work_period": 0.0
     },
@@ -1422,7 +1621,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 4,
-        "order": 261,
+        "order": 276,
         "percent_parenttarget": "0.00%",
         "work_period": 0.0
     },
@@ -1431,7 +1630,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 458,
-        "order": 194,
+        "order": 205,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -1440,7 +1639,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 1287,
-        "order": 176,
+        "order": 184,
         "percent_parenttarget": "40.91%",
         "work_period": 0.0
     },
@@ -1449,7 +1648,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 73,
-        "order": 163,
+        "order": 171,
         "percent_parenttarget": "33.33%",
         "work_period": 0.0
     },
@@ -1458,7 +1657,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 73,
-        "order": 153,
+        "order": 161,
         "percent_parenttarget": "83.33%",
         "work_period": 0.0
     },
@@ -1467,7 +1666,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 33,
-        "order": 143,
+        "order": 151,
         "percent_parenttarget": "58.33%",
         "work_period": 0.0
     },
@@ -1476,7 +1675,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 73,
-        "order": 127,
+        "order": 134,
         "percent_parenttarget": "81.48%",
         "work_period": 0.0
     },
@@ -1485,7 +1684,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 38,
-        "order": 118,
+        "order": 125,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -1494,7 +1693,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 34,
-        "order": 108,
+        "order": 115,
         "percent_parenttarget": "71.43%",
         "work_period": 0.0
     },
@@ -1503,7 +1702,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 1306,
-        "order": 90,
+        "order": 95,
         "percent_parenttarget": "58.33%",
         "work_period": 0.0
     },
@@ -1512,7 +1711,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 460,
-        "order": 80,
+        "order": 84,
         "percent_parenttarget": "69.70%",
         "work_period": 0.0
     },
@@ -1521,7 +1720,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 90,
-        "order": 66,
+        "order": 69,
         "percent_parenttarget": "53.33%",
         "work_period": 0.0
     },
@@ -1530,7 +1729,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 88,
-        "order": 57,
+        "order": 60,
         "percent_parenttarget": "69.57%",
         "work_period": 0.0
     },
@@ -1539,7 +1738,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 103,
-        "order": 48,
+        "order": 51,
         "percent_parenttarget": "64.29%",
         "work_period": 0.0
     },
@@ -1548,7 +1747,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 152,
-        "order": 40,
+        "order": 43,
         "percent_parenttarget": "47.79%",
         "work_period": 0.0
     },
@@ -1557,7 +1756,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 248,
-        "order": 30,
+        "order": 33,
         "percent_parenttarget": "29.84%",
         "work_period": 0.0
     },
@@ -1575,7 +1774,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 6,
-        "order": 348,
+        "order": 366,
         "percent_parenttarget": "75.00%",
         "work_period": 0.0
     },
@@ -1627,6 +1826,36 @@
         "order": 1,
         "work_period": 0.0
     },
+    "Bitcoin-India": {
+        "coinbase": [
+            "Bitcoin-India"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
+        "work_period": 0.0
+    },
+    "Bitcoin-Russia": {
+        "coinbase": [
+            "Bitcoin-Russia.ru"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
+        "work_period": 0.0
+    },
     "Bitcoin-Ukraine": {
         "coinbase": [
             "/Bitcoin-Ukraine.com.ua/"
@@ -1644,7 +1873,23 @@
     },
     "Bitcoin.com": {
         "coinbase": [
+            "pool.bitcoin.com",
             "pool.bitcoin.com"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
+        "work_period": 0.0
+    },
+    "BitcoinAffiliateNetwork": {
+        "coinbase": [
+            "mining.bitcoinaffiliatenetwork.com"
         ],
         "color": [
             0,
@@ -1709,6 +1954,22 @@
         "order": 1,
         "work_period": 0.0
     },
+    "Bitfury": {
+        "coinbase": [
+            "Bitfury",
+            "BitFury"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
+        "work_period": 0.0
+    },
     "Bitparking": {
         "coinbase": [
             "bitparking"
@@ -1729,7 +1990,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 57,
-        "order": 95,
+        "order": 100,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -1738,7 +1999,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 37,
-        "order": 82,
+        "order": 87,
         "percent_parenttarget": "80.00%",
         "work_period": 0.0
     },
@@ -1747,7 +2008,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 23,
-        "order": 71,
+        "order": 74,
         "percent_parenttarget": "69.57%",
         "work_period": 0.0
     },
@@ -1756,7 +2017,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 33,
-        "order": 62,
+        "order": 65,
         "percent_parenttarget": "57.14%",
         "work_period": 0.0
     },
@@ -1765,7 +2026,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 44,
-        "order": 50,
+        "order": 53,
         "percent_parenttarget": "62.50%",
         "work_period": 0.0
     },
@@ -1774,7 +2035,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 42,
-        "order": 38,
+        "order": 41,
         "percent_parenttarget": "43.24%",
         "work_period": 0.0
     },
@@ -1783,7 +2044,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 58,
-        "order": 29,
+        "order": 32,
         "percent_parenttarget": "34.48%",
         "work_period": 0.0
     },
@@ -1792,7 +2053,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 1896,
-        "order": 19,
+        "order": 22,
         "percent_parenttarget": "10.00%",
         "work_period": 0.0
     },
@@ -1819,7 +2080,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 48,
-        "order": 181,
+        "order": 189,
         "percent_parenttarget": "33.33%",
         "work_period": 0.0
     },
@@ -1828,7 +2089,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 4,
-        "order": 158,
+        "order": 166,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -1837,7 +2098,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 2,
-        "order": 134,
+        "order": 142,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -1847,6 +2108,7 @@
             "13hQVEstgo4iPQZv9C7VELnLWF7UWtF4Q3"
         ],
         "coinbase": [
+            "Bixin",
             "/HaoBTC/",
             "HAOBTC",
             "/Bixin/"
@@ -1867,7 +2129,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 33,
-        "order": 327,
+        "order": 346,
         "percent_parenttarget": "71.43%",
         "work_period": 0.0
     },
@@ -1876,7 +2138,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 701,
-        "order": 304,
+        "order": 319,
         "percent_parenttarget": "87.50%",
         "work_period": 0.0
     },
@@ -1885,7 +2147,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 292,
-        "order": 283,
+        "order": 299,
         "percent_parenttarget": "77.78%",
         "work_period": 0.0
     },
@@ -1894,7 +2156,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 189,
-        "order": 274,
+        "order": 290,
         "percent_parenttarget": "52.94%",
         "work_period": 0.0
     },
@@ -1903,7 +2165,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 153,
-        "order": 253,
+        "order": 269,
         "percent_parenttarget": "81.82%",
         "work_period": 0.0
     },
@@ -1912,7 +2174,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 88,
-        "order": 243,
+        "order": 259,
         "percent_parenttarget": "76.32%",
         "work_period": 0.0
     },
@@ -1921,7 +2183,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 43,
-        "order": 226,
+        "order": 242,
         "percent_parenttarget": "76.74%",
         "work_period": 0.0
     },
@@ -1930,7 +2192,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 2818,
-        "order": 203,
+        "order": 212,
         "percent_parenttarget": "90.00%",
         "work_period": 0.0
     },
@@ -1938,9 +2200,9 @@
         "color": "#f98894",
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 296,
-        "order": 183,
-        "percent_parenttarget": "51.35%",
+        "count_total": 228,
+        "order": 191,
+        "percent_parenttarget": "46.15%",
         "work_period": 0.0
     },
     "Bixin-BTC": {
@@ -1948,12 +2210,13 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 66,
-        "order": 340,
+        "order": 358,
         "percent_parenttarget": "92.31%",
         "work_period": 0.0
     },
     "Bravo Mining": {
         "coinbase": [
+            "bravo-mining",
             "/bravo-mining/"
         ],
         "color": [
@@ -1990,8 +2253,23 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 820,
-        "order": 372,
+        "order": 392,
         "percent_parenttarget": "86.54%",
+        "work_period": 0.0
+    },
+    "Bytepool": {
+        "coinbase": [
+            "bytepool.com/"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
         "work_period": 0.0
     },
     "CANOE": {
@@ -2014,7 +2292,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 680,
-        "order": 208,
+        "order": 220,
         "percent_parenttarget": "50.00%",
         "work_period": 0.0
     },
@@ -2035,9 +2313,11 @@
     },
     "CODEBLACK": {
         "address": [
+            "1AdbRdfLqxekeTjkybHc84iPQW11t4sGqM",
             "1AdbRdfLqxekeTjkybHc84iPQW11t4sGqM"
         ],
         "coinbase": [
+            "/CODEBLACK/",
             "/CODEBLACK/"
         ],
         "color": [
@@ -2054,6 +2334,23 @@
     "CP": {
         "address": [
             "1Njed3fFC752Di6JQVu3qSNTTKBVh5XdXz"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
+        "work_period": 0.0
+    },
+    "Canoe": {
+        "coinbase": [
+            "CANOE",
+            "canoepool",
+            "/1THash/"
         ],
         "color": [
             0,
@@ -2090,7 +2387,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 158,
-        "order": 218,
+        "order": 229,
         "percent_parenttarget": "75.00%",
         "work_period": 0.0
     },
@@ -2114,7 +2411,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 156,
-        "order": 172,
+        "order": 180,
         "percent_parenttarget": "50.00%",
         "work_period": 0.0
     },
@@ -2123,7 +2420,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 131,
-        "order": 164,
+        "order": 172,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -2132,7 +2429,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 110,
-        "order": 157,
+        "order": 165,
         "percent_parenttarget": "75.00%",
         "work_period": 0.0
     },
@@ -2141,7 +2438,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 52,
-        "order": 136,
+        "order": 144,
         "percent_parenttarget": "57.89%",
         "work_period": 0.0
     },
@@ -2150,7 +2447,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 152,
-        "order": 130,
+        "order": 137,
         "percent_parenttarget": "79.66%",
         "work_period": 0.0
     },
@@ -2159,7 +2456,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 102,
-        "order": 115,
+        "order": 122,
         "percent_parenttarget": "75.00%",
         "work_period": 0.0
     },
@@ -2168,7 +2465,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 67,
-        "order": 109,
+        "order": 116,
         "percent_parenttarget": "72.73%",
         "work_period": 0.0
     },
@@ -2177,12 +2474,13 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 496,
-        "order": 99,
+        "order": 106,
         "percent_parenttarget": "60.00%",
         "work_period": 0.0
     },
     "CoinLab": {
         "coinbase": [
+            "CoinLab",
             "CoinLab"
         ],
         "color": [
@@ -2219,7 +2517,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 7,
-        "order": 133,
+        "order": 141,
         "percent_parenttarget": "57.14%",
         "work_period": 0.0
     },
@@ -2228,6 +2526,7 @@
             "1KPQkehgYAqwiC6UCcbojM3mbGjURrQJF2"
         ],
         "coinbase": [
+            "ConnectBTC",
             "/ConnectBTC - Home for Miners/"
         ],
         "color": [
@@ -2243,6 +2542,7 @@
     },
     "DCEX": {
         "coinbase": [
+            "DCEX",
             "/DCEX/"
         ],
         "color": [
@@ -2277,6 +2577,105 @@
         ],
         "coinbase": [
             "/DPOOL.TOP/"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
+        "work_period": 0.0
+    },
+    "DPOOL.TOP": {
+        "coinbase": [
+            "DPOOL.TOP"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
+        "work_period": 0.0
+    },
+    "Default zone117x/NodeStratum": {
+        "coinbase": [
+            "/nodeStratum/"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
+        "work_period": 0.0
+    },
+    "Default zone117x/NodeStratum-180": {
+        "color": "#a1feaa",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 73,
+        "order": 207,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "Default zone117x/NodeStratum-181": {
+        "color": "#6f656b",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 6,
+        "order": 198,
+        "percent_parenttarget": "0.00%",
+        "work_period": 0.0
+    },
+    "Default zone117x/NodeStratum-190": {
+        "color": "#aad11d",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 3,
+        "order": 262,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "Default zone117x/NodeStratum-1a0": {
+        "color": "#62a0b0",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 2,
+        "order": 217,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "Default zone117x/NodeStratum-1a1": {
+        "color": "#c92a7c",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 1,
+        "order": 196,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "Default zone117x/NodeStratum-1b0": {
+        "color": "#455791",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 1,
+        "order": 218,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "DigitalBTC": {
+        "coinbase": [
+            "agentD"
         ],
         "color": [
             0,
@@ -2327,6 +2726,8 @@
             "15xiShqUqerfjFdyfgBH1K7Gwp6cbYmsTW"
         ],
         "coinbase": [
+            "EclipseMC",
+            "EMC",
             "EMC"
         ],
         "color": [
@@ -2345,7 +2746,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 79,
-        "order": 193,
+        "order": 204,
         "percent_parenttarget": "0.00%",
         "work_period": 0.0
     },
@@ -2354,7 +2755,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 512,
-        "order": 178,
+        "order": 186,
         "percent_parenttarget": "33.33%",
         "work_period": 0.0
     },
@@ -2363,7 +2764,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 43,
-        "order": 165,
+        "order": 173,
         "percent_parenttarget": "47.06%",
         "work_period": 0.0
     },
@@ -2372,7 +2773,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 46,
-        "order": 154,
+        "order": 162,
         "percent_parenttarget": "60.00%",
         "work_period": 0.0
     },
@@ -2381,7 +2782,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 19,
-        "order": 139,
+        "order": 147,
         "percent_parenttarget": "61.54%",
         "work_period": 0.0
     },
@@ -2390,7 +2791,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 34,
-        "order": 129,
+        "order": 136,
         "percent_parenttarget": "77.78%",
         "work_period": 0.0
     },
@@ -2399,7 +2800,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 24,
-        "order": 119,
+        "order": 126,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -2408,7 +2809,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 27,
-        "order": 107,
+        "order": 114,
         "percent_parenttarget": "75.00%",
         "work_period": 0.0
     },
@@ -2417,7 +2818,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 675,
-        "order": 93,
+        "order": 98,
         "percent_parenttarget": "64.29%",
         "work_period": 0.0
     },
@@ -2426,7 +2827,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 220,
-        "order": 79,
+        "order": 83,
         "percent_parenttarget": "83.33%",
         "work_period": 0.0
     },
@@ -2435,7 +2836,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 141,
-        "order": 69,
+        "order": 72,
         "percent_parenttarget": "63.12%",
         "work_period": 0.0
     },
@@ -2444,7 +2845,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 131,
-        "order": 60,
+        "order": 63,
         "percent_parenttarget": "82.50%",
         "work_period": 0.0
     },
@@ -2453,7 +2854,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 146,
-        "order": 47,
+        "order": 50,
         "percent_parenttarget": "57.69%",
         "work_period": 0.0
     },
@@ -2462,7 +2863,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 203,
-        "order": 39,
+        "order": 42,
         "percent_parenttarget": "44.13%",
         "work_period": 0.0
     },
@@ -2471,7 +2872,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 288,
-        "order": 26,
+        "order": 29,
         "percent_parenttarget": "39.24%",
         "work_period": 0.0
     },
@@ -2479,8 +2880,8 @@
         "color": "#6582fb",
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 5524,
-        "order": 18,
+        "count_total": 10322,
+        "order": 17,
         "percent_parenttarget": "36.36%",
         "work_period": 0.0
     },
@@ -2501,6 +2902,7 @@
     },
     "Eligius": {
         "coinbase": [
+            "Eligius",
             "Eligius"
         ],
         "color": [
@@ -2519,7 +2921,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 827,
-        "order": 189,
+        "order": 200,
         "percent_parenttarget": "0.00%",
         "work_period": 0.0
     },
@@ -2528,7 +2930,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 4820,
-        "order": 177,
+        "order": 185,
         "percent_parenttarget": "31.58%",
         "work_period": 0.0
     },
@@ -2537,7 +2939,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 129,
-        "order": 169,
+        "order": 177,
         "percent_parenttarget": "57.14%",
         "work_period": 0.0
     },
@@ -2546,7 +2948,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 423,
-        "order": 151,
+        "order": 159,
         "percent_parenttarget": "75.51%",
         "work_period": 0.0
     },
@@ -2555,7 +2957,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 143,
-        "order": 141,
+        "order": 149,
         "percent_parenttarget": "71.43%",
         "work_period": 0.0
     },
@@ -2564,7 +2966,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 368,
-        "order": 125,
+        "order": 132,
         "percent_parenttarget": "65.61%",
         "work_period": 0.0
     },
@@ -2573,7 +2975,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 220,
-        "order": 117,
+        "order": 124,
         "percent_parenttarget": "61.11%",
         "work_period": 0.0
     },
@@ -2582,7 +2984,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 222,
-        "order": 104,
+        "order": 111,
         "percent_parenttarget": "75.00%",
         "work_period": 0.0
     },
@@ -2591,7 +2993,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 5317,
-        "order": 91,
+        "order": 96,
         "percent_parenttarget": "62.89%",
         "work_period": 0.0
     },
@@ -2600,7 +3002,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 585,
-        "order": 77,
+        "order": 81,
         "percent_parenttarget": "71.11%",
         "work_period": 0.0
     },
@@ -2609,7 +3011,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 87,
-        "order": 68,
+        "order": 71,
         "percent_parenttarget": "59.77%",
         "work_period": 0.0
     },
@@ -2618,7 +3020,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 87,
-        "order": 58,
+        "order": 61,
         "percent_parenttarget": "52.38%",
         "work_period": 0.0
     },
@@ -2627,7 +3029,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 106,
-        "order": 45,
+        "order": 48,
         "percent_parenttarget": "70.59%",
         "work_period": 0.0
     },
@@ -2636,7 +3038,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 129,
-        "order": 36,
+        "order": 39,
         "percent_parenttarget": "53.51%",
         "work_period": 0.0
     },
@@ -2645,7 +3047,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 205,
-        "order": 27,
+        "order": 30,
         "percent_parenttarget": "35.12%",
         "work_period": 0.0
     },
@@ -2674,23 +3076,19 @@
         "order": 1,
         "work_period": 0.0
     },
-    "Eobot-180": {
-        "color": "#407d83",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 51,
-        "order": 199,
-        "percent_parenttarget": "75.00%",
-        "work_period": 0.0
-    },
     "F2Pool": {
         "address": [
+            "1KFHE7w8BhaENAswwryaoccDb6qcT6DbYY",
             "1KFHE7w8BhaENAswwryaoccDb6qcT6DbYY",
             "bc1qf274x7penhcd8hsv3jcmwa5xxzjl2a6pa9pxwm"
         ],
         "coinbase": [
+            "F2Pool",
             "\u4e03\u5f69\u795e\u4ed9\u9c7c",
             "\ud83d\udc1f"
+        ],
+        "coinbase_hex": [
+            "e4b883e5bda9e7a59ee4bb99e9b1bc"
         ],
         "color": [
             0,
@@ -2700,6 +3098,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 0,
+        "notes": "Another coinbase is 'fabe6d6d' in hex (\ud83d\udc1f) and 'Mined by' in ascii, but I think the address covers these coinbase signatures.",
         "order": 1,
         "work_period": 0.0
     },
@@ -2708,7 +3107,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 442,
-        "order": 324,
+        "order": 343,
         "percent_parenttarget": "92.73%",
         "work_period": 0.0
     },
@@ -2717,7 +3116,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 5328,
-        "order": 300,
+        "order": 315,
         "percent_parenttarget": "83.33%",
         "work_period": 0.0
     },
@@ -2726,7 +3125,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 1805,
-        "order": 292,
+        "order": 308,
         "percent_parenttarget": "86.32%",
         "work_period": 0.0
     },
@@ -2735,7 +3134,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 814,
-        "order": 269,
+        "order": 285,
         "percent_parenttarget": "80.67%",
         "work_period": 0.0
     },
@@ -2744,7 +3143,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 522,
-        "order": 254,
+        "order": 270,
         "percent_parenttarget": "69.81%",
         "work_period": 0.0
     },
@@ -2753,7 +3152,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 195,
-        "order": 240,
+        "order": 256,
         "percent_parenttarget": "77.61%",
         "work_period": 0.0
     },
@@ -2762,7 +3161,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 104,
-        "order": 231,
+        "order": 247,
         "percent_parenttarget": "0.00%",
         "work_period": 0.0
     },
@@ -2771,7 +3170,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 48354,
-        "order": 191,
+        "order": 202,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -2780,7 +3179,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 35608,
-        "order": 171,
+        "order": 179,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -2789,7 +3188,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 2140,
-        "order": 161,
+        "order": 169,
         "percent_parenttarget": "57.14%",
         "work_period": 0.0
     },
@@ -2798,7 +3197,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 1717,
-        "order": 148,
+        "order": 156,
         "percent_parenttarget": "74.35%",
         "work_period": 0.0
     },
@@ -2807,7 +3206,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 461,
-        "order": 138,
+        "order": 146,
         "percent_parenttarget": "71.43%",
         "work_period": 0.0
     },
@@ -2816,7 +3215,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 745,
-        "order": 123,
+        "order": 130,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -2825,7 +3224,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 360,
-        "order": 112,
+        "order": 119,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -2834,7 +3233,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 347,
-        "order": 102,
+        "order": 109,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -2843,7 +3242,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 4250,
-        "order": 94,
+        "order": 99,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -2852,7 +3251,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 131,
-        "order": 83,
+        "order": 88,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -2861,7 +3260,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 33,
-        "order": 70,
+        "order": 73,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -2870,7 +3269,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 62,
-        "order": 59,
+        "order": 62,
         "percent_parenttarget": "10.00%",
         "work_period": 0.0
     },
@@ -2879,7 +3278,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 110,
-        "order": 46,
+        "order": 49,
         "percent_parenttarget": "56.90%",
         "work_period": 0.0
     },
@@ -2888,7 +3287,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 121,
-        "order": 37,
+        "order": 40,
         "percent_parenttarget": "54.63%",
         "work_period": 0.0
     },
@@ -2897,7 +3296,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 128,
-        "order": 25,
+        "order": 28,
         "percent_parenttarget": "35.94%",
         "work_period": 0.0
     },
@@ -2906,7 +3305,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 956,
-        "order": 21,
+        "order": 24,
         "percent_parenttarget": "48.28%",
         "work_period": 0.0
     },
@@ -2915,7 +3314,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 74,
-        "order": 20,
+        "order": 23,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -2924,7 +3323,7 @@
         "count_parenttarget_period": 1,
         "count_period": 1,
         "count_total": 1,
-        "order": 403,
+        "order": 425,
         "percent_parenttarget": "100.00%",
         "work_period": 12202880.726542477
     },
@@ -2933,7 +3332,7 @@
         "count_parenttarget_period": 317,
         "count_period": 372,
         "count_total": 11359,
-        "order": 336,
+        "order": 354,
         "percent_parenttarget": "85.22%",
         "work_period": 4593797754.358396
     },
@@ -2956,8 +3355,29 @@
         "order": 1,
         "work_period": 0.0
     },
+    "Foundry USA Pool": {
+        "address": [
+            "1FFxkVijzvUPUeHgkFjBk2Qw8j3wQY2cDw"
+        ],
+        "coinbase": [
+            "/Foundry USA Pool #dropgold/",
+            "/2cDw/"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "notes": "Attributed by: https://raw.githubusercontent.com/btc21/Bitcoin-Known-Miners/master/miners.json",
+        "order": 1,
+        "work_period": 0.0
+    },
     "GBMiners": {
         "coinbase": [
+            "mined by gbminers",
             "/mined by gbminers/"
         ],
         "color": [
@@ -2976,7 +3396,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 4,
-        "order": 268,
+        "order": 284,
         "percent_parenttarget": "75.00%",
         "work_period": 0.0
     },
@@ -2985,7 +3405,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 121,
-        "order": 255,
+        "order": 271,
         "percent_parenttarget": "71.43%",
         "work_period": 0.0
     },
@@ -2994,7 +3414,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 55,
-        "order": 239,
+        "order": 255,
         "percent_parenttarget": "66.67%",
         "work_period": 0.0
     },
@@ -3003,7 +3423,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 22,
-        "order": 227,
+        "order": 243,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -3012,16 +3432,171 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 256,
-        "order": 221,
+        "order": 234,
         "percent_parenttarget": "88.89%",
         "work_period": 0.0
     },
     "GHash.IO": {
         "address": [
+            "1CjPR7Z5ZSyWk6WtXvSFgkptmpoi4UM9BC",
             "1CjPR7Z5ZSyWk6WtXvSFgkptmpoi4UM9BC"
         ],
         "coinbase": [
+            "GHash.IO",
+            "ghash.io",
             "ghash.io"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "notes": "Doesn't always put 'GHash' in the coinbase. Need address to identify most blocks.",
+        "order": 1,
+        "work_period": 0.0
+    },
+    "GHash.IO-180": {
+        "color": "#82ef8c",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 815,
+        "order": 203,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "GHash.IO-181": {
+        "color": "#9c5fdb",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 8468,
+        "order": 178,
+        "percent_parenttarget": "21.05%",
+        "work_period": 0.0
+    },
+    "GHash.IO-182": {
+        "color": "#4ecec3",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 2141,
+        "order": 168,
+        "percent_parenttarget": "61.70%",
+        "work_period": 0.0
+    },
+    "GHash.IO-183": {
+        "color": "#876c0b",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 2350,
+        "order": 155,
+        "percent_parenttarget": "74.32%",
+        "work_period": 0.0
+    },
+    "GHash.IO-184": {
+        "color": "#1a86a3",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 1006,
+        "order": 145,
+        "percent_parenttarget": "66.71%",
+        "work_period": 0.0
+    },
+    "GHash.IO-185": {
+        "color": "#5d6d15",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 1882,
+        "order": 131,
+        "percent_parenttarget": "73.83%",
+        "work_period": 0.0
+    },
+    "GHash.IO-186": {
+        "color": "#0bf677",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 940,
+        "order": 121,
+        "percent_parenttarget": "65.52%",
+        "work_period": 0.0
+    },
+    "GHash.IO-187": {
+        "color": "#b9d388",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 926,
+        "order": 110,
+        "percent_parenttarget": "75.43%",
+        "work_period": 0.0
+    },
+    "GHash.IO-190": {
+        "color": "#6841b4",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 12051,
+        "order": 94,
+        "percent_parenttarget": "70.39%",
+        "work_period": 0.0
+    },
+    "GHash.IO-191": {
+        "color": "#2daa1e",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 1609,
+        "order": 80,
+        "percent_parenttarget": "69.60%",
+        "work_period": 0.0
+    },
+    "GHash.IO-192": {
+        "color": "#bc8fd3",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 513,
+        "order": 70,
+        "percent_parenttarget": "62.18%",
+        "work_period": 0.0
+    },
+    "GHash.IO-193": {
+        "color": "#ff88d5",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 466,
+        "order": 58,
+        "percent_parenttarget": "66.67%",
+        "work_period": 0.0
+    },
+    "GHash.IO-194": {
+        "color": "#d82cb4",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 598,
+        "order": 52,
+        "percent_parenttarget": "59.77%",
+        "work_period": 0.0
+    },
+    "GHash.IO-195": {
+        "color": "#97abdf",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 416,
+        "order": 38,
+        "percent_parenttarget": "48.23%",
+        "work_period": 0.0
+    },
+    "GHash.IO-197": {
+        "color": "#578717",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 94,
+        "order": 35,
+        "percent_parenttarget": "37.23%",
+        "work_period": 0.0
+    },
+    "Give Me Coins": {
+        "coinbase": [
+            "Mined at GIVE-ME-COINS.com",
+            "Give-Me-Coins"
         ],
         "color": [
             0,
@@ -3034,144 +3609,36 @@
         "order": 1,
         "work_period": 0.0
     },
-    "GHash.IO-180": {
-        "color": "#82ef8c",
+    "Give Me Coins-181": {
+        "color": "#c69a82",
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 815,
-        "order": 192,
-        "percent_parenttarget": "100.00%",
+        "count_total": 10,
+        "order": 194,
+        "percent_parenttarget": "0.00%",
         "work_period": 0.0
     },
-    "GHash.IO-181": {
-        "color": "#9c5fdb",
+    "Give Me Coins-185": {
+        "color": "#ea96d5",
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 8468,
-        "order": 170,
-        "percent_parenttarget": "21.05%",
+        "count_total": 1,
+        "order": 140,
+        "percent_parenttarget": "0.00%",
         "work_period": 0.0
     },
-    "GHash.IO-182": {
-        "color": "#4ecec3",
+    "Give Me Coins-190": {
+        "color": "#dabdd1",
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 2141,
-        "order": 160,
-        "percent_parenttarget": "61.70%",
+        "count_total": 9,
+        "order": 104,
+        "percent_parenttarget": "0.00%",
         "work_period": 0.0
     },
-    "GHash.IO-183": {
-        "color": "#876c0b",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 2350,
-        "order": 147,
-        "percent_parenttarget": "74.32%",
-        "work_period": 0.0
-    },
-    "GHash.IO-184": {
-        "color": "#1a86a3",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 1006,
-        "order": 137,
-        "percent_parenttarget": "66.71%",
-        "work_period": 0.0
-    },
-    "GHash.IO-185": {
-        "color": "#5d6d15",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 1882,
-        "order": 124,
-        "percent_parenttarget": "73.83%",
-        "work_period": 0.0
-    },
-    "GHash.IO-186": {
-        "color": "#0bf677",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 940,
-        "order": 114,
-        "percent_parenttarget": "65.52%",
-        "work_period": 0.0
-    },
-    "GHash.IO-187": {
-        "color": "#b9d388",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 926,
-        "order": 103,
-        "percent_parenttarget": "75.43%",
-        "work_period": 0.0
-    },
-    "GHash.IO-190": {
-        "color": "#6841b4",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 12051,
-        "order": 89,
-        "percent_parenttarget": "70.39%",
-        "work_period": 0.0
-    },
-    "GHash.IO-191": {
-        "color": "#2daa1e",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 1609,
-        "order": 76,
-        "percent_parenttarget": "69.60%",
-        "work_period": 0.0
-    },
-    "GHash.IO-192": {
-        "color": "#bc8fd3",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 513,
-        "order": 67,
-        "percent_parenttarget": "62.18%",
-        "work_period": 0.0
-    },
-    "GHash.IO-193": {
-        "color": "#ff88d5",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 466,
-        "order": 55,
-        "percent_parenttarget": "66.67%",
-        "work_period": 0.0
-    },
-    "GHash.IO-194": {
-        "color": "#d82cb4",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 598,
-        "order": 49,
-        "percent_parenttarget": "59.77%",
-        "work_period": 0.0
-    },
-    "GHash.IO-195": {
-        "color": "#97abdf",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 416,
-        "order": 35,
-        "percent_parenttarget": "48.23%",
-        "work_period": 0.0
-    },
-    "GHash.IO-197": {
-        "color": "#578717",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 94,
-        "order": 32,
-        "percent_parenttarget": "37.23%",
-        "work_period": 0.0
-    },
-    "Give Me Coins": {
+    "Go Green": {
         "coinbase": [
-            "Give-Me-Coins"
+            "GBSB3P1"
         ],
         "color": [
             0,
@@ -3187,6 +3654,21 @@
     "GoGreenLight": {
         "address": [
             "18EPLvrs2UE11kWBB3ABS7Crwj5tTBYPoa"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
+        "work_period": 0.0
+    },
+    "GodPool": {
+        "coinbase": [
+            "/GodPool/"
         ],
         "color": [
             0,
@@ -3247,6 +3729,21 @@
         "order": 1,
         "work_period": 0.0
     },
+    "HaoBTC": {
+        "coinbase": [
+            "HaoBTC"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
+        "work_period": 0.0
+    },
     "HashBX": {
         "coinbase": [
             "/Mined by HashBX.io/"
@@ -3264,6 +3761,7 @@
     },
     "Helix": {
         "coinbase": [
+            "Helix",
             "/Helix/"
         ],
         "color": [
@@ -3282,7 +3780,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 65,
-        "order": 276,
+        "order": 292,
         "percent_parenttarget": "88.24%",
         "work_period": 0.0
     },
@@ -3292,6 +3790,22 @@
         ],
         "coinbase": [
             "/HotPool/"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
+        "work_period": 0.0
+    },
+    "HummerPool": {
+        "coinbase": [
+            "HummerPool",
+            "Hummerpool"
         ],
         "color": [
             0,
@@ -3324,6 +3838,11 @@
         "address": [
             "3HuobiNg2wHjdPU2mQczL9on8WF7hZmaGd"
         ],
+        "coinbase": [
+            "HuoBi",
+            "Huobi",
+            "/one_more_mcd/"
+        ],
         "color": [
             0,
             0,
@@ -3335,14 +3854,113 @@
         "order": 1,
         "work_period": 0.0
     },
+    "Huobi-171": {
+        "color": "#c50674",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 201,
+        "order": 345,
+        "percent_parenttarget": "84.62%",
+        "work_period": 0.0
+    },
+    "Huobi-172": {
+        "color": "#86327a",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 1301,
+        "order": 320,
+        "percent_parenttarget": "88.51%",
+        "work_period": 0.0
+    },
+    "Huobi-173": {
+        "color": "#510691",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 453,
+        "order": 309,
+        "percent_parenttarget": "85.71%",
+        "work_period": 0.0
+    },
+    "Huobi-174": {
+        "color": "#3490af",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 29,
+        "order": 295,
+        "percent_parenttarget": "80.00%",
+        "work_period": 0.0
+    },
+    "Huobi-175": {
+        "color": "#a2eca4",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 2,
+        "order": 280,
+        "percent_parenttarget": "50.00%",
+        "work_period": 0.0
+    },
+    "Huobi-180": {
+        "color": "#6bb733",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 65,
+        "order": 297,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "Huobi-1801": {
+        "color": "#3d50e0",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 26,
+        "order": 403,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "Huobi-1802": {
+        "color": "#7dee90",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 38,
+        "order": 389,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "Huobi-1805": {
+        "color": "#3ece2a",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 1,
+        "order": 413,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
     "Huobi-181": {
         "color": "#933c47",
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 14,
-        "order": 185,
+        "order": 195,
         "percent_parenttarget": "0.00%",
         "work_period": 0.0
+    },
+    "Huobi-BCH": {
+        "color": "#2d566f",
+        "count_parenttarget_period": 6,
+        "count_period": 6,
+        "count_total": 41,
+        "order": 367,
+        "percent_parenttarget": "100.00%",
+        "work_period": 73820907.96019447
+    },
+    "Huobi-BTC": {
+        "color": "#85aa68",
+        "count_parenttarget_period": 196,
+        "count_period": 232,
+        "count_total": 4168,
+        "order": 359,
+        "percent_parenttarget": "84.48%",
+        "work_period": 2859438637.8020177
     },
     "Huobi.pool": {
         "address": [
@@ -3363,107 +3981,18 @@
         "order": 1,
         "work_period": 0.0
     },
-    "Huobi.pool-171": {
-        "color": "#e5468a",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 201,
-        "order": 326,
-        "percent_parenttarget": "84.62%",
-        "work_period": 0.0
-    },
-    "Huobi.pool-172": {
-        "color": "#8c1dcd",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 1301,
-        "order": 305,
-        "percent_parenttarget": "88.51%",
-        "work_period": 0.0
-    },
-    "Huobi.pool-173": {
-        "color": "#07f629",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 453,
-        "order": 293,
-        "percent_parenttarget": "85.71%",
-        "work_period": 0.0
-    },
-    "Huobi.pool-174": {
-        "color": "#384fcb",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 29,
-        "order": 279,
-        "percent_parenttarget": "80.00%",
-        "work_period": 0.0
-    },
-    "Huobi.pool-175": {
-        "color": "#b1d38a",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 2,
-        "order": 263,
-        "percent_parenttarget": "50.00%",
-        "work_period": 0.0
-    },
-    "Huobi.pool-180": {
-        "color": "#16e0b2",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 65,
-        "order": 281,
-        "percent_parenttarget": "100.00%",
-        "work_period": 0.0
-    },
-    "Huobi.pool-1801": {
-        "color": "#f690e6",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 26,
-        "order": 383,
-        "percent_parenttarget": "100.00%",
-        "work_period": 0.0
-    },
-    "Huobi.pool-1802": {
-        "color": "#294953",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 38,
-        "order": 369,
-        "percent_parenttarget": "100.00%",
-        "work_period": 0.0
-    },
-    "Huobi.pool-1805": {
-        "color": "#b41a24",
+    "Huobi.pool-BTC": {
+        "color": "#3fb6df",
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 1,
-        "order": 391,
+        "order": 375,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
-    "Huobi.pool-BCH": {
-        "color": "#858fac",
-        "count_parenttarget_period": 6,
-        "count_period": 6,
-        "count_total": 41,
-        "order": 349,
-        "percent_parenttarget": "100.00%",
-        "work_period": 73820907.96019447
-    },
-    "Huobi.pool-BTC": {
-        "color": "#3fb6df",
-        "count_parenttarget_period": 196,
-        "count_period": 232,
-        "count_total": 4169,
-        "order": 341,
-        "percent_parenttarget": "84.48%",
-        "work_period": 2859438637.8020177
-    },
     "KanoPool": {
         "coinbase": [
+            "KanoPool",
             "Kano"
         ],
         "color": [
@@ -3479,6 +4008,7 @@
     },
     "KnCMiner": {
         "coinbase": [
+            "KnCMiner",
             "KnCMiner"
         ],
         "color": [
@@ -3489,6 +4019,38 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 0,
+        "order": 1,
+        "work_period": 0.0
+    },
+    "KnoxPool": {
+        "coinbase": [
+            "/KnoxPool/"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
+        "work_period": 0.0
+    },
+    "LuBian": {
+        "coinbase": [
+            "/lubian.com/",
+            "/Buffett/"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "notes": "Attributed by: https://raw.githubusercontent.com/btc21/Bitcoin-Known-Miners/master/miners.json",
         "order": 1,
         "work_period": 0.0
     },
@@ -3544,8 +4106,121 @@
         "order": 1,
         "work_period": 0.0
     },
+    "MMPool": {
+        "coinbase": [
+            "mmpool",
+            "mkalinin.ru"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
+        "work_period": 0.0
+    },
+    "MMPool-180": {
+        "color": "#716a56",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 9,
+        "order": 208,
+        "percent_parenttarget": "0.00%",
+        "work_period": 0.0
+    },
+    "MMPool-181": {
+        "color": "#88eedc",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 49,
+        "order": 187,
+        "percent_parenttarget": "0.00%",
+        "work_period": 0.0
+    },
+    "MMPool-182": {
+        "color": "#652baa",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 2,
+        "order": 176,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "MMPool-183": {
+        "color": "#43922c",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 1,
+        "order": 164,
+        "percent_parenttarget": "0.00%",
+        "work_period": 0.0
+    },
+    "MMPool-184": {
+        "color": "#0c9d36",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 3,
+        "order": 154,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "MMPool-185": {
+        "color": "#4695c1",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 3,
+        "order": 139,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "MMPool-186": {
+        "color": "#cd09f1",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 4,
+        "order": 128,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "MMPool-187": {
+        "color": "#14ebb9",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 1,
+        "order": 118,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "MMPool-190": {
+        "color": "#f62931",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 6,
+        "order": 108,
+        "percent_parenttarget": "0.00%",
+        "work_period": 0.0
+    },
+    "Mara Pool": {
+        "coinbase": [
+            "MARA Pool - OFAC Compliant Block"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
+        "work_period": 0.0
+    },
     "MaxBTC": {
         "coinbase": [
+            "MaxBTC",
             "MaxBTC"
         ],
         "color": [
@@ -3564,7 +4239,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 1266,
-        "order": 16,
+        "order": 19,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -3591,12 +4266,13 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 1,
-        "order": 85,
+        "order": 90,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
     "Minerium": {
         "coinbase": [
+            "/Minerium.com/",
             "/Minerium.com/"
         ],
         "color": [
@@ -3612,6 +4288,7 @@
     },
     "Mining-Dutch": {
         "coinbase": [
+            "/Mining-Dutch",
             "Mining-Dutch"
         ],
         "color": [
@@ -3630,7 +4307,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 3,
-        "order": 384,
+        "order": 404,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -3639,7 +4316,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 1,
-        "order": 389,
+        "order": 411,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -3648,7 +4325,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 3,
-        "order": 386,
+        "order": 406,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -3657,7 +4334,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 1,
-        "order": 380,
+        "order": 400,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -3666,7 +4343,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 1,
-        "order": 392,
+        "order": 414,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -3675,7 +4352,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 9,
-        "order": 373,
+        "order": 393,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -3684,7 +4361,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 7,
-        "order": 385,
+        "order": 405,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -3693,7 +4370,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 6,
-        "order": 378,
+        "order": 398,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -3702,7 +4379,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 3,
-        "order": 394,
+        "order": 416,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -3711,6 +4388,7 @@
             "11wC5KcbgrWRBb43cwADdVrxgyF8mndVC"
         ],
         "coinbase": [
+            "MiningCity",
             "MiningCity"
         ],
         "color": [
@@ -3729,7 +4407,7 @@
         "count_parenttarget_period": 6,
         "count_period": 7,
         "count_total": 59,
-        "order": 388,
+        "order": 410,
         "percent_parenttarget": "85.71%",
         "work_period": 86627412.28767654
     },
@@ -3818,7 +4496,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 7,
-        "order": 198,
+        "order": 209,
         "percent_parenttarget": "0.00%",
         "work_period": 0.0
     },
@@ -3827,7 +4505,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 1,
-        "order": 188,
+        "order": 199,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -3893,6 +4571,7 @@
             "3Bmb9Jig8A5kHdDSxvDZ6eryj3AXd3swuJ"
         ],
         "coinbase": [
+            "/NovaBlock/",
             "/NovaBlock/"
         ],
         "color": [
@@ -3911,12 +4590,13 @@
         "count_parenttarget_period": 11,
         "count_period": 13,
         "count_total": 100,
-        "order": 395,
+        "order": 417,
         "percent_parenttarget": "84.62%",
         "work_period": 161655567.44975016
     },
     "OKExPool": {
         "coinbase": [
+            "/www.okex.com/",
             "/www.okex.com/"
         ],
         "color": [
@@ -3935,7 +4615,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 6,
-        "order": 382,
+        "order": 402,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -3944,7 +4624,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 13,
-        "order": 375,
+        "order": 395,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -3953,7 +4633,7 @@
         "count_parenttarget_period": 1,
         "count_period": 1,
         "count_total": 10,
-        "order": 399,
+        "order": 421,
         "percent_parenttarget": "100.00%",
         "work_period": 12202880.726542477
     },
@@ -3962,7 +4642,7 @@
         "count_parenttarget_period": 143,
         "count_period": 164,
         "count_total": 2522,
-        "order": 374,
+        "order": 394,
         "percent_parenttarget": "87.20%",
         "work_period": 2024210135.988676
     },
@@ -3972,6 +4652,7 @@
             "16JHXJ7M2MubWNX9grnqbjUqJ5PHwcCWw2"
         ],
         "coinbase": [
+            "/hash.okkong.com/",
             "/hash.okkong.com/"
         ],
         "color": [
@@ -3990,7 +4671,7 @@
         "count_parenttarget_period": 6,
         "count_period": 6,
         "count_total": 25,
-        "order": 398,
+        "order": 420,
         "percent_parenttarget": "100.00%",
         "work_period": 74424531.56113406
     },
@@ -4040,7 +4721,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 86,
-        "order": 205,
+        "order": 215,
         "percent_parenttarget": "0.00%",
         "work_period": 0.0
     },
@@ -4060,13 +4741,76 @@
         "order": 1,
         "work_period": 0.0
     },
-    "Patels-180": {
-        "color": "#de3b7e",
+    "Phash.CN": {
+        "coinbase": [
+            "phash.cn"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 3,
-        "order": 200,
+        "count_total": 0,
+        "order": 1,
+        "work_period": 0.0
+    },
+    "Phash.IO": {
+        "coinbase": [
+            "phash.io"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
+        "work_period": 0.0
+    },
+    "Pierce and Paul": {
+        "coinbase": [
+            "For Pierce and Paul"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
+        "work_period": 0.0
+    },
+    "Pierce and Paul-190": {
+        "color": "#92e34f",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 386,
+        "order": 97,
         "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "Pierce and Paul-191": {
+        "color": "#bc3ac2",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 331,
+        "order": 82,
+        "percent_parenttarget": "65.00%",
+        "work_period": 0.0
+    },
+    "Pierce and Paul-192": {
+        "color": "#32a569",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 16,
+        "order": 78,
+        "percent_parenttarget": "31.25%",
         "work_period": 0.0
     },
     "Polmine": {
@@ -4079,6 +4823,7 @@
             "1JrYhdhP2jCY6JwuVzdk9jUwc4pctcSes7"
         ],
         "coinbase": [
+            "by polmine.pl",
             "by polmine.pl",
             "bypmneU"
         ],
@@ -4098,7 +4843,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 904,
-        "order": 175,
+        "order": 183,
         "percent_parenttarget": "40.00%",
         "work_period": 0.0
     },
@@ -4107,7 +4852,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 171,
-        "order": 167,
+        "order": 175,
         "percent_parenttarget": "66.67%",
         "work_period": 0.0
     },
@@ -4116,7 +4861,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 240,
-        "order": 152,
+        "order": 160,
         "percent_parenttarget": "79.31%",
         "work_period": 0.0
     },
@@ -4125,7 +4870,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 55,
-        "order": 140,
+        "order": 148,
         "percent_parenttarget": "74.36%",
         "work_period": 0.0
     },
@@ -4134,7 +4879,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 100,
-        "order": 128,
+        "order": 135,
         "percent_parenttarget": "66.67%",
         "work_period": 0.0
     },
@@ -4143,7 +4888,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 39,
-        "order": 116,
+        "order": 123,
         "percent_parenttarget": "33.33%",
         "work_period": 0.0
     },
@@ -4152,7 +4897,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 36,
-        "order": 105,
+        "order": 112,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -4161,7 +4906,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 74,
-        "order": 97,
+        "order": 103,
         "percent_parenttarget": "62.50%",
         "work_period": 0.0
     },
@@ -4170,7 +4915,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 17,
-        "order": 81,
+        "order": 86,
         "percent_parenttarget": "71.43%",
         "work_period": 0.0
     },
@@ -4179,7 +4924,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 8,
-        "order": 73,
+        "order": 76,
         "percent_parenttarget": "87.50%",
         "work_period": 0.0
     },
@@ -4188,7 +4933,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 8,
-        "order": 64,
+        "order": 67,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -4197,7 +4942,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 9,
-        "order": 52,
+        "order": 55,
         "percent_parenttarget": "50.00%",
         "work_period": 0.0
     },
@@ -4206,7 +4951,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 4,
-        "order": 42,
+        "order": 45,
         "percent_parenttarget": "25.00%",
         "work_period": 0.0
     },
@@ -4215,7 +4960,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 23,
-        "order": 28,
+        "order": 31,
         "percent_parenttarget": "30.43%",
         "work_period": 0.0
     },
@@ -4224,7 +4969,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 152,
-        "order": 22,
+        "order": 25,
         "percent_parenttarget": "40.00%",
         "work_period": 0.0
     },
@@ -4253,7 +4998,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 355,
-        "order": 320,
+        "order": 339,
         "percent_parenttarget": "86.49%",
         "work_period": 0.0
     },
@@ -4262,7 +5007,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 4121,
-        "order": 298,
+        "order": 313,
         "percent_parenttarget": "83.78%",
         "work_period": 0.0
     },
@@ -4271,7 +5016,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 909,
-        "order": 296,
+        "order": 311,
         "percent_parenttarget": "79.41%",
         "work_period": 0.0
     },
@@ -4280,7 +5025,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 82,
-        "order": 314,
+        "order": 332,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -4289,7 +5034,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 5,
-        "order": 379,
+        "order": 399,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -4298,7 +5043,7 @@
         "count_parenttarget_period": 2,
         "count_period": 2,
         "count_total": 33,
-        "order": 361,
+        "order": 381,
         "percent_parenttarget": "100.00%",
         "work_period": 25009385.05402455
     },
@@ -4307,7 +5052,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 4,
-        "order": 350,
+        "order": 368,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -4316,7 +5061,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 4,
-        "order": 315,
+        "order": 334,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -4325,7 +5070,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 25,
-        "order": 345,
+        "order": 362,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -4334,7 +5079,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 7,
-        "order": 347,
+        "order": 364,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -4343,9 +5088,132 @@
         "count_parenttarget_period": 245,
         "count_period": 292,
         "count_total": 10217,
-        "order": 334,
+        "order": 352,
         "percent_parenttarget": "83.90%",
         "work_period": 3601873082.6105394
+    },
+    "Prohashing": {
+        "coinbase": [
+            "/prohashing.com"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
+        "work_period": 0.0
+    },
+    "Prohashing-172": {
+        "color": "#bfb13a",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 2,
+        "order": 326,
+        "percent_parenttarget": "0.00%",
+        "work_period": 0.0
+    },
+    "Prohashing-173": {
+        "color": "#f5474c",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 1,
+        "order": 331,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "Prohashing-180": {
+        "color": "#23601a",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 24,
+        "order": 327,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "Prohashing-1801": {
+        "color": "#7ee1ea",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 2,
+        "order": 396,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "Prohashing-1802": {
+        "color": "#f1b650",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 3,
+        "order": 409,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "Prohashing-1808": {
+        "color": "#60eeff",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 3,
+        "order": 370,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "Prohashing-1809": {
+        "color": "#ef7806",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 2,
+        "order": 383,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "Prohashing-181": {
+        "color": "#ef7e86",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 1,
+        "order": 333,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "Prohashing-190": {
+        "color": "#bf26c1",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 16,
+        "order": 328,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "Prohashing-BCH": {
+        "color": "#56120e",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 8,
+        "order": 360,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "Prohashing-BSV": {
+        "color": "#2aa09a",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 7,
+        "order": 391,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "Prohashing-BTC": {
+        "color": "#7c31b5",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 2,
+        "order": 407,
+        "percent_parenttarget": "0.00%",
+        "work_period": 0.0
     },
     "PureBTC.COM": {
         "coinbase": [
@@ -4385,9 +5253,17 @@
     },
     "Rawpool.com": {
         "address": [
+            "1FbBbv5oYqFKwiPm4CAqvAy8345n8AQ74b",
+            "35y82tEPDa2wm6tzkEacMG8GPPW7zbMj83",
+            "3CLigLYNkrtoNgNcUwTaKoUSHCwr9W851W",
+            "3QYvfQoG9Gs9Vfvbpw6947muSqhoGagvF6",
+            "bc1qnnl503n04cqacpwvhr89qr70metxr79ht3n380",
+            "bc1q8ej2g5uxdsg0jwl0mpl606qfjxgkyv3p29yf37",
+            "bc1qru8mtv3e3u7ms6ecjmwgeakdakclemvhnw00q9",
             "1FbBbv5oYqFKwiPm4CAqvAy8345n8AQ74b"
         ],
         "coinbase": [
+            "Rawpool.com",
             "/Rawpool.com/"
         ],
         "color": [
@@ -4398,6 +5274,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 0,
+        "notes": "Addresses attributed by: https://raw.githubusercontent.com/btc21/Bitcoin-Known-Miners/master/miners.json",
         "order": 1,
         "work_period": 0.0
     },
@@ -4421,6 +5298,7 @@
     },
     "SBI Crypto": {
         "coinbase": [
+            "/SBICrypto.com Pool/",
             "/SBI Crypto/",
             "/SBICrypto/",
             "/SBICrypto.com Pool/",
@@ -4470,6 +5348,7 @@
     },
     "SecretSuperstar": {
         "coinbase": [
+            "SecretSuperstar",
             "/SecretSuperstar/"
         ],
         "color": [
@@ -4482,6 +5361,35 @@
         "count_total": 0,
         "order": 1,
         "work_period": 0.0
+    },
+    "Sigmapool": {
+        "address": [
+            "12cKiMNhCtBhZRUBCnYXo8A4WQzMUtYjmR"
+        ],
+        "coinbase": [
+            "SigmaPool.com",
+            "Sigmapool.com"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "notes": "Address attributed by: https://raw.githubusercontent.com/btc21/Bitcoin-Known-Miners/master/miners.json",
+        "order": 1,
+        "work_period": 0.0
+    },
+    "Sigmapool-BTC": {
+        "color": "#eabdb7",
+        "count_parenttarget_period": 3,
+        "count_period": 5,
+        "count_total": 22,
+        "order": 418,
+        "percent_parenttarget": "60.00%",
+        "work_period": 61014403.632712394
     },
     "Sigmapool.com": {
         "address": [
@@ -4501,14 +5409,137 @@
         "order": 1,
         "work_period": 0.0
     },
-    "Sigmapool.com-BTC": {
-        "color": "#e9d230",
-        "count_parenttarget_period": 3,
-        "count_period": 5,
-        "count_total": 22,
-        "order": 396,
-        "percent_parenttarget": "60.00%",
-        "work_period": 61014403.632712394
+    "Slush": {
+        "coinbase": [
+            "slush"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
+        "work_period": 0.0
+    },
+    "Slush-171": {
+        "color": "#13210e",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 290,
+        "order": 340,
+        "percent_parenttarget": "83.58%",
+        "work_period": 0.0
+    },
+    "Slush-172": {
+        "color": "#b4ebcd",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 5758,
+        "order": 317,
+        "percent_parenttarget": "83.81%",
+        "work_period": 0.0
+    },
+    "Slush-173": {
+        "color": "#87d722",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 2220,
+        "order": 300,
+        "percent_parenttarget": "70.13%",
+        "work_period": 0.0
+    },
+    "Slush-174": {
+        "color": "#f5994f",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 1156,
+        "order": 283,
+        "percent_parenttarget": "82.81%",
+        "work_period": 0.0
+    },
+    "Slush-175": {
+        "color": "#320cfd",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 1094,
+        "order": 273,
+        "percent_parenttarget": "70.05%",
+        "work_period": 0.0
+    },
+    "Slush-176": {
+        "color": "#4810ce",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 535,
+        "order": 257,
+        "percent_parenttarget": "78.69%",
+        "work_period": 0.0
+    },
+    "Slush-177": {
+        "color": "#897ac5",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 258,
+        "order": 246,
+        "percent_parenttarget": "75.00%",
+        "work_period": 0.0
+    },
+    "Slush-180": {
+        "color": "#1281d2",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 13969,
+        "order": 201,
+        "percent_parenttarget": "88.89%",
+        "work_period": 0.0
+    },
+    "Slush-181": {
+        "color": "#fc430f",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 3509,
+        "order": 197,
+        "percent_parenttarget": "33.33%",
+        "work_period": 0.0
+    },
+    "Slush-194": {
+        "color": "#da7076",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 1,
+        "order": 57,
+        "percent_parenttarget": "0.00%",
+        "work_period": 0.0
+    },
+    "Slush-195": {
+        "color": "#3ff1ab",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 1,
+        "order": 46,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "Slush-1a0": {
+        "color": "#e091e7",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 12035,
+        "order": 16,
+        "percent_parenttarget": "0.00%",
+        "work_period": 0.0
+    },
+    "Slush-BTC": {
+        "color": "#d84170",
+        "count_parenttarget_period": 47,
+        "count_period": 55,
+        "count_total": 3276,
+        "order": 350,
+        "percent_parenttarget": "85.45%",
+        "work_period": 680212793.97393
     },
     "SlushPool": {
         "address": [
@@ -4529,122 +5560,21 @@
         "order": 1,
         "work_period": 0.0
     },
-    "SlushPool-171": {
-        "color": "#72ed91",
+    "SockThing": {
+        "coinbase": [
+            "SockThing",
+            "SOCK"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 290,
-        "order": 321,
-        "percent_parenttarget": "83.58%",
+        "count_total": 0,
+        "order": 1,
         "work_period": 0.0
-    },
-    "SlushPool-172": {
-        "color": "#479a1e",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 5758,
-        "order": 302,
-        "percent_parenttarget": "83.81%",
-        "work_period": 0.0
-    },
-    "SlushPool-173": {
-        "color": "#50c449",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 2220,
-        "order": 284,
-        "percent_parenttarget": "70.13%",
-        "work_period": 0.0
-    },
-    "SlushPool-174": {
-        "color": "#570ab1",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 1156,
-        "order": 266,
-        "percent_parenttarget": "82.81%",
-        "work_period": 0.0
-    },
-    "SlushPool-175": {
-        "color": "#c1ba1d",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 1094,
-        "order": 257,
-        "percent_parenttarget": "70.05%",
-        "work_period": 0.0
-    },
-    "SlushPool-176": {
-        "color": "#13b530",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 535,
-        "order": 241,
-        "percent_parenttarget": "78.69%",
-        "work_period": 0.0
-    },
-    "SlushPool-177": {
-        "color": "#d4baa6",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 258,
-        "order": 230,
-        "percent_parenttarget": "75.00%",
-        "work_period": 0.0
-    },
-    "SlushPool-180": {
-        "color": "#2aa64f",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 13969,
-        "order": 190,
-        "percent_parenttarget": "88.89%",
-        "work_period": 0.0
-    },
-    "SlushPool-181": {
-        "color": "#307e53",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 3509,
-        "order": 186,
-        "percent_parenttarget": "33.33%",
-        "work_period": 0.0
-    },
-    "SlushPool-194": {
-        "color": "#bc0208",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 1,
-        "order": 54,
-        "percent_parenttarget": "0.00%",
-        "work_period": 0.0
-    },
-    "SlushPool-195": {
-        "color": "#158ab1",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 1,
-        "order": 43,
-        "percent_parenttarget": "100.00%",
-        "work_period": 0.0
-    },
-    "SlushPool-1a0": {
-        "color": "#4f9ad1",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 12035,
-        "order": 15,
-        "percent_parenttarget": "0.00%",
-        "work_period": 0.0
-    },
-    "SlushPool-BTC": {
-        "color": "#361b21",
-        "count_parenttarget_period": 47,
-        "count_period": 55,
-        "count_total": 3276,
-        "order": 332,
-        "percent_parenttarget": "85.45%",
-        "work_period": 680212793.97393
     },
     "Solo CK": {
         "coinbase": [
@@ -4667,6 +5597,7 @@
             "125m2H43pwKpSZjLhMQHneuTwTJN5qRyYu"
         ],
         "coinbase": [
+            "SpiderPool",
             "SpiderPool"
         ],
         "color": [
@@ -4685,7 +5616,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 13,
-        "order": 387,
+        "order": 408,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -4694,7 +5625,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 3,
-        "order": 390,
+        "order": 412,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -4703,9 +5634,24 @@
         "count_parenttarget_period": 9,
         "count_period": 12,
         "count_total": 322,
-        "order": 358,
+        "order": 378,
         "percent_parenttarget": "75.00%",
         "work_period": 148849063.1222681
+    },
+    "TAAL": {
+        "coinbase": [
+            "/taal.com/"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
+        "work_period": 0.0
     },
     "TATMAS Pool": {
         "coinbase": [
@@ -4727,7 +5673,7 @@
         "count_parenttarget_period": 18,
         "count_period": 18,
         "count_total": 46,
-        "order": 400,
+        "order": 422,
         "percent_parenttarget": "100.00%",
         "work_period": 222066347.48152295
     },
@@ -4754,12 +5700,13 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 8,
-        "order": 182,
+        "order": 190,
         "percent_parenttarget": "0.00%",
         "work_period": 0.0
     },
     "TMSPool": {
         "coinbase": [
+            "/TMSPOOL/",
             "/TMSPOOL/"
         ],
         "color": [
@@ -4771,6 +5718,31 @@
         "count_period": 0,
         "count_total": 0,
         "order": 1,
+        "work_period": 0.0
+    },
+    "TangPool": {
+        "coinbase": [
+            "TangPool",
+            "Tangpool"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
+        "work_period": 0.0
+    },
+    "TangPool-181": {
+        "color": "#44edb7",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 304,
+        "order": 192,
+        "percent_parenttarget": "35.48%",
         "work_period": 0.0
     },
     "Tangpool": {
@@ -4789,15 +5761,6 @@
         "count_period": 0,
         "count_total": 0,
         "order": 1,
-        "work_period": 0.0
-    },
-    "Tangpool-181": {
-        "color": "#2dcb2c",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 304,
-        "order": 184,
-        "percent_parenttarget": "35.48%",
         "work_period": 0.0
     },
     "Telco 214": {
@@ -4827,7 +5790,11 @@
         "work_period": 0.0
     },
     "TogetherPool": {
+        "address": [
+            "bc1qwlrsvgtn99rqp3fgaxq6f6jkgms80rnej0a8tc"
+        ],
         "coinbase": [
+            "TogetherPool",
             "TogetherPool"
         ],
         "color": [
@@ -4838,6 +5805,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 0,
+        "notes": "Address attributed by: https://raw.githubusercontent.com/btc21/Bitcoin-Known-Miners/master/miners.json",
         "order": 1,
         "work_period": 0.0
     },
@@ -4877,7 +5845,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 19,
-        "order": 96,
+        "order": 102,
         "percent_parenttarget": "0.00%",
         "work_period": 0.0
     },
@@ -4886,7 +5854,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 9,
-        "order": 84,
+        "order": 89,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -4895,7 +5863,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 5,
-        "order": 72,
+        "order": 75,
         "percent_parenttarget": "0.00%",
         "work_period": 0.0
     },
@@ -4904,7 +5872,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 6,
-        "order": 61,
+        "order": 64,
         "percent_parenttarget": "50.00%",
         "work_period": 0.0
     },
@@ -4913,7 +5881,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 3,
-        "order": 53,
+        "order": 56,
         "percent_parenttarget": "50.00%",
         "work_period": 0.0
     },
@@ -4922,7 +5890,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 4,
-        "order": 33,
+        "order": 36,
         "percent_parenttarget": "25.00%",
         "work_period": 0.0
     },
@@ -4931,8 +5899,24 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 832,
-        "order": 17,
+        "order": 20,
         "percent_parenttarget": "0.00%",
+        "work_period": 0.0
+    },
+    "Triplemining.com": {
+        "coinbase": [
+            "Triplemining.com",
+            "triplemining"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
         "work_period": 0.0
     },
     "UNOMP": {
@@ -4950,11 +5934,27 @@
         "order": 1,
         "work_period": 0.0
     },
+    "Ukrpool": {
+        "coinbase": [
+            "/Ukrpool.com/"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
+        "work_period": 0.0
+    },
     "Unknown": {
         "color": "#c16aa1",
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 19330,
+        "notes": "Just a spare field, comes in handy in some scripts.",
         "order": 1,
         "percent_parenttarget": "0.00%",
         "work_period": 0.0
@@ -4964,7 +5964,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 2,
-        "order": 330,
+        "order": 349,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -4972,8 +5972,8 @@
         "color": "#3e463f",
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 523,
-        "order": 309,
+        "count_total": 520,
+        "order": 323,
         "percent_parenttarget": "80.00%",
         "work_period": 0.0
     },
@@ -4981,8 +5981,8 @@
         "color": "#90091c",
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 56,
-        "order": 295,
+        "count_total": 55,
+        "order": 310,
         "percent_parenttarget": "38.89%",
         "work_period": 0.0
     },
@@ -4991,7 +5991,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 4,
-        "order": 277,
+        "order": 293,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -5000,7 +6000,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 1,
-        "order": 262,
+        "order": 279,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -5009,7 +6009,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 8,
-        "order": 246,
+        "order": 263,
         "percent_parenttarget": "0.00%",
         "work_period": 0.0
     },
@@ -5017,17 +6017,8 @@
         "color": "#09cba3",
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 751,
-        "order": 195,
-        "percent_parenttarget": "100.00%",
-        "work_period": 0.0
-    },
-    "Unknown-1801": {
-        "color": "#d1ae83",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 2,
-        "order": 376,
+        "count_total": 722,
+        "order": 206,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -5035,8 +6026,8 @@
         "color": "#d85770",
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 29,
-        "order": 367,
+        "count_total": 26,
+        "order": 387,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -5045,7 +6036,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 1,
-        "order": 370,
+        "order": 390,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -5053,8 +6044,8 @@
         "color": "#133a72",
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 8,
-        "order": 352,
+        "count_total": 5,
+        "order": 374,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -5062,8 +6053,8 @@
         "color": "#67b971",
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 5,
-        "order": 353,
+        "count_total": 3,
+        "order": 371,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -5072,7 +6063,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 1,
-        "order": 362,
+        "order": 382,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -5080,8 +6071,8 @@
         "color": "#a55ffe",
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 1218,
-        "order": 180,
+        "count_total": 1207,
+        "order": 188,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -5090,7 +6081,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 14,
-        "order": 166,
+        "order": 174,
         "percent_parenttarget": "50.00%",
         "work_period": 0.0
     },
@@ -5099,7 +6090,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 10,
-        "order": 155,
+        "order": 163,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -5108,7 +6099,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 1,
-        "order": 145,
+        "order": 153,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -5116,8 +6107,8 @@
         "color": "#6e4115",
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 10,
-        "order": 131,
+        "count_total": 9,
+        "order": 138,
         "percent_parenttarget": "83.33%",
         "work_period": 0.0
     },
@@ -5126,7 +6117,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 4,
-        "order": 120,
+        "order": 127,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -5135,7 +6126,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 4,
-        "order": 110,
+        "order": 117,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -5143,8 +6134,8 @@
         "color": "#aeff92",
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 720,
-        "order": 92,
+        "count_total": 295,
+        "order": 101,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -5152,8 +6143,8 @@
         "color": "#9207db",
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 469,
-        "order": 78,
+        "count_total": 137,
+        "order": 85,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -5161,8 +6152,8 @@
         "color": "#1a3b57",
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 29,
-        "order": 74,
+        "count_total": 12,
+        "order": 77,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -5170,36 +6161,27 @@
         "color": "#d18b29",
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 14,
-        "order": 63,
-        "percent_parenttarget": "100.00%",
+        "count_total": 12,
+        "order": 66,
+        "percent_parenttarget": "33.33%",
         "work_period": 0.0
     },
     "Unknown-194": {
         "color": "#fb70a8",
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 19,
-        "order": 51,
-        "percent_parenttarget": "100.00%",
+        "count_total": 18,
+        "order": 54,
+        "percent_parenttarget": "63.64%",
         "work_period": 0.0
     },
     "Unknown-195": {
         "color": "#02e3c5",
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 21,
-        "order": 41,
-        "percent_parenttarget": "100.00%",
-        "work_period": 0.0
-    },
-    "Unknown-196": {
-        "color": "#fd23e1",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 1,
-        "order": 223,
-        "percent_parenttarget": "100.00%",
+        "count_total": 20,
+        "order": 44,
+        "percent_parenttarget": "43.75%",
         "work_period": 0.0
     },
     "Unknown-197": {
@@ -5207,7 +6189,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 16,
-        "order": 31,
+        "order": 34,
         "percent_parenttarget": "56.25%",
         "work_period": 0.0
     },
@@ -5215,7 +6197,7 @@
         "color": "#e8db26",
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 23262,
+        "count_total": 18085,
         "order": 2,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
@@ -5224,8 +6206,8 @@
         "color": "#b2af97",
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 6,
-        "order": 100,
+        "count_total": 5,
+        "order": 107,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -5234,7 +6216,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 3,
-        "order": 122,
+        "order": 129,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -5243,7 +6225,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 2,
-        "order": 98,
+        "order": 105,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -5252,7 +6234,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 1,
-        "order": 86,
+        "order": 91,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -5261,7 +6243,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 4,
-        "order": 87,
+        "order": 92,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -5269,7 +6251,7 @@
         "color": "#49c460",
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 26,
+        "count_total": 25,
         "order": 13,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
@@ -5305,8 +6287,8 @@
         "color": "#a86991",
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 127,
-        "order": 342,
+        "count_total": 119,
+        "order": 365,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -5314,8 +6296,8 @@
         "color": "#dbcaf8",
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 19,
-        "order": 366,
+        "count_total": 12,
+        "order": 386,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -5323,9 +6305,9 @@
         "color": "#310788",
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 680,
-        "order": 354,
-        "percent_parenttarget": "0.00%",
+        "count_total": 678,
+        "order": 372,
+        "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
     "ViaBTC": {
@@ -5333,6 +6315,8 @@
             "18cBEMRxXHqzWWCxZNtU91F5sbUNKhL5PX"
         ],
         "coinbase": [
+            "ViaBTC",
+            "viabtc.com",
             "viabtc.com deploy",
             "/ViaBTC/"
         ],
@@ -5352,7 +6336,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 265,
-        "order": 325,
+        "order": 344,
         "percent_parenttarget": "85.71%",
         "work_period": 0.0
     },
@@ -5361,7 +6345,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 4975,
-        "order": 299,
+        "order": 314,
         "percent_parenttarget": "85.41%",
         "work_period": 0.0
     },
@@ -5370,7 +6354,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 2165,
-        "order": 285,
+        "order": 301,
         "percent_parenttarget": "77.36%",
         "work_period": 0.0
     },
@@ -5379,7 +6363,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 985,
-        "order": 275,
+        "order": 291,
         "percent_parenttarget": "83.93%",
         "work_period": 0.0
     },
@@ -5388,7 +6372,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 1128,
-        "order": 249,
+        "order": 265,
         "percent_parenttarget": "75.36%",
         "work_period": 0.0
     },
@@ -5397,7 +6381,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 611,
-        "order": 238,
+        "order": 254,
         "percent_parenttarget": "80.07%",
         "work_period": 0.0
     },
@@ -5406,7 +6390,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 319,
-        "order": 225,
+        "order": 241,
         "percent_parenttarget": "81.82%",
         "work_period": 0.0
     },
@@ -5415,7 +6399,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 13407,
-        "order": 202,
+        "order": 211,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -5424,7 +6408,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 21,
-        "order": 381,
+        "order": 401,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -5433,7 +6417,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 118,
-        "order": 357,
+        "order": 377,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -5442,7 +6426,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 23,
-        "order": 368,
+        "order": 388,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -5451,7 +6435,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 5,
-        "order": 359,
+        "order": 379,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -5460,7 +6444,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 1,
-        "order": 363,
+        "order": 384,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -5469,7 +6453,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 57,
-        "order": 219,
+        "order": 230,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -5478,7 +6462,7 @@
         "count_parenttarget_period": 4,
         "count_period": 4,
         "count_total": 106,
-        "order": 343,
+        "order": 361,
         "percent_parenttarget": "100.00%",
         "work_period": 48811522.906169906
     },
@@ -5487,7 +6471,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 31,
-        "order": 356,
+        "order": 376,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -5496,7 +6480,7 @@
         "count_parenttarget_period": 145,
         "count_period": 161,
         "count_total": 4298,
-        "order": 339,
+        "order": 357,
         "percent_parenttarget": "90.06%",
         "work_period": 1986997870.2081096
     },
@@ -5516,75 +6500,12 @@
         "order": 1,
         "work_period": 0.0
     },
-    "WAYI.CN-171": {
-        "color": "#2820ce",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 7,
-        "order": 331,
-        "percent_parenttarget": "71.43%",
-        "work_period": 0.0
-    },
-    "WAYI.CN-172": {
-        "color": "#01fe84",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 542,
-        "order": 308,
-        "percent_parenttarget": "64.29%",
-        "work_period": 0.0
-    },
-    "WAYI.CN-173": {
-        "color": "#d9ccca",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 296,
-        "order": 294,
-        "percent_parenttarget": "55.56%",
-        "work_period": 0.0
-    },
-    "WAYI.CN-174": {
-        "color": "#b55fe9",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 153,
-        "order": 264,
-        "percent_parenttarget": "65.22%",
-        "work_period": 0.0
-    },
-    "WAYI.CN-175": {
-        "color": "#706721",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 89,
-        "order": 259,
-        "percent_parenttarget": "75.00%",
-        "work_period": 0.0
-    },
-    "WAYI.CN-176": {
-        "color": "#14db45",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 19,
-        "order": 247,
-        "percent_parenttarget": "73.68%",
-        "work_period": 0.0
-    },
     "WAYI.CN-180": {
         "color": "#8bdaea",
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 247,
-        "order": 222,
-        "percent_parenttarget": "100.00%",
-        "work_period": 0.0
-    },
-    "WAYI.CN-1802": {
-        "color": "#789f3d",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 2,
-        "order": 364,
+        "count_total": 143,
+        "order": 235,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
@@ -5593,27 +6514,9 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 34,
-        "order": 220,
+        "order": 231,
         "percent_parenttarget": "100.00%",
         "work_period": 0.0
-    },
-    "WAYI.CN-BCH": {
-        "color": "#65d8b8",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 1,
-        "order": 365,
-        "percent_parenttarget": "100.00%",
-        "work_period": 0.0
-    },
-    "WAYI.CN-BTC": {
-        "color": "#b4bd0a",
-        "count_parenttarget_period": 3,
-        "count_period": 7,
-        "count_total": 288,
-        "order": 344,
-        "percent_parenttarget": "42.86%",
-        "work_period": 87231035.88861613
     },
     "Waterhole": {
         "address": [
@@ -5638,12 +6541,28 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 104,
-        "order": 214,
+        "order": 226,
         "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "XBTC": {
+        "coinbase": [
+            "xbtc.exx.com&bw.com"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
         "work_period": 0.0
     },
     "Yourbtc.net": {
         "coinbase": [
+            "yourbtc.net",
             "yourbtc.net"
         ],
         "color": [
@@ -5684,6 +6603,45 @@
         "order": 1,
         "work_period": 0.0
     },
+    "Zulupool": {
+        "coinbase": [
+            "ZULUPooL"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
+        "work_period": 0.0
+    },
+    "a1bitcoinpool.com": {
+        "coinbase": [
+            "a1bitcoinpool.com"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
+        "work_period": 0.0
+    },
+    "a1bitcoinpool.com-1a0": {
+        "color": "#361496",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 4,
+        "order": 14,
+        "percent_parenttarget": "0.00%",
+        "work_period": 0.0
+    },
     "bcpool.io": {
         "coinbase": [
             "bcpool.io"
@@ -5699,9 +6657,63 @@
         "order": 1,
         "work_period": 0.0
     },
+    "bitclockers": {
+        "coinbase": [
+            "bitclockers"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
+        "work_period": 0.0
+    },
+    "bitclockers-1a0": {
+        "color": "#7f3b8c",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 55,
+        "order": 21,
+        "percent_parenttarget": "37.50%",
+        "work_period": 0.0
+    },
+    "bpool": {
+        "coinbase": [
+            "/bpool/"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
+        "work_period": 0.0
+    },
     "carbon-negative-pool": {
         "address": [
             "33SAB6pzbhEGPbfY6NVgRDV7jVfspZ3A3Z"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
+        "work_period": 0.0
+    },
+    "ckpool": {
+        "coinbase": [
+            "ckpool"
         ],
         "color": [
             0,
@@ -5767,7 +6779,7 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 2,
-        "order": 286,
+        "order": 302,
         "percent_parenttarget": "50.00%",
         "work_period": 0.0
     },
@@ -5776,8 +6788,39 @@
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 12,
-        "order": 282,
+        "order": 298,
         "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "megabigpower.com": {
+        "coinbase": [
+            "megabigpower.com"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
+        "work_period": 0.0
+    },
+    "mmBitLC": {
+        "coinbase": [
+            "mmBitLC",
+            "BitLC"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
         "work_period": 0.0
     },
     "mmpool": {
@@ -5793,87 +6836,6 @@
         "count_period": 0,
         "count_total": 0,
         "order": 1,
-        "work_period": 0.0
-    },
-    "mmpool-180": {
-        "color": "#dd06b3",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 9,
-        "order": 197,
-        "percent_parenttarget": "0.00%",
-        "work_period": 0.0
-    },
-    "mmpool-181": {
-        "color": "#c5f979",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 49,
-        "order": 179,
-        "percent_parenttarget": "0.00%",
-        "work_period": 0.0
-    },
-    "mmpool-182": {
-        "color": "#ab2399",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 2,
-        "order": 168,
-        "percent_parenttarget": "100.00%",
-        "work_period": 0.0
-    },
-    "mmpool-183": {
-        "color": "#1bbaa2",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 1,
-        "order": 156,
-        "percent_parenttarget": "0.00%",
-        "work_period": 0.0
-    },
-    "mmpool-184": {
-        "color": "#66fe37",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 3,
-        "order": 146,
-        "percent_parenttarget": "100.00%",
-        "work_period": 0.0
-    },
-    "mmpool-185": {
-        "color": "#e89579",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 3,
-        "order": 132,
-        "percent_parenttarget": "100.00%",
-        "work_period": 0.0
-    },
-    "mmpool-186": {
-        "color": "#e021a6",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 4,
-        "order": 121,
-        "percent_parenttarget": "100.00%",
-        "work_period": 0.0
-    },
-    "mmpool-187": {
-        "color": "#fe029c",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 1,
-        "order": 111,
-        "percent_parenttarget": "100.00%",
-        "work_period": 0.0
-    },
-    "mmpool-190": {
-        "color": "#7e3933",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 6,
-        "order": 101,
-        "percent_parenttarget": "0.00%",
         "work_period": 0.0
     },
     "myBTCcoin Pool": {
@@ -5894,22 +6856,88 @@
         "order": 1,
         "work_period": 0.0
     },
-    "myBTCcoin Pool-180": {
-        "color": "#a27a8c",
+    "nmcbit.com": {
+        "coinbase": [
+            "nmcbit.com"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
+        "work_period": 0.0
+    },
+    "okpool": {
+        "coinbase": [
+            "okpool.top"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
+        "work_period": 0.0
+    },
+    "okpool-171": {
+        "color": "#94ec07",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 28,
+        "order": 347,
+        "percent_parenttarget": "75.00%",
+        "work_period": 0.0
+    },
+    "okpool-172": {
+        "color": "#cc2d32",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 32,
+        "order": 335,
+        "percent_parenttarget": "95.45%",
+        "work_period": 0.0
+    },
+    "okpool-180": {
+        "color": "#a23bcb",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 27,
+        "order": 336,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "okpool-1802": {
+        "color": "#ce6b95",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 1,
+        "order": 380,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "okpool-BCH": {
+        "color": "#f8617d",
         "count_parenttarget_period": 0,
         "count_period": 0,
         "count_total": 14,
-        "order": 196,
-        "percent_parenttarget": "0.00%",
+        "order": 369,
+        "percent_parenttarget": "100.00%",
         "work_period": 0.0
     },
-    "myBTCcoin Pool-181": {
-        "color": "#6eaba7",
+    "okpool-BTC": {
+        "color": "#8fa78b",
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 6,
-        "order": 187,
-        "percent_parenttarget": "0.00%",
+        "count_total": 129,
+        "order": 356,
+        "percent_parenttarget": "93.33%",
         "work_period": 0.0
     },
     "okpool.top": {
@@ -5927,58 +6955,74 @@
         "order": 1,
         "work_period": 0.0
     },
-    "okpool.top-171": {
-        "color": "#eb0217",
+    "ozcoin": {
+        "coinbase": [
+            "ozcoin",
+            "ozco.in"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 28,
-        "order": 328,
-        "percent_parenttarget": "75.00%",
+        "count_total": 0,
+        "order": 1,
         "work_period": 0.0
     },
-    "okpool.top-172": {
-        "color": "#4dc1e4",
+    "pooin.com": {
+        "coinbase": [
+            "/pooin.com/"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 32,
-        "order": 316,
-        "percent_parenttarget": "95.45%",
+        "count_total": 0,
+        "order": 1,
         "work_period": 0.0
     },
-    "okpool.top-180": {
-        "color": "#9aec47",
+    "poolin.com": {
+        "coinbase": [
+            "poolin.com"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 27,
-        "order": 317,
-        "percent_parenttarget": "100.00%",
+        "count_total": 0,
+        "order": 1,
         "work_period": 0.0
     },
-    "okpool.top-1802": {
-        "color": "#eb38e2",
+    "poolserverj": {
+        "coinbase": [
+            "poolserverj"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 1,
-        "order": 360,
-        "percent_parenttarget": "100.00%",
+        "count_total": 0,
+        "order": 1,
         "work_period": 0.0
     },
-    "okpool.top-BCH": {
-        "color": "#ca44ea",
+    "poolserverj-1a0": {
+        "color": "#7c81ee",
         "count_parenttarget_period": 0,
         "count_period": 0,
-        "count_total": 14,
-        "order": 351,
-        "percent_parenttarget": "100.00%",
-        "work_period": 0.0
-    },
-    "okpool.top-BTC": {
-        "color": "#915b91",
-        "count_parenttarget_period": 0,
-        "count_period": 0,
-        "count_total": 129,
-        "order": 338,
-        "percent_parenttarget": "93.33%",
+        "count_total": 313,
+        "order": 18,
+        "percent_parenttarget": "6.67%",
         "work_period": 0.0
     },
     "shawnp0wers": {
@@ -6002,6 +7046,7 @@
     },
     "simplecoin.us": {
         "coinbase": [
+            "simplecoin",
             "simplecoin"
         ],
         "color": [
@@ -6024,6 +7069,21 @@
         "percent_parenttarget": "40.00%",
         "work_period": 0.0
     },
+    "solomining.io": {
+        "coinbase": [
+            "solomining.io"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
+        "work_period": 0.0
+    },
     "tiger": {
         "address": [
             "1LsFmhnne74EmU4q4aobfxfrWY4wfMVd8w"
@@ -6041,6 +7101,7 @@
     },
     "tigerpool.net": {
         "coinbase": [
+            "tigerpool.net",
             "/tigerpool.net"
         ],
         "color": [
@@ -6097,6 +7158,93 @@
         "count_period": 0,
         "count_total": 0,
         "order": 1,
+        "work_period": 0.0
+    },
+    "zpool": {
+        "coinbase": [
+            "www.zpool.ca"
+        ],
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 0,
+        "order": 1,
+        "work_period": 0.0
+    },
+    "zpool-190": {
+        "color": "#e791f5",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 11,
+        "order": 277,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "zpool-191": {
+        "color": "#41a3f8",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 1,
+        "order": 238,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "zpool-192": {
+        "color": "#855784",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 1,
+        "order": 236,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "zpool-193": {
+        "color": "#2a9bcb",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 2,
+        "order": 233,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "zpool-194": {
+        "color": "#23b861",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 1,
+        "order": 237,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "zpool-195": {
+        "color": "#51baf7",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 1,
+        "order": 278,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "zpool-196": {
+        "color": "#ab5d9a",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 1,
+        "order": 239,
+        "percent_parenttarget": "100.00%",
+        "work_period": 0.0
+    },
+    "zpool-1a0": {
+        "color": "#e5d3fd",
+        "count_parenttarget_period": 0,
+        "count_period": 0,
+        "count_total": 5,
+        "order": 213,
+        "percent_parenttarget": "100.00%",
         "work_period": 0.0
     }
 }

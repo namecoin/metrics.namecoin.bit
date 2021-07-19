@@ -4,15 +4,17 @@ Block: 51865
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%           1,058      100.00%               0           
+              Total Chain      100.00%           1,058      100.00%               0           
 
-           BTC Guild       33.57%             355        0.00%               0                     43.75%
-           SlushPool       26.57%             281        0.00%               0                     47.37%
-             Unknown       15.38%             162        0.00%               0                     45.45%
-             Eligius       12.59%             133        0.00%               0                     55.56%
-              OzCoin        4.90%              51        0.00%               0                     57.14%
-              MaxBTC        4.20%              44        0.00%               0                     50.00%
-       simplecoin.us        2.10%              22        0.00%               0                     33.33%
-           BitMinter        0.70%               7        0.00%               0                      0.00%
+                BTC Guild       33.57%             355        0.00%               0                     43.75%
+                    Slush       26.57%             281        0.00%               0                     47.37%
+                  Eligius       12.59%             133        0.00%               0                     55.56%
+                  Unknown        7.69%              81        0.00%               0                     36.36%
+                EclipseMC        6.99%              73        0.00%               0                     60.00%
+                   OzCoin        4.90%              51        0.00%               0                     57.14%
+                   MaxBTC        4.20%              44        0.00%               0                     50.00%
+            simplecoin.us        2.10%              22        0.00%               0                     33.33%
+                BitMinter        0.70%               7        0.00%               0                      0.00%
+              bitclockers        0.70%               7        0.00%               0                      0.00%

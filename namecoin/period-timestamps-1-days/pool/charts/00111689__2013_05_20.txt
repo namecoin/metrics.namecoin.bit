@@ -4,15 +4,15 @@ Block: 111689
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%           4,776      100.00%               0           
+              Total Chain      100.00%           4,776      100.00%               0           
 
-           BitMinter       40.35%           1,927        0.00%               0                     23.19%
-           EclipseMC       17.54%             837        0.00%               0                      6.67%
-           BTC Guild       16.37%             782        0.00%               0                     17.86%
-          Bitparking       13.45%             642        0.00%               0                     13.04%
-             Eligius        5.85%             279        0.00%               0                     20.00%
-        TripleMining        3.51%             167        0.00%               0                     33.33%
-             Unknown        2.34%             111        0.00%               0                      0.00%
-           SlushPool        0.58%              27        0.00%               0                      0.00%
+                BitMinter       40.35%           1,927        0.00%               0                     23.19%
+                EclipseMC       17.54%             837        0.00%               0                      6.67%
+                BTC Guild       16.37%             782        0.00%               0                     17.86%
+               Bitparking       13.45%             642        0.00%               0                     13.04%
+                  Eligius        5.85%             279        0.00%               0                     20.00%
+             TripleMining        3.51%             167        0.00%               0                     33.33%
+                  Unknown        2.34%             111        0.00%               0                      0.00%
+                    Slush        0.58%              27        0.00%               0                      0.00%

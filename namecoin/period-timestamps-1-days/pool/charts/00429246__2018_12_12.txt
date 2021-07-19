@@ -4,16 +4,15 @@ Block: 429246
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%   6,303,758,840      100.00%               0           
+              Total Chain      100.00%   6,303,758,840      100.00%               0           
 
-             BTC.com       27.13%   1,710,322,165        0.00%               0                     71.43%
-           SlushPool       14.73%     928,460,604        0.00%               0                     78.95%
-             AntPool       13.18%     830,727,909        0.00%               0                     82.35%
-              ViaBTC       10.08%     635,262,518        0.00%               0                     84.62%
-              Poolin        9.30%     586,396,171        0.00%               0                     83.33%
-              F2Pool        7.75%     488,663,475        0.00%               0                     50.00%
-             BTC.TOP        6.98%     439,797,128        0.00%               0                     77.78%
-          Huobi.pool        5.43%     342,064,433        0.00%               0                     85.71%
-             WAYI.CN        5.43%     342,064,433        0.00%               0                     57.14%
+                  BTC.COM       27.13%   1,710,322,165        0.00%               0                     71.43%
+                    Slush       14.73%     928,460,604        0.00%               0                     78.95%
+                  AntPool       13.18%     830,727,909        0.00%               0                     82.35%
+                  BTC.TOP       12.40%     781,861,561        0.00%               0                     68.75%
+                   ViaBTC       10.08%     635,262,518        0.00%               0                     84.62%
+                   Poolin        9.30%     586,396,171        0.00%               0                     83.33%
+                   F2Pool        7.75%     488,663,475        0.00%               0                     50.00%
+                    Huobi        5.43%     342,064,433        0.00%               0                     85.71%

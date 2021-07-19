@@ -4,16 +4,16 @@ Block: 258485
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%      35,153,957      100.00%               0           
+              Total Chain      100.00%      35,153,957      100.00%               0           
 
-          F2Pool-181       67.29%      23,651,418        0.00%               0                     32.45%
-       SlushPool-181       20.54%       7,223,899        0.00%               0                     27.87%
-        GHash.IO-181        5.34%       1,872,862        0.00%               0                     36.94%
-         Eligius-181        3.75%       1,322,197        0.00%               0                     37.18%
-       BitMinter-181        2.12%         741,905        0.00%               0                     34.09%
-       EclipseMC-181        0.77%         274,814        0.00%               0                     37.50%
-          mmpool-181        0.10%          33,429        0.00%               0                      0.00%
-         Unknown-181        0.05%          16,714        0.00%               0                      0.00%
-  myBTCcoin Pool-181        0.05%          16,714        0.00%               0                      0.00%
+               F2Pool-181       67.29%      23,651,418        0.00%               0                     32.45%
+                Slush-181       20.54%       7,223,899        0.00%               0                     27.87%
+             GHash.IO-181        5.34%       1,872,862        0.00%               0                     36.94%
+              Eligius-181        3.75%       1,322,197        0.00%               0                     37.18%
+            BitMinter-181        2.12%         741,905        0.00%               0                     34.09%
+            EclipseMC-181        0.77%         274,814        0.00%               0                     37.50%
+               MMPool-181        0.10%          33,429        0.00%               0                      0.00%
+              Unknown-181        0.05%          16,714        0.00%               0                      0.00%
+Default zone117x/NodeStratum-181        0.05%          16,714        0.00%               0                      0.00%

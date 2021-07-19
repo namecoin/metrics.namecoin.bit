@@ -4,14 +4,15 @@ Block: 42692
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%             950      100.00%               0           
+              Total Chain      100.00%             950      100.00%               0           
 
-           SlushPool       35.33%             335        0.00%               0                     30.19%
-           BTC Guild       31.33%             297        0.00%               0                     40.43%
-             Unknown       18.00%             171        0.00%               0                     55.56%
-             Eligius        6.67%              63        0.00%               0                     60.00%
-              OzCoin        4.00%              38        0.00%               0                     83.33%
-              NMCbit        2.67%              25        0.00%               0                     75.00%
-           BitMinter        2.00%              19        0.00%               0                     66.67%
+                    Slush       35.33%             335        0.00%               0                     30.19%
+                BTC Guild       31.33%             297        0.00%               0                     40.43%
+                  Unknown       10.00%              95        0.00%               0                     53.33%
+                EclipseMC        8.00%              76        0.00%               0                     58.33%
+                  Eligius        6.67%              63        0.00%               0                     60.00%
+                   OzCoin        4.00%              38        0.00%               0                     83.33%
+                   NMCbit        2.67%              25        0.00%               0                     75.00%
+                BitMinter        2.00%              19        0.00%               0                     66.67%

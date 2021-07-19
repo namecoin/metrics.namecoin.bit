@@ -4,16 +4,15 @@ Block: 435864
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%   6,937,230,057      100.00%               0           
+              Total Chain      100.00%   6,937,230,057      100.00%               0           
 
-             AntPool       16.43%   1,139,687,795        0.00%               0                     78.26%
-             BTC.com       16.43%   1,139,687,795        0.00%               0                     73.91%
-              F2Pool       15.00%   1,040,584,508        0.00%               0                     71.43%
-           SlushPool       15.00%   1,040,584,508        0.00%               0                     61.90%
-              ViaBTC       12.86%     891,929,578        0.00%               0                     55.56%
-             BTC.TOP        7.86%     545,068,075        0.00%               0                     81.82%
-          Huobi.pool        7.86%     545,068,075        0.00%               0                     54.55%
-              Poolin        7.14%     495,516,432        0.00%               0                     80.00%
-             WAYI.CN        1.43%      99,103,286        0.00%               0                    100.00%
+                  AntPool       16.43%   1,139,687,795        0.00%               0                     78.26%
+                  BTC.COM       16.43%   1,139,687,795        0.00%               0                     73.91%
+                   F2Pool       15.00%   1,040,584,508        0.00%               0                     71.43%
+                    Slush       15.00%   1,040,584,508        0.00%               0                     61.90%
+                   ViaBTC       12.86%     891,929,578        0.00%               0                     55.56%
+                  BTC.TOP        9.29%     644,171,362        0.00%               0                     84.62%
+                    Huobi        7.86%     545,068,075        0.00%               0                     54.55%
+                   Poolin        7.14%     495,516,432        0.00%               0                     80.00%

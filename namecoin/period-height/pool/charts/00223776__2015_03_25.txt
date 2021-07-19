@@ -4,19 +4,20 @@ Block: 223776
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%      27,530,727      100.00%               0           
+              Total Chain      100.00%      27,530,727      100.00%               0           
 
-              F2Pool       47.92%      13,192,516        0.00%               0                     30.54%
-           BTC Guild       11.71%       3,222,683        0.00%               0                     35.17%
-            GHash.IO       11.31%       3,113,440        0.00%               0                     32.46%
-             Polmine        9.08%       2,498,945        0.00%               0                     30.60%
-             Eligius        7.19%       1,980,038        0.00%               0                     33.10%
-               Bixin        5.65%       1,556,720        0.00%               0                     31.58%
-            Tangpool        3.37%         928,569        0.00%               0                     26.47%
-           BitMinter        2.28%         628,150        0.00%               0                     36.96%
-           EclipseMC        0.94%         259,453        0.00%               0                     10.53%
-             Unknown        0.30%          81,932        0.00%               0                     16.67%
-             Bitsolo        0.20%          54,621        0.00%               0                     50.00%
-              mmpool        0.05%          13,655        0.00%               0                      0.00%
+                   F2Pool       47.92%      13,192,516        0.00%               0                     30.54%
+                BTC Guild       11.71%       3,222,683        0.00%               0                     35.17%
+                 GHash.IO       11.31%       3,113,440        0.00%               0                     32.46%
+                  Polmine        9.08%       2,498,945        0.00%               0                     30.60%
+                  Eligius        7.19%       1,980,038        0.00%               0                     33.10%
+                    Bixin        3.37%         928,569        0.00%               0                     26.47%
+                 TangPool        3.37%         928,569        0.00%               0                     26.47%
+                  BTC.COM        2.28%         628,150        0.00%               0                     39.13%
+                BitMinter        2.28%         628,150        0.00%               0                     36.96%
+                EclipseMC        0.94%         259,453        0.00%               0                     10.53%
+                  Unknown        0.30%          81,932        0.00%               0                     16.67%
+                  Bitsolo        0.20%          54,621        0.00%               0                     50.00%
+                   MMPool        0.05%          13,655        0.00%               0                      0.00%

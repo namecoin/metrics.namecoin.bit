@@ -4,16 +4,16 @@ Block: 195397
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%      20,914,064      100.00%               0           
+              Total Chain      100.00%      20,914,064      100.00%               0           
 
-        GHash.IO-182       38.24%       8,083,966        0.00%               0                     46.24%
-          F2Pool-182       37.80%       7,662,641        0.00%               0                     39.52%
-       BTC Guild-182       12.72%       2,696,551        0.00%               0                     47.26%
-         Polmine-182        3.14%         721,020        0.00%               0                     55.56%
-    CloudHashing-182        3.18%         699,436        0.00%               0                     45.21%
-         AntPool-182        2.53%         513,462        0.00%               0                     46.55%
-       BitMinter-182        1.35%         305,389        0.00%               0                     45.16%
-       EclipseMC-182        1.00%         223,194        0.00%               0                     34.78%
-         Unknown-182        0.04%           8,400        0.00%               0                    100.00%
+             GHash.IO-182       38.24%       8,083,966        0.00%               0                     46.24%
+               F2Pool-182       37.80%       7,662,641        0.00%               0                     39.52%
+            BTC Guild-182       12.72%       2,696,551        0.00%               0                     47.26%
+              Polmine-182        3.14%         721,020        0.00%               0                     55.56%
+         CloudHashing-182        3.18%         699,436        0.00%               0                     45.21%
+              AntPool-182        2.53%         513,462        0.00%               0                     46.55%
+            BitMinter-182        1.35%         305,389        0.00%               0                     45.16%
+            EclipseMC-182        1.00%         223,194        0.00%               0                     34.78%
+              Unknown-182        0.04%           8,400        0.00%               0                    100.00%

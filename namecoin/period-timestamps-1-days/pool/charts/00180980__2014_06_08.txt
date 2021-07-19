@@ -4,13 +4,13 @@ Block: 180980
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%      14,770,449      100.00%               0           
+              Total Chain      100.00%      14,770,449      100.00%               0           
 
-            GHash.IO       52.57%       7,765,036        0.00%               0                     68.48%
-              F2Pool       17.71%       2,616,479        0.00%               0                     61.29%
-           BTC Guild       15.43%       2,278,869        0.00%               0                     55.56%
-             Eligius        8.57%       1,266,038        0.00%               0                     73.33%
-        CloudHashing        3.43%         506,415        0.00%               0                     66.67%
-           BitMinter        2.29%         337,610        0.00%               0                     75.00%
+                 GHash.IO       52.57%       7,765,036        0.00%               0                     68.48%
+                   F2Pool       17.71%       2,616,479        0.00%               0                     61.29%
+                BTC Guild       15.43%       2,278,869        0.00%               0                     55.56%
+                  Eligius        8.57%       1,266,038        0.00%               0                     73.33%
+             CloudHashing        3.43%         506,415        0.00%               0                     66.67%
+                BitMinter        2.29%         337,610        0.00%               0                     75.00%

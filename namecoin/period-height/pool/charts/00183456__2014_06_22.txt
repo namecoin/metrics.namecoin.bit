@@ -4,18 +4,18 @@ Block: 183456
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%      17,483,320      100.00%               0           
+              Total Chain      100.00%      17,483,320      100.00%               0           
 
-            GHash.IO       46.53%       8,135,511        0.00%               0                     71.96%
-              F2Pool       19.30%       3,373,188        0.00%               0                     72.49%
-           BTC Guild       14.78%       2,584,088        0.00%               0                     72.48%
-             Eligius        9.57%       1,673,587        0.00%               0                     69.43%
-        CloudHashing        3.77%         659,029        0.00%               0                     75.00%
-             Polmine        3.08%         537,629        0.00%               0                     67.74%
-           BitMinter        1.84%         320,843        0.00%               0                     70.27%
-           EclipseMC        0.89%         156,085        0.00%               0                     44.44%
-           Cointerra        0.10%          17,342        0.00%               0                     50.00%
-             Unknown        0.10%          17,342        0.00%               0                    100.00%
-              mmpool        0.05%           8,671        0.00%               0                    100.00%
+                 GHash.IO       46.53%       8,135,511        0.00%               0                     71.96%
+                   F2Pool       19.30%       3,373,188        0.00%               0                     72.49%
+                BTC Guild       14.78%       2,584,088        0.00%               0                     72.48%
+                  Eligius        9.57%       1,673,587        0.00%               0                     69.43%
+             CloudHashing        3.77%         659,029        0.00%               0                     75.00%
+                  Polmine        3.08%         537,629        0.00%               0                     67.74%
+                BitMinter        1.84%         320,843        0.00%               0                     70.27%
+                EclipseMC        0.89%         156,085        0.00%               0                     44.44%
+                Cointerra        0.10%          17,342        0.00%               0                     50.00%
+                  Unknown        0.10%          17,342        0.00%               0                    100.00%
+                   MMPool        0.05%           8,671        0.00%               0                    100.00%

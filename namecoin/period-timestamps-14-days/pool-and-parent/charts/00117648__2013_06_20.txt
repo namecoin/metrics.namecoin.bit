@@ -4,19 +4,19 @@ Block: 117648
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%          10,195      100.00%               0           
+              Total Chain      100.00%          10,195      100.00%               0           
 
-       BTC Guild-1a0       37.06%           4,107        0.00%               0                     26.97%
-       ASICMiner-1a0       15.97%           1,659        0.00%               0                     23.28%
-       BitMinter-1a0       17.34%           1,553        0.00%               0                     20.74%
-          F2Pool-1a0        8.20%             838        0.00%               0                     20.45%
-         Eligius-1a0        7.04%             635        0.00%               0                     17.32%
-       EclipseMC-1a0        5.61%             557        0.00%               0                     19.57%
-      Bitparking-1a0        5.18%             505        0.00%               0                     21.18%
-         Polmine-1a0        1.49%             147        0.00%               0                     28.57%
-         Unknown-1a0        0.82%              75        0.00%               0                     22.22%
-          F2Pool-1b0        0.70%              57        0.00%               0                    100.00%
-    TripleMining-1a0        0.46%              45        0.00%               0                     13.33%
-       SlushPool-1a0        0.12%              12        0.00%               0                     50.00%
+            BTC Guild-1a0       37.06%           4,107        0.00%               0                     26.97%
+            ASICMiner-1a0       15.97%           1,659        0.00%               0                     23.28%
+            BitMinter-1a0       17.34%           1,553        0.00%               0                     20.74%
+               F2Pool-1a0        8.20%             838        0.00%               0                     20.45%
+              Eligius-1a0        7.04%             635        0.00%               0                     17.32%
+            EclipseMC-1a0        5.61%             557        0.00%               0                     19.57%
+           Bitparking-1a0        5.18%             505        0.00%               0                     21.18%
+              Polmine-1a0        1.49%             147        0.00%               0                     28.57%
+              Unknown-1a0        0.82%              75        0.00%               0                     22.22%
+               F2Pool-1b0        0.70%              57        0.00%               0                    100.00%
+         TripleMining-1a0        0.46%              45        0.00%               0                     13.33%
+                Slush-1a0        0.12%              12        0.00%               0                     50.00%

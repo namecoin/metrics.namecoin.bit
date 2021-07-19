@@ -4,17 +4,17 @@ Block: 215712
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%      27,142,741      100.00%               0           
+              Total Chain      100.00%      27,142,741      100.00%               0           
 
-              F2Pool       54.12%      14,688,374        0.00%               0                     38.41%
-            GHash.IO       19.49%       5,291,422        0.00%               0                     46.06%
-           BTC Guild       11.51%       3,123,689        0.00%               0                     34.91%
-             Eligius        8.28%       2,248,518        0.00%               0                     34.13%
-             Unknown        4.07%       1,104,062        0.00%               0                     52.44%
-           BitMinter        1.49%         403,925        0.00%               0                     40.00%
-           EclipseMC        0.60%         161,570        0.00%               0                     33.33%
-              mmpool        0.30%          80,785        0.00%               0                     33.33%
-             Bitsolo        0.10%          26,928        0.00%               0                     50.00%
-              TBDice        0.05%          13,464        0.00%               0                      0.00%
+                   F2Pool       54.12%      14,688,374        0.00%               0                     38.41%
+                 GHash.IO       19.49%       5,291,422        0.00%               0                     46.06%
+                BTC Guild       11.51%       3,123,689        0.00%               0                     34.91%
+                  Eligius        8.28%       2,248,518        0.00%               0                     34.13%
+                  Unknown        4.07%       1,104,062        0.00%               0                     52.44%
+                BitMinter        1.49%         403,925        0.00%               0                     40.00%
+                EclipseMC        0.60%         161,570        0.00%               0                     33.33%
+                   MMPool        0.30%          80,785        0.00%               0                     33.33%
+                  Bitsolo        0.10%          26,928        0.00%               0                     50.00%
+                   TBDice        0.05%          13,464        0.00%               0                      0.00%

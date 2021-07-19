@@ -4,16 +4,16 @@ Block: 475506
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%  15,936,497,924      100.00%               0           
+              Total Chain      100.00%  15,936,497,924      100.00%               0           
 
-              F2Pool       21.17%   3,373,419,268        0.00%               0                     75.86%
-             BTC.com       20.44%   3,257,094,466        0.00%               0                     67.86%
-              Poolin       18.25%   2,908,120,059        0.00%               0                     76.00%
-              ViaBTC       12.41%   1,977,521,640        0.00%               0                    100.00%
-             AntPool       10.22%   1,628,547,233        0.00%               0                     85.71%
-           SlushPool       10.22%   1,628,547,233        0.00%               0                     78.57%
-          Huobi.pool        5.11%     814,273,616        0.00%               0                     85.71%
-             Unknown        1.46%     232,649,604        0.00%               0                    100.00%
-          SpiderPool        0.73%     116,324,802        0.00%               0                    100.00%
+                   F2Pool       21.17%   3,373,419,268        0.00%               0                     75.86%
+                  BTC.COM       20.44%   3,257,094,466        0.00%               0                     67.86%
+                   Poolin       18.25%   2,908,120,059        0.00%               0                     76.00%
+                   ViaBTC       12.41%   1,977,521,640        0.00%               0                    100.00%
+                  AntPool       10.22%   1,628,547,233        0.00%               0                     85.71%
+                    Slush       10.22%   1,628,547,233        0.00%               0                     78.57%
+                    Huobi        5.11%     814,273,616        0.00%               0                     85.71%
+                  Unknown        1.46%     232,649,604        0.00%               0                    100.00%
+               SpiderPool        0.73%     116,324,802        0.00%               0                    100.00%

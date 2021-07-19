@@ -4,15 +4,13 @@ Block: 288288
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%     104,171,401      100.00%               0           
+              Total Chain      100.00%     104,171,401      100.00%               0           
 
-              F2Pool       81.65%      85,053,587        0.00%               0                     29.34%
-           SlushPool       15.77%      16,430,986        0.00%               0                     29.56%
-            GHash.IO        1.19%       1,240,074        0.00%               0                     25.00%
-           BitMinter        0.64%         671,706        0.00%               0                     38.46%
-             Eligius        0.40%         413,358        0.00%               0                     25.00%
-               Eobot        0.25%         258,348        0.00%               0                      0.00%
-              Patels        0.05%          51,669        0.00%               0                    100.00%
-             Unknown        0.05%          51,669        0.00%               0                    100.00%
+                   F2Pool       81.65%      85,053,587        0.00%               0                     29.34%
+                    Slush       15.77%      16,430,986        0.00%               0                     29.56%
+                 GHash.IO        1.19%       1,240,074        0.00%               0                     25.00%
+                BitMinter        0.64%         671,706        0.00%               0                     38.46%
+                  Eligius        0.40%         413,358        0.00%               0                     25.00%
+Default zone117x/NodeStratum        0.35%         361,688        0.00%               0                     28.57%

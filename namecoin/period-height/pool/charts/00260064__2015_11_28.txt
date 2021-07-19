@@ -4,14 +4,14 @@ Block: 260064
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%      38,664,424      100.00%               0           
+              Total Chain      100.00%      38,664,424      100.00%               0           
 
-              F2Pool       69.59%      26,908,339        0.00%               0                     31.58%
-           SlushPool       18.25%       7,057,486        0.00%               0                     27.72%
-             Eligius        4.66%       1,802,727        0.00%               0                     35.11%
-            GHash.IO        4.37%       1,687,659        0.00%               0                     26.14%
-           BitMinter        2.23%         863,007        0.00%               0                     35.56%
-           EclipseMC        0.74%         287,669        0.00%               0                     26.67%
-             Unknown        0.15%          57,533        0.00%               0                     33.33%
+                   F2Pool       69.59%      26,908,339        0.00%               0                     31.58%
+                    Slush       18.25%       7,057,486        0.00%               0                     27.72%
+                  Eligius        4.66%       1,802,727        0.00%               0                     35.11%
+                 GHash.IO        4.37%       1,687,659        0.00%               0                     26.14%
+                BitMinter        2.23%         863,007        0.00%               0                     35.56%
+                EclipseMC        0.74%         287,669        0.00%               0                     26.67%
+                  Unknown        0.15%          57,533        0.00%               0                     33.33%

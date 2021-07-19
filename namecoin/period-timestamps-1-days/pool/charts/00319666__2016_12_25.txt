@@ -4,15 +4,15 @@ Block: 319666
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%     206,278,703      100.00%               0           
+              Total Chain      100.00%     206,278,703      100.00%               0           
 
-              F2Pool       41.55%      85,707,348        0.00%               0                     37.29%
-                BTCC       14.79%      30,506,005        0.00%               0                     61.90%
-           SlushPool       14.79%      30,506,005        0.00%               0                     33.33%
-              ViaBTC       14.08%      29,053,338        0.00%               0                     35.00%
-             BTC.com        9.86%      20,337,336        0.00%               0                     35.71%
-             BTC.TOP        2.82%       5,810,667        0.00%               0                     25.00%
-             Unknown        1.41%       2,905,333        0.00%               0                    100.00%
-               Eobot        0.70%       1,452,666        0.00%               0                    100.00%
+                   F2Pool       41.55%      85,707,348        0.00%               0                     37.29%
+                     BTCC       14.79%      30,506,005        0.00%               0                     61.90%
+                    Slush       14.79%      30,506,005        0.00%               0                     33.33%
+                   ViaBTC       14.08%      29,053,338        0.00%               0                     35.00%
+                  BTC.COM        9.86%      20,337,336        0.00%               0                     35.71%
+                  BTC.TOP        2.82%       5,810,667        0.00%               0                     25.00%
+Default zone117x/NodeStratum        1.41%       2,905,333        0.00%               0                    100.00%
+                  Unknown        0.70%       1,452,666        0.00%               0                    100.00%

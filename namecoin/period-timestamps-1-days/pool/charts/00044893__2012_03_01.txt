@@ -4,14 +4,15 @@ Block: 44893
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%           1,046      100.00%               0           
+              Total Chain      100.00%           1,046      100.00%               0           
 
-           BTC Guild       35.50%             371        0.00%               0                     51.67%
-           SlushPool       31.95%             334        0.00%               0                     37.04%
-             Unknown       13.02%             136        0.00%               0                     59.09%
-              OzCoin        8.28%              86        0.00%               0                     57.14%
-             Eligius        4.73%              49        0.00%               0                     50.00%
-           BitMinter        4.14%              43        0.00%               0                     14.29%
-              NMCbit        2.37%              24        0.00%               0                     50.00%
+                BTC Guild       35.50%             371        0.00%               0                     51.67%
+                    Slush       31.95%             334        0.00%               0                     37.04%
+                   OzCoin        8.28%              86        0.00%               0                     57.14%
+                EclipseMC        6.51%              68        0.00%               0                     72.73%
+                  Unknown        6.51%              68        0.00%               0                     45.45%
+                  Eligius        4.73%              49        0.00%               0                     50.00%
+                BitMinter        4.14%              43        0.00%               0                     14.29%
+                   NMCbit        2.37%              24        0.00%               0                     50.00%

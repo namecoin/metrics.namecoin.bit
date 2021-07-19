@@ -4,19 +4,20 @@ Block: 157244
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%       2,425,366      100.00%               0           
+              Total Chain      100.00%       2,425,366      100.00%               0           
 
-        GHash.IO-190       38.41%         934,976        0.00%               0                     78.57%
-       BTC Guild-190       27.63%         666,725        0.00%               0                     77.06%
-         Eligius-190       12.67%         308,201        0.00%               0                     79.57%
-          F2Pool-190       12.40%         301,564        0.00%               0                     78.82%
-       BitMinter-190        3.01%          72,867        0.00%               0                     71.79%
-         Unknown-190        2.47%          60,562        0.00%               0                     75.00%
-    CloudHashing-190        1.70%          40,373        0.00%               0                     70.45%
-       EclipseMC-190        0.77%          18,112        0.00%               0                     85.00%
-         Polmine-190        0.54%          12,720        0.00%               0                     78.57%
-      Bitparking-190        0.31%           7,466        0.00%               0                     75.00%
-    TripleMining-190        0.04%             967        0.00%               0                    100.00%
-         Unknown-1a1        0.04%             829        0.00%               0                    100.00%
+             GHash.IO-190       38.41%         934,976        0.00%               0                     78.57%
+            BTC Guild-190       27.63%         666,725        0.00%               0                     77.06%
+              Eligius-190       12.67%         308,201        0.00%               0                     79.57%
+               F2Pool-190       12.40%         301,564        0.00%               0                     78.82%
+            BitMinter-190        3.01%          72,867        0.00%               0                     71.79%
+              Unknown-190        1.82%          44,661        0.00%               0                     78.72%
+         CloudHashing-190        1.70%          40,373        0.00%               0                     70.45%
+            EclipseMC-190        0.77%          18,112        0.00%               0                     85.00%
+      Pierce and Paul-190        0.66%          15,900        0.00%               0                     64.71%
+              Polmine-190        0.54%          12,720        0.00%               0                     78.57%
+           Bitparking-190        0.31%           7,466        0.00%               0                     75.00%
+         TripleMining-190        0.04%             967        0.00%               0                    100.00%
+              Unknown-1a1        0.04%             829        0.00%               0                    100.00%

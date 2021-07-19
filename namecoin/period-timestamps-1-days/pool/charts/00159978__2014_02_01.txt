@@ -4,14 +4,16 @@ Block: 159978
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%       3,808,529      100.00%               0           
+              Total Chain      100.00%       3,808,529      100.00%               0           
 
-            GHash.IO       30.34%       1,155,396        0.00%               0                     87.04%
-           BTC Guild       28.09%       1,069,811        0.00%               0                     90.00%
-              F2Pool       19.10%         727,471        0.00%               0                     76.47%
-             Eligius       14.61%         556,302        0.00%               0                     88.46%
-           BitMinter        3.37%         128,377        0.00%               0                    100.00%
-             Unknown        3.37%         128,377        0.00%               0                    100.00%
-        CloudHashing        1.12%          42,792        0.00%               0                     50.00%
+                 GHash.IO       30.34%       1,155,396        0.00%               0                     87.04%
+                BTC Guild       28.09%       1,069,811        0.00%               0                     90.00%
+                   F2Pool       19.10%         727,471        0.00%               0                     76.47%
+                  Eligius       14.61%         556,302        0.00%               0                     88.46%
+                BitMinter        3.37%         128,377        0.00%               0                    100.00%
+                  Unknown        2.25%          85,584        0.00%               0                    100.00%
+             CloudHashing        1.12%          42,792        0.00%               0                     50.00%
+            Give Me Coins        0.56%          21,396        0.00%               0                    100.00%
+          Pierce and Paul        0.56%          21,396        0.00%               0                    100.00%

@@ -4,14 +4,14 @@ Block: 300384
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%     164,554,168      100.00%               0           
+              Total Chain      100.00%     164,554,168      100.00%               0           
 
-              F2Pool       43.60%      71,745,148        0.00%               0                     44.25%
-                BTCC       28.32%      46,605,779        0.00%               0                     45.18%
-              ViaBTC       16.07%      26,445,310        0.00%               0                     45.37%
-           SlushPool       10.86%      17,880,639        0.00%               0                     47.95%
-            GHash.IO        0.50%         816,213        0.00%               0                     30.00%
-           BitMinter        0.35%         571,349        0.00%               0                     57.14%
-             Eligius        0.30%         489,727        0.00%               0                     16.67%
+                   F2Pool       43.60%      71,745,148        0.00%               0                     44.25%
+                     BTCC       28.32%      46,605,779        0.00%               0                     45.18%
+                   ViaBTC       16.07%      26,445,310        0.00%               0                     45.37%
+                    Slush       10.86%      17,880,639        0.00%               0                     47.95%
+                 GHash.IO        0.50%         816,213        0.00%               0                     30.00%
+                BitMinter        0.35%         571,349        0.00%               0                     57.14%
+                  Eligius        0.30%         489,727        0.00%               0                     16.67%

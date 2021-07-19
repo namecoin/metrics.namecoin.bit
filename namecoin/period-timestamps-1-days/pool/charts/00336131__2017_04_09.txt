@@ -4,17 +4,17 @@ Block: 336131
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%     386,173,433      100.00%               0           
+              Total Chain      100.00%     386,173,433      100.00%               0           
 
-             AntPool       26.40%     101,949,786        0.00%               0                     54.55%
-                BTCC       21.60%      83,413,461        0.00%               0                     59.26%
-              F2Pool       20.00%      77,234,686        0.00%               0                     48.00%
-             BTC.TOP        8.80%      33,983,262        0.00%               0                     54.55%
-           SlushPool        7.20%      27,804,487        0.00%               0                     55.56%
-             BTC.com        6.40%      24,715,099        0.00%               0                     62.50%
-              ViaBTC        5.60%      21,625,712        0.00%               0                     28.57%
-             BATPOOL        2.40%       9,268,162        0.00%               0                     66.67%
-               CANOE        0.80%       3,089,387        0.00%               0                      0.00%
-               Eobot        0.80%       3,089,387        0.00%               0                    100.00%
+                  AntPool       26.40%     101,949,786        0.00%               0                     54.55%
+                     BTCC       21.60%      83,413,461        0.00%               0                     59.26%
+                   F2Pool       20.00%      77,234,686        0.00%               0                     48.00%
+                  BTC.TOP        8.80%      33,983,262        0.00%               0                     54.55%
+                    Slush        7.20%      27,804,487        0.00%               0                     55.56%
+                  BTC.COM        6.40%      24,715,099        0.00%               0                     62.50%
+                   ViaBTC        5.60%      21,625,712        0.00%               0                     28.57%
+                  BATPOOL        2.40%       9,268,162        0.00%               0                     66.67%
+                    CANOE        0.80%       3,089,387        0.00%               0                      0.00%
+Default zone117x/NodeStratum        0.80%       3,089,387        0.00%               0                    100.00%

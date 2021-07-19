@@ -4,14 +4,16 @@ Block: 51987
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%             901      100.00%               0           
+              Total Chain      100.00%             901      100.00%               0           
 
-           BTC Guild       34.43%             310        0.00%               0                     30.95%
-           SlushPool       26.23%             236        0.00%               0                     25.00%
-              OzCoin       15.57%             140        0.00%               0                     42.11%
-             Unknown       13.11%             118        0.00%               0                     37.50%
-             Eligius        4.92%              44        0.00%               0                     50.00%
-              NMCbit        3.28%              29        0.00%               0                     50.00%
-              MaxBTC        2.46%              22        0.00%               0                     33.33%
+                BTC Guild       34.43%             310        0.00%               0                     30.95%
+                    Slush       26.23%             236        0.00%               0                     25.00%
+                   OzCoin       15.57%             140        0.00%               0                     42.11%
+                EclipseMC        6.56%              59        0.00%               0                     25.00%
+                  Eligius        4.92%              44        0.00%               0                     50.00%
+                  Unknown        4.10%              36        0.00%               0                     40.00%
+                   NMCbit        3.28%              29        0.00%               0                     50.00%
+                   MaxBTC        2.46%              22        0.00%               0                     33.33%
+              bitclockers        2.46%              22        0.00%               0                     66.67%

@@ -4,15 +4,16 @@ Block: 45179
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%             837      100.00%               0           
+              Total Chain      100.00%             837      100.00%               0           
 
-           SlushPool       30.60%             256        0.00%               0                     36.59%
-           BTC Guild       28.36%             237        0.00%               0                     65.79%
-             Unknown       17.91%             150        0.00%               0                     50.00%
-              OzCoin        9.70%              81        0.00%               0                     46.15%
-             Eligius        7.46%              62        0.00%               0                     20.00%
-           BitMinter        4.48%              37        0.00%               0                     16.67%
-              NMCbit        0.75%               6        0.00%               0                      0.00%
-       simplecoin.us        0.75%               6        0.00%               0                      0.00%
+                    Slush       30.60%             256        0.00%               0                     36.59%
+                BTC Guild       28.36%             237        0.00%               0                     65.79%
+                EclipseMC       11.19%              93        0.00%               0                     46.67%
+                   OzCoin        9.70%              81        0.00%               0                     46.15%
+                  Eligius        7.46%              62        0.00%               0                     20.00%
+                  Unknown        6.72%              56        0.00%               0                     55.56%
+                BitMinter        4.48%              37        0.00%               0                     16.67%
+                   NMCbit        0.75%               6        0.00%               0                      0.00%
+            simplecoin.us        0.75%               6        0.00%               0                      0.00%

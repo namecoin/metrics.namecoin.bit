@@ -4,14 +4,15 @@ Block: 146790
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%         892,928      100.00%               0           
+              Total Chain      100.00%         892,928      100.00%               0           
 
-           BTC Guild       36.41%         325,095        0.00%               0                     53.33%
-            GHash.IO       33.01%         294,752        0.00%               0                     51.47%
-             Eligius       11.17%          99,695        0.00%               0                     52.17%
-           BitMinter        8.74%          78,022        0.00%               0                     66.67%
-              F2Pool        4.37%          39,011        0.00%               0                     77.78%
-             Unknown        3.88%          34,676        0.00%               0                     62.50%
-           EclipseMC        2.43%          21,673        0.00%               0                     60.00%
+                BTC Guild       36.41%         325,095        0.00%               0                     53.33%
+                 GHash.IO       33.01%         294,752        0.00%               0                     51.47%
+                  Eligius       11.17%          99,695        0.00%               0                     52.17%
+                BitMinter        8.74%          78,022        0.00%               0                     66.67%
+                   F2Pool        4.37%          39,011        0.00%               0                     77.78%
+          Pierce and Paul        2.91%          26,007        0.00%               0                     66.67%
+                EclipseMC        2.43%          21,673        0.00%               0                     60.00%
+                  Unknown        0.97%           8,669        0.00%               0                     50.00%

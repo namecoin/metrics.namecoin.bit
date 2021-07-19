@@ -4,16 +4,18 @@ Block: 70422
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%           1,755      100.00%               0           
+              Total Chain      100.00%           1,755      100.00%               0           
 
-           BTC Guild       25.00%             438        0.00%               0                     52.50%
-             Unknown       23.12%             406        0.00%               0                     40.54%
-           SlushPool       15.00%             263        0.00%               0                     41.67%
-           BitMinter       11.25%             197        0.00%               0                     44.44%
-              OzCoin       11.25%             197        0.00%               0                     22.22%
-              MaxBTC        6.25%             109        0.00%               0                     30.00%
-             Eligius        4.38%              76        0.00%               0                     42.86%
-        TripleMining        3.12%              54        0.00%               0                     40.00%
-              NMCbit        0.62%              10        0.00%               0                    100.00%
+                BTC Guild       25.00%             438        0.00%               0                     52.50%
+                    Slush       15.00%             263        0.00%               0                     41.67%
+                EclipseMC       12.50%             219        0.00%               0                     35.00%
+                BitMinter       11.25%             197        0.00%               0                     44.44%
+                   OzCoin       11.25%             197        0.00%               0                     22.22%
+                  Unknown       10.00%             175        0.00%               0                     43.75%
+                   MaxBTC        6.25%             109        0.00%               0                     30.00%
+                  Eligius        4.38%              76        0.00%               0                     42.86%
+             TripleMining        3.12%              54        0.00%               0                     40.00%
+                   NMCbit        0.62%              10        0.00%               0                    100.00%
+              poolserverj        0.62%              10        0.00%               0                    100.00%

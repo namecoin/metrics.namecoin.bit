@@ -4,15 +4,15 @@ Block: 165273
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%       5,313,469      100.00%               0           
+              Total Chain      100.00%       5,313,469      100.00%               0           
 
-            GHash.IO       27.17%       1,443,543        0.00%               0                     61.70%
-           BTC Guild       25.43%       1,351,402        0.00%               0                     70.45%
-             Eligius       21.97%       1,167,120        0.00%               0                     63.16%
-              F2Pool       15.03%         798,556        0.00%               0                     76.92%
-        CloudHashing        5.20%         276,423        0.00%               0                     77.78%
-           BitMinter        3.47%         184,282        0.00%               0                     50.00%
-           EclipseMC        1.16%          61,427        0.00%               0                    100.00%
-             Unknown        0.58%          30,713        0.00%               0                    100.00%
+                 GHash.IO       27.17%       1,443,543        0.00%               0                     61.70%
+                BTC Guild       25.43%       1,351,402        0.00%               0                     70.45%
+                  Eligius       21.97%       1,167,120        0.00%               0                     63.16%
+                   F2Pool       15.03%         798,556        0.00%               0                     76.92%
+             CloudHashing        5.20%         276,423        0.00%               0                     77.78%
+                BitMinter        3.47%         184,282        0.00%               0                     50.00%
+                EclipseMC        1.16%          61,427        0.00%               0                    100.00%
+          Pierce and Paul        0.58%          30,713        0.00%               0                    100.00%

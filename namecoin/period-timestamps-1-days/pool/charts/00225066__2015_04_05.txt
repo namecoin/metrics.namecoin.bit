@@ -4,15 +4,15 @@ Block: 225066
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%      23,604,449      100.00%               0           
+              Total Chain      100.00%      23,604,449      100.00%               0           
 
-              F2Pool       64.29%      15,174,288        0.00%               0                     29.63%
-             Eligius        8.73%       2,060,705        0.00%               0                     27.27%
-           BTC Guild        7.94%       1,873,368        0.00%               0                     50.00%
-             Polmine        7.14%       1,686,032        0.00%               0                     22.22%
-            GHash.IO        5.56%       1,311,358        0.00%               0                     42.86%
-           BitMinter        3.97%         936,684        0.00%               0                     40.00%
-           EclipseMC        1.59%         374,673        0.00%               0                      0.00%
-             Bitsolo        0.79%         187,336        0.00%               0                      0.00%
+                   F2Pool       64.29%      15,174,288        0.00%               0                     29.63%
+                  Eligius        8.73%       2,060,705        0.00%               0                     27.27%
+                BTC Guild        7.94%       1,873,368        0.00%               0                     50.00%
+                  Polmine        7.14%       1,686,032        0.00%               0                     22.22%
+                 GHash.IO        5.56%       1,311,358        0.00%               0                     42.86%
+                BitMinter        3.97%         936,684        0.00%               0                     40.00%
+                EclipseMC        1.59%         374,673        0.00%               0                      0.00%
+                  Bitsolo        0.79%         187,336        0.00%               0                      0.00%

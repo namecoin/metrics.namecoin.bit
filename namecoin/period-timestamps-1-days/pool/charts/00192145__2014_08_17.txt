@@ -4,15 +4,15 @@ Block: 192145
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%      24,540,931      100.00%               0           
+              Total Chain      100.00%      24,540,931      100.00%               0           
 
-            GHash.IO       38.62%       9,477,877        0.00%               0                     71.43%
-              F2Pool       35.86%       8,800,885        0.00%               0                     71.15%
-           BTC Guild       11.72%       2,877,212        0.00%               0                     76.47%
-             Eligius        5.52%       1,353,982        0.00%               0                     75.00%
-             AntPool        4.14%       1,015,486        0.00%               0                     66.67%
-           BitMinter        1.38%         338,495        0.00%               0                    100.00%
-           EclipseMC        1.38%         338,495        0.00%               0                    100.00%
-             Polmine        1.38%         338,495        0.00%               0                    100.00%
+                 GHash.IO       38.62%       9,477,877        0.00%               0                     71.43%
+                   F2Pool       35.86%       8,800,885        0.00%               0                     71.15%
+                BTC Guild       11.72%       2,877,212        0.00%               0                     76.47%
+                  Eligius        5.52%       1,353,982        0.00%               0                     75.00%
+                  AntPool        4.14%       1,015,486        0.00%               0                     66.67%
+                BitMinter        1.38%         338,495        0.00%               0                    100.00%
+                EclipseMC        1.38%         338,495        0.00%               0                    100.00%
+                  Polmine        1.38%         338,495        0.00%               0                    100.00%

@@ -4,17 +4,17 @@ Block: 184500
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%      19,627,220      100.00%               0           
+              Total Chain      100.00%      19,627,220      100.00%               0           
 
-            GHash.IO       43.56%       8,549,280        0.00%               0                     70.42%
-              F2Pool       21.47%       4,214,433        0.00%               0                     82.86%
-             Eligius        9.20%       1,806,185        0.00%               0                     80.00%
-           BTC Guild        8.59%       1,685,773        0.00%               0                     71.43%
-        CloudHashing        5.52%       1,083,711        0.00%               0                     77.78%
-             Polmine        4.29%         842,886        0.00%               0                     85.71%
-             AntPool        2.45%         481,649        0.00%               0                    100.00%
-           BitMinter        2.45%         481,649        0.00%               0                     50.00%
-           EclipseMC        1.23%         240,824        0.00%               0                    100.00%
-             Unknown        1.23%         240,824        0.00%               0                     50.00%
+                 GHash.IO       43.56%       8,549,280        0.00%               0                     70.42%
+                   F2Pool       21.47%       4,214,433        0.00%               0                     82.86%
+                  Eligius        9.20%       1,806,185        0.00%               0                     80.00%
+                BTC Guild        8.59%       1,685,773        0.00%               0                     71.43%
+             CloudHashing        5.52%       1,083,711        0.00%               0                     77.78%
+                  Polmine        4.29%         842,886        0.00%               0                     85.71%
+                  AntPool        2.45%         481,649        0.00%               0                    100.00%
+                BitMinter        2.45%         481,649        0.00%               0                     50.00%
+                EclipseMC        1.23%         240,824        0.00%               0                    100.00%
+                  Unknown        1.23%         240,824        0.00%               0                     50.00%

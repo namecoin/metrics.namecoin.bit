@@ -4,16 +4,17 @@ Block: 231458
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%      22,858,820      100.00%               0           
+              Total Chain      100.00%      22,858,820      100.00%               0           
 
-              F2Pool       73.10%      16,708,385        0.00%               0                     31.56%
-            GHash.IO        8.42%       1,924,301        0.00%               0                     25.32%
-           BTC Guild        7.09%       1,619,857        0.00%               0                     32.33%
-             Eligius        5.97%       1,363,730        0.00%               0                     26.79%
-             Polmine        2.24%         511,966        0.00%               0                     21.43%
-           BitMinter        2.08%         474,882        0.00%               0                     35.90%
-           EclipseMC        0.64%         146,101        0.00%               0                     25.00%
-             Unknown        0.37%          85,255        0.00%               0                     57.14%
-              mmpool        0.11%          24,338        0.00%               0                      0.00%
+                   F2Pool       73.10%      16,708,385        0.00%               0                     31.56%
+                 GHash.IO        8.42%       1,924,301        0.00%               0                     25.32%
+                BTC Guild        7.09%       1,619,857        0.00%               0                     32.33%
+                  Eligius        5.97%       1,363,730        0.00%               0                     26.79%
+                  Polmine        2.24%         511,966        0.00%               0                     21.43%
+                BitMinter        2.08%         474,882        0.00%               0                     35.90%
+                EclipseMC        0.64%         146,101        0.00%               0                     25.00%
+                  Unknown        0.32%          73,086        0.00%               0                     66.67%
+                   MMPool        0.11%          24,338        0.00%               0                      0.00%
+            Give Me Coins        0.05%          12,169        0.00%               0                      0.00%

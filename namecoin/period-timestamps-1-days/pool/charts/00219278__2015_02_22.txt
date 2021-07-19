@@ -4,15 +4,15 @@ Block: 219278
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%      25,354,047      100.00%               0           
+              Total Chain      100.00%      25,354,047      100.00%               0           
 
-              F2Pool       42.96%      10,892,850        0.00%               0                     31.03%
-             Unknown       18.52%       4,695,194        0.00%               0                     28.00%
-            GHash.IO       17.04%       4,319,578        0.00%               0                     39.13%
-           BTC Guild        8.15%       2,065,885        0.00%               0                     27.27%
-             Eligius        5.19%       1,314,654        0.00%               0                     42.86%
-            Tangpool        4.44%       1,126,846        0.00%               0                     66.67%
-               Bixin        2.96%         751,231        0.00%               0                     50.00%
-             Bitsolo        0.74%         187,807        0.00%               0                    100.00%
+                   F2Pool       42.96%      10,892,850        0.00%               0                     31.03%
+                  Unknown       18.52%       4,695,194        0.00%               0                     28.00%
+                 GHash.IO       17.04%       4,319,578        0.00%               0                     39.13%
+                BTC Guild        8.15%       2,065,885        0.00%               0                     27.27%
+                  Eligius        5.19%       1,314,654        0.00%               0                     42.86%
+                 TangPool        4.44%       1,126,846        0.00%               0                     66.67%
+                    Bixin        2.96%         751,231        0.00%               0                     50.00%
+                  Bitsolo        0.74%         187,807        0.00%               0                    100.00%

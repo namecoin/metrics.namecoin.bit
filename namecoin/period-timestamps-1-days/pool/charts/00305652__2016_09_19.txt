@@ -4,15 +4,15 @@ Block: 305652
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%     213,308,405      100.00%               0           
+              Total Chain      100.00%     213,308,405      100.00%               0           
 
-              F2Pool       37.50%      79,990,652        0.00%               0                     43.33%
-                BTCC       22.50%      47,994,391        0.00%               0                     50.00%
-              ViaBTC       21.88%      46,661,213        0.00%               0                     54.29%
-           SlushPool       10.00%      21,330,840        0.00%               0                     50.00%
-             BTC.com        4.38%       9,332,242        0.00%               0                     42.86%
-           BitMinter        1.25%       2,666,355        0.00%               0                     50.00%
-            GHash.IO        1.25%       2,666,355        0.00%               0                     50.00%
-             Unknown        1.25%       2,666,355        0.00%               0                    100.00%
+                   F2Pool       37.50%      79,990,652        0.00%               0                     43.33%
+                     BTCC       22.50%      47,994,391        0.00%               0                     50.00%
+                   ViaBTC       21.88%      46,661,213        0.00%               0                     54.29%
+                    Slush       10.00%      21,330,840        0.00%               0                     50.00%
+                  BTC.COM        4.38%       9,332,242        0.00%               0                     42.86%
+                BitMinter        1.25%       2,666,355        0.00%               0                     50.00%
+                 GHash.IO        1.25%       2,666,355        0.00%               0                     50.00%
+                  Unknown        1.25%       2,666,355        0.00%               0                    100.00%

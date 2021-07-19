@@ -4,14 +4,14 @@ Block: 208973
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%      33,491,294      100.00%               0           
+              Total Chain      100.00%      33,491,294      100.00%               0           
 
-              F2Pool       57.25%      19,174,405        0.00%               0                     65.33%
-            GHash.IO       24.43%       8,181,079        0.00%               0                     59.38%
-           BTC Guild        9.92%       3,323,563        0.00%               0                     46.15%
-             Eligius        5.34%       1,789,611        0.00%               0                     42.86%
-             AntPool        1.53%         511,317        0.00%               0                     50.00%
-           BitMinter        0.76%         255,658        0.00%               0                    100.00%
-        CloudHashing        0.76%         255,658        0.00%               0                    100.00%
+                   F2Pool       57.25%      19,174,405        0.00%               0                     65.33%
+                 GHash.IO       24.43%       8,181,079        0.00%               0                     59.38%
+                BTC Guild        9.92%       3,323,563        0.00%               0                     46.15%
+                  Eligius        5.34%       1,789,611        0.00%               0                     42.86%
+                  AntPool        1.53%         511,317        0.00%               0                     50.00%
+                BitMinter        0.76%         255,658        0.00%               0                    100.00%
+             CloudHashing        0.76%         255,658        0.00%               0                    100.00%

@@ -4,15 +4,15 @@ Block: 327475
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%     281,801,923      100.00%               0           
+              Total Chain      100.00%     281,801,923      100.00%               0           
 
-              F2Pool       31.78%      89,564,952        0.00%               0                     41.46%
-                BTCC       16.28%      45,874,731        0.00%               0                     38.10%
-              ViaBTC       14.73%      41,505,709        0.00%               0                     68.42%
-           SlushPool       13.95%      39,321,198        0.00%               0                     50.00%
-             BTC.TOP       10.85%      30,583,154        0.00%               0                     57.14%
-             BTC.com       10.85%      30,583,154        0.00%               0                     57.14%
-             BATPOOL        0.78%       2,184,511        0.00%               0                      0.00%
-               Eobot        0.78%       2,184,511        0.00%               0                      0.00%
+                   F2Pool       31.78%      89,564,952        0.00%               0                     41.46%
+                     BTCC       16.28%      45,874,731        0.00%               0                     38.10%
+                   ViaBTC       14.73%      41,505,709        0.00%               0                     68.42%
+                    Slush       13.95%      39,321,198        0.00%               0                     50.00%
+                  BTC.COM       10.85%      30,583,154        0.00%               0                     57.14%
+                  BTC.TOP       10.85%      30,583,154        0.00%               0                     57.14%
+                  BATPOOL        0.78%       2,184,511        0.00%               0                      0.00%
+Default zone117x/NodeStratum        0.78%       2,184,511        0.00%               0                      0.00%

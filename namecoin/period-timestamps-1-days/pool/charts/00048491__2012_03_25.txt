@@ -4,14 +4,15 @@ Block: 48491
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%           1,138      100.00%               0           
+              Total Chain      100.00%           1,138      100.00%               0           
 
-           BTC Guild       37.87%             432        0.00%               0                     43.75%
-           SlushPool       28.40%             322        0.00%               0                     43.75%
-             Unknown       15.38%             175        0.00%               0                     42.31%
-              OzCoin        7.10%              80        0.00%               0                     41.67%
-             Eligius        7.10%              80        0.00%               0                     50.00%
-           BitMinter        3.55%              40        0.00%               0                     33.33%
-       simplecoin.us        0.59%               6        0.00%               0                      0.00%
+                BTC Guild       37.87%             432        0.00%               0                     43.75%
+                    Slush       28.40%             322        0.00%               0                     43.75%
+                  Unknown       10.06%             114        0.00%               0                     47.06%
+                   OzCoin        7.10%              80        0.00%               0                     41.67%
+                  Eligius        7.10%              80        0.00%               0                     50.00%
+                EclipseMC        5.33%              60        0.00%               0                     33.33%
+                BitMinter        3.55%              40        0.00%               0                     33.33%
+            simplecoin.us        0.59%               6        0.00%               0                      0.00%

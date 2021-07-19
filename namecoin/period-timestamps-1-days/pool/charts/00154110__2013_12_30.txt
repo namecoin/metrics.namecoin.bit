@@ -4,15 +4,15 @@ Block: 154110
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%       1,800,165      100.00%               0           
+              Total Chain      100.00%       1,800,165      100.00%               0           
 
-            GHash.IO       36.13%         650,382        0.00%               0                     85.71%
-           BTC Guild       23.87%         429,716        0.00%               0                     78.38%
-             Eligius       15.48%         278,735        0.00%               0                     87.50%
-              F2Pool       14.84%         267,121        0.00%               0                     95.65%
-           EclipseMC        5.16%          92,911        0.00%               0                     62.50%
-           BitMinter        1.94%          34,841        0.00%               0                     66.67%
-             Unknown        1.94%          34,841        0.00%               0                    100.00%
-        TripleMining        0.65%          11,613        0.00%               0                    100.00%
+                 GHash.IO       36.13%         650,382        0.00%               0                     85.71%
+                BTC Guild       23.87%         429,716        0.00%               0                     78.38%
+                  Eligius       15.48%         278,735        0.00%               0                     87.50%
+                   F2Pool       14.84%         267,121        0.00%               0                     95.65%
+                EclipseMC        5.16%          92,911        0.00%               0                     62.50%
+                BitMinter        1.94%          34,841        0.00%               0                     66.67%
+          Pierce and Paul        1.94%          34,841        0.00%               0                    100.00%
+             TripleMining        0.65%          11,613        0.00%               0                    100.00%

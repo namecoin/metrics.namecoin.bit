@@ -4,19 +4,19 @@ Block: 326592
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%     318,025,809      100.00%               0           
+              Total Chain      100.00%     318,025,809      100.00%               0           
 
-              F2Pool       31.85%     101,265,731        0.00%               0                     40.19%
-              ViaBTC       19.35%      61,549,048        0.00%               0                     40.77%
-                BTCC       16.42%      52,210,213        0.00%               0                     38.67%
-           SlushPool       10.91%      34,701,652        0.00%               0                     41.82%
-             BTC.TOP       10.37%      32,966,570        0.00%               0                     52.63%
-             BTC.com        8.28%      26,341,709        0.00%               0                     37.72%
-             BATPOOL        1.74%       5,520,717        0.00%               0                     42.86%
-            PHash.IO        0.60%       1,892,817        0.00%               0                     66.67%
-             Unknown        0.20%         630,939        0.00%               0                    100.00%
-               Eobot        0.15%         473,204        0.00%               0                     33.33%
-             Eligius        0.10%         315,469        0.00%               0                     50.00%
-           BitMinter        0.05%         157,734        0.00%               0                    100.00%
+                   F2Pool       31.85%     101,265,731        0.00%               0                     40.19%
+                   ViaBTC       19.35%      61,549,048        0.00%               0                     40.77%
+                     BTCC       16.42%      52,210,213        0.00%               0                     38.67%
+                    Slush       10.91%      34,701,652        0.00%               0                     41.82%
+                  BTC.TOP       10.37%      32,966,570        0.00%               0                     52.63%
+                  BTC.COM        8.28%      26,341,709        0.00%               0                     37.72%
+                  BATPOOL        1.74%       5,520,717        0.00%               0                     42.86%
+                 PHash.IO        0.60%       1,892,817        0.00%               0                     66.67%
+                  Unknown        0.20%         630,939        0.00%               0                    100.00%
+Default zone117x/NodeStratum        0.15%         473,204        0.00%               0                     33.33%
+                  Eligius        0.10%         315,469        0.00%               0                     50.00%
+                BitMinter        0.05%         157,734        0.00%               0                    100.00%

@@ -4,19 +4,19 @@ Block: 118944
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%          13,118      100.00%               0           
+              Total Chain      100.00%          13,118      100.00%               0           
 
-           BTC Guild       58.43%           7,666        0.00%               0                     33.36%
-              F2Pool        9.62%           1,262        0.00%               0                     34.02%
-           BitMinter        7.34%             962        0.00%               0                     27.03%
-             Eligius        6.80%             891        0.00%               0                     29.20%
-           ASICMiner        6.20%             813        0.00%               0                     33.60%
-           EclipseMC        5.80%             761        0.00%               0                     35.90%
-          Bitparking        3.57%             468        0.00%               0                     31.94%
-             Polmine        1.49%             195        0.00%               0                     33.33%
-        TripleMining        0.40%              52        0.00%               0                     25.00%
-             Unknown        0.20%              26        0.00%               0                      0.00%
-           SlushPool        0.10%              13        0.00%               0                    100.00%
-              MaxBTC        0.05%               6        0.00%               0                      0.00%
+                BTC Guild       58.43%           7,666        0.00%               0                     33.36%
+                   F2Pool        9.62%           1,262        0.00%               0                     34.02%
+                BitMinter        7.34%             962        0.00%               0                     27.03%
+                  Eligius        6.80%             891        0.00%               0                     29.20%
+                ASICMiner        6.20%             813        0.00%               0                     33.60%
+                EclipseMC        5.80%             761        0.00%               0                     35.90%
+               Bitparking        3.57%             468        0.00%               0                     31.94%
+                  Polmine        1.49%             195        0.00%               0                     33.33%
+             TripleMining        0.40%              52        0.00%               0                     25.00%
+                  Unknown        0.20%              26        0.00%               0                      0.00%
+                    Slush        0.10%              13        0.00%               0                    100.00%
+                   MaxBTC        0.05%               6        0.00%               0                      0.00%

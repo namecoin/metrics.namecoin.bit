@@ -4,16 +4,16 @@ Block: 224674
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%      23,721,678      100.00%               0           
+              Total Chain      100.00%      23,721,678      100.00%               0           
 
-              F2Pool       59.52%      14,120,046        0.00%               0                     32.00%
-            GHash.IO       11.11%       2,635,742        0.00%               0                     28.57%
-           BTC Guild       10.32%       2,447,474        0.00%               0                     38.46%
-             Polmine        7.14%       1,694,405        0.00%               0                     22.22%
-             Eligius        5.56%       1,317,871        0.00%               0                     42.86%
-           BitMinter        3.17%         753,069        0.00%               0                     75.00%
-            Tangpool        1.59%         376,534        0.00%               0                      0.00%
-             Bitsolo        0.79%         188,267        0.00%               0                      0.00%
-               Bixin        0.79%         188,267        0.00%               0                    100.00%
+                   F2Pool       59.52%      14,120,046        0.00%               0                     32.00%
+                 GHash.IO       11.11%       2,635,742        0.00%               0                     28.57%
+                BTC Guild       10.32%       2,447,474        0.00%               0                     38.46%
+                  Polmine        7.14%       1,694,405        0.00%               0                     22.22%
+                  Eligius        5.56%       1,317,871        0.00%               0                     42.86%
+                BitMinter        3.17%         753,069        0.00%               0                     75.00%
+                 TangPool        1.59%         376,534        0.00%               0                      0.00%
+                  BTC.COM        0.79%         188,267        0.00%               0                    100.00%
+                  Bitsolo        0.79%         188,267        0.00%               0                      0.00%

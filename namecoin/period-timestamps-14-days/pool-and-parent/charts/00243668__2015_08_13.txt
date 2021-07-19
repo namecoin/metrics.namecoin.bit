@@ -4,15 +4,16 @@ Block: 243668
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%      24,423,752      100.00%               0           
+              Total Chain      100.00%      24,423,752      100.00%               0           
 
-          F2Pool-181       67.44%      16,451,482        0.00%               0                     27.46%
-         Eligius-181       12.63%       3,086,772        0.00%               0                     28.69%
-       SlushPool-181       10.97%       2,691,322        0.00%               0                     31.65%
-        GHash.IO-181        5.39%       1,316,398        0.00%               0                     28.97%
-       BitMinter-181        2.57%         634,259        0.00%               0                     29.41%
-       EclipseMC-181        0.65%         159,153        0.00%               0                      0.00%
-         Unknown-181        0.30%          71,899        0.00%               0                     16.67%
-          mmpool-181        0.05%          12,464        0.00%               0                      0.00%
+               F2Pool-181       67.44%      16,451,482        0.00%               0                     27.46%
+              Eligius-181       12.63%       3,086,772        0.00%               0                     28.69%
+                Slush-181       10.97%       2,691,322        0.00%               0                     31.65%
+             GHash.IO-181        5.39%       1,316,398        0.00%               0                     28.97%
+            BitMinter-181        2.57%         634,259        0.00%               0                     29.41%
+            EclipseMC-181        0.65%         159,153        0.00%               0                      0.00%
+              Unknown-181        0.20%          46,970        0.00%               0                     25.00%
+        Give Me Coins-181        0.10%          24,929        0.00%               0                      0.00%
+               MMPool-181        0.05%          12,464        0.00%               0                      0.00%

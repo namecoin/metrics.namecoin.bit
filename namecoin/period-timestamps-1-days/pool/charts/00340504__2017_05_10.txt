@@ -4,16 +4,16 @@ Block: 340504
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%     474,796,618      100.00%               0           
+              Total Chain      100.00%     474,796,618      100.00%               0           
 
-             AntPool       30.90%     146,706,820        0.00%               0                     49.09%
-              F2Pool       15.17%      72,019,711        0.00%               0                     40.74%
-                BTCC       12.36%      58,682,728        0.00%               0                     18.18%
-              ViaBTC       11.80%      56,015,331        0.00%               0                     71.43%
-             BTC.com       11.24%      53,347,934        0.00%               0                     65.00%
-           SlushPool       10.67%      50,680,537        0.00%               0                     21.05%
-               CANOE        3.93%      18,671,777        0.00%               0                     28.57%
-               1Hash        2.25%      10,669,586        0.00%               0                    100.00%
-             Unknown        1.69%       8,002,190        0.00%               0                     33.33%
+                  AntPool       30.90%     146,706,820        0.00%               0                     49.09%
+                   F2Pool       15.17%      72,019,711        0.00%               0                     40.74%
+                     BTCC       12.36%      58,682,728        0.00%               0                     18.18%
+                   ViaBTC       11.80%      56,015,331        0.00%               0                     71.43%
+                  BTC.COM       11.24%      53,347,934        0.00%               0                     65.00%
+                    Slush       10.67%      50,680,537        0.00%               0                     21.05%
+                    CANOE        3.93%      18,671,777        0.00%               0                     28.57%
+                    1Hash        2.25%      10,669,586        0.00%               0                    100.00%
+                  Unknown        1.69%       8,002,190        0.00%               0                     33.33%

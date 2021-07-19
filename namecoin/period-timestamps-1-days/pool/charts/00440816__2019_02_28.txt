@@ -4,16 +4,15 @@ Block: 440816
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%   6,974,502,267      100.00%               0           
+              Total Chain      100.00%   6,974,502,267      100.00%               0           
 
-             BTC.com       24.80%   1,729,676,562        0.00%               0                     93.55%
-             AntPool       13.60%     948,532,308        0.00%               0                     82.35%
-              F2Pool       13.60%     948,532,308        0.00%               0                     94.12%
-             BTC.TOP       12.00%     836,940,272        0.00%               0                     73.33%
-              Poolin       12.00%     836,940,272        0.00%               0                     73.33%
-              ViaBTC       11.20%     781,144,253        0.00%               0                     85.71%
-           SlushPool        8.80%     613,756,199        0.00%               0                    100.00%
-          Huobi.pool        3.20%     223,184,072        0.00%               0                    100.00%
-             WAYI.CN        0.80%      55,796,018        0.00%               0                    100.00%
+                  BTC.COM       24.80%   1,729,676,562        0.00%               0                     93.55%
+                  AntPool       13.60%     948,532,308        0.00%               0                     82.35%
+                   F2Pool       13.60%     948,532,308        0.00%               0                     94.12%
+                  BTC.TOP       12.80%     892,736,290        0.00%               0                     75.00%
+                   Poolin       12.00%     836,940,272        0.00%               0                     73.33%
+                   ViaBTC       11.20%     781,144,253        0.00%               0                     85.71%
+                    Slush        8.80%     613,756,199        0.00%               0                    100.00%
+                    Huobi        3.20%     223,184,072        0.00%               0                    100.00%

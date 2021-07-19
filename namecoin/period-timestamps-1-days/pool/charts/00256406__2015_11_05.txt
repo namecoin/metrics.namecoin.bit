@@ -4,14 +4,14 @@ Block: 256406
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%      36,448,032      100.00%               0           
+              Total Chain      100.00%      36,448,032      100.00%               0           
 
-              F2Pool       62.42%      22,751,001        0.00%               0                     30.61%
-           SlushPool       25.48%       9,286,122        0.00%               0                     27.50%
-           BitMinter        3.82%       1,392,918        0.00%               0                     16.67%
-             Eligius        3.82%       1,392,918        0.00%               0                     16.67%
-            GHash.IO        3.18%       1,160,765        0.00%               0                     40.00%
-             Unknown        0.64%         232,153        0.00%               0                    100.00%
-      myBTCcoin Pool        0.64%         232,153        0.00%               0                      0.00%
+                   F2Pool       62.42%      22,751,001        0.00%               0                     30.61%
+                    Slush       25.48%       9,286,122        0.00%               0                     27.50%
+                BitMinter        3.82%       1,392,918        0.00%               0                     16.67%
+                  Eligius        3.82%       1,392,918        0.00%               0                     16.67%
+                 GHash.IO        3.18%       1,160,765        0.00%               0                     40.00%
+Default zone117x/NodeStratum        0.64%         232,153        0.00%               0                      0.00%
+                  Unknown        0.64%         232,153        0.00%               0                    100.00%

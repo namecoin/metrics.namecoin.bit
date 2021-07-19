@@ -4,16 +4,17 @@ Block: 96121
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%           1,552      100.00%               0           
+              Total Chain      100.00%           1,552      100.00%               0           
 
-       BTC Guild-1a0       29.30%             454        0.00%               0                     32.01%
-       BitMinter-1a0       24.54%             381        0.00%               0                     28.12%
-       EclipseMC-1a0       16.18%             250        0.00%               0                     27.33%
-       SlushPool-1a0        9.09%             141        0.00%               0                     32.09%
-          OzCoin-1a0        8.11%             126        0.00%               0                     21.56%
-         Unknown-1a0        7.00%             108        0.00%               0                     31.25%
-          MaxBTC-1a0        2.53%              39        0.00%               0                     25.00%
-         Eligius-1a0        2.48%              38        0.00%               0                     33.33%
-    TripleMining-1a0        0.78%              12        0.00%               0                     31.25%
+            BTC Guild-1a0       29.30%             454        0.00%               0                     32.01%
+            BitMinter-1a0       24.54%             381        0.00%               0                     28.12%
+            EclipseMC-1a0       16.18%             250        0.00%               0                     27.33%
+                Slush-1a0        9.09%             141        0.00%               0                     32.09%
+               OzCoin-1a0        8.11%             126        0.00%               0                     21.56%
+              Unknown-1a0        5.73%              88        0.00%               0                     30.51%
+               MaxBTC-1a0        2.53%              39        0.00%               0                     25.00%
+              Eligius-1a0        2.48%              38        0.00%               0                     33.33%
+          poolserverj-1a0        1.26%              19        0.00%               0                     34.62%
+         TripleMining-1a0        0.78%              12        0.00%               0                     31.25%

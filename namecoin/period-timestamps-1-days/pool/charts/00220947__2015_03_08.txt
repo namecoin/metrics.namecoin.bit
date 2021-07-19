@@ -4,15 +4,15 @@ Block: 220947
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%      24,790,956      100.00%               0           
+              Total Chain      100.00%      24,790,956      100.00%               0           
 
-              F2Pool       45.11%      11,183,890        0.00%               0                     35.00%
-             Unknown       17.29%       4,287,157        0.00%               0                     52.17%
-           BTC Guild       11.28%       2,795,972        0.00%               0                     26.67%
-            GHash.IO        9.77%       2,423,176        0.00%               0                     23.08%
-            Tangpool        8.27%       2,050,379        0.00%               0                     36.36%
-           BitMinter        3.76%         931,990        0.00%               0                     60.00%
-             Eligius        3.01%         745,592        0.00%               0                      0.00%
-           EclipseMC        1.50%         372,796        0.00%               0                    100.00%
+                   F2Pool       45.11%      11,183,890        0.00%               0                     35.00%
+                  Unknown       17.29%       4,287,157        0.00%               0                     52.17%
+                BTC Guild       11.28%       2,795,972        0.00%               0                     26.67%
+                 GHash.IO        9.77%       2,423,176        0.00%               0                     23.08%
+                 TangPool        8.27%       2,050,379        0.00%               0                     36.36%
+                BitMinter        3.76%         931,990        0.00%               0                     60.00%
+                  Eligius        3.01%         745,592        0.00%               0                      0.00%
+                EclipseMC        1.50%         372,796        0.00%               0                    100.00%

@@ -4,14 +4,15 @@ Block: 64368
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%           1,385      100.00%               0           
+              Total Chain      100.00%           1,385      100.00%               0           
 
-           BTC Guild       26.54%             367        0.00%               0                     27.91%
-           SlushPool       20.37%             282        0.00%               0                     54.55%
-              OzCoin       17.90%             248        0.00%               0                     48.28%
-             Unknown       17.90%             248        0.00%               0                     58.62%
-           BitMinter       10.49%             145        0.00%               0                     47.06%
-             Eligius        4.32%              59        0.00%               0                     57.14%
-        TripleMining        2.47%              34        0.00%               0                     50.00%
+                BTC Guild       26.54%             367        0.00%               0                     27.91%
+                    Slush       20.37%             282        0.00%               0                     54.55%
+                   OzCoin       17.90%             248        0.00%               0                     48.28%
+                BitMinter       10.49%             145        0.00%               0                     47.06%
+                  Unknown        9.26%             128        0.00%               0                     46.67%
+                EclipseMC        8.64%             119        0.00%               0                     71.43%
+                  Eligius        4.32%              59        0.00%               0                     57.14%
+             TripleMining        2.47%              34        0.00%               0                     50.00%

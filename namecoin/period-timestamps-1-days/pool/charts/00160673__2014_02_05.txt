@@ -4,14 +4,15 @@ Block: 160673
 
 Hashrate (in Difficulty units per second; 1 Difficulty unit == 4 GiHash):
 
-                       % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
+                            % of chain        Namecoin   % of chain         Bitcoin   % of par   % hit par tgt
 
-         Total Chain      100.00%       3,625,236      100.00%               0           
+              Total Chain      100.00%       3,625,236      100.00%               0           
 
-            GHash.IO       33.14%       1,201,261        0.00%               0                     80.36%
-           BTC Guild       30.18%       1,094,006        0.00%               0                     80.39%
-             Eligius       18.34%         664,984        0.00%               0                     83.87%
-              F2Pool       14.20%         514,826        0.00%               0                     83.33%
-             Unknown        2.37%          85,804        0.00%               0                    100.00%
-           BitMinter        1.18%          42,902        0.00%               0                    100.00%
-             Polmine        0.59%          21,451        0.00%               0                    100.00%
+                 GHash.IO       33.14%       1,201,261        0.00%               0                     80.36%
+                BTC Guild       30.18%       1,094,006        0.00%               0                     80.39%
+                  Eligius       18.34%         664,984        0.00%               0                     83.87%
+                   F2Pool       14.20%         514,826        0.00%               0                     83.33%
+                  Unknown        1.78%          64,353        0.00%               0                    100.00%
+                BitMinter        1.18%          42,902        0.00%               0                    100.00%
+          Pierce and Paul        0.59%          21,451        0.00%               0                    100.00%
+                  Polmine        0.59%          21,451        0.00%               0                    100.00%
